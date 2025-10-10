@@ -1,0 +1,1603 @@
+student_id,name,subject,score,date,attendance,categorize_performance
+1086,Dale,Computer Science,64.0,2021-08-31,absent,Medium
+1320,John,Mathematics,78.0,2021-02-27,Present,Medium
+1327,Scott,Computer Science,74.0,2022-09-05,Present,Medium
+1327,Todd,Computer Science,60.0,2022-09-19,Present,Medium
+1327,Bryce,Computer Science,78.7,2024-09-11,Present,Medium
+1055,Jessica,Biology,79.0,2020-06-21,Present,Medium
+1055,Rachel,Biology,77.0,2024-02-18,Present,Medium
+1055,Brittany,Biology,66.0,2021-01-18,Present,Medium
+1055,Linda,Biology,77.9,2023-11-14,absent,Medium
+1055,Anthony,Biology,71.0,2023-05-18,Present,Medium
+1262,Ann,Biology,77.9,2023-01-18,Present,Medium
+1084,Allison,Computer Science,78.7,2022-03-15,absent,Medium
+1084,Dorothy,Computer Science,78.7,2024-08-20,Absent,Medium
+1084,Ashley,Computer Science,97.0,2020-09-14,Absent,High
+1228,Vanessa,Biology,99.0,2020-04-22,absent,High
+1228,Molly,Biology,63.0,2022-11-03,Present,Medium
+1228,Sarah,Biology,77.9,2022-06-08,Present,Medium
+1115,Brenda,Physics,76.0,2022-03-02,Present,Medium
+1358,Patricia,Biology,98.0,2023-03-24,Absent,High
+1358,Eric,Biology,77.9,2020-11-13,Absent,Medium
+1358,Adrian,Biology,78.0,2020-10-10,Absent,Medium
+1449,Michael,Physics,75.0,2023-02-24,Present,Medium
+1449,William,Physics,95.0,2022-05-29,Present,High
+1449,Erin,Physics,74.0,2024-07-19,Present,Medium
+1449,Alyssa,Physics,63.0,2020-11-06,Present,Medium
+1449,Christopher,Physics,75.0,2023-07-28,Present,Medium
+1179,William,Biology,78.0,2020-06-05,Present,Medium
+1179,Eric,Biology,66.0,2021-09-29,Present,Medium
+1016,Michelle,Mathematics,76.0,2021-03-17,Present,Medium
+1016,John,Mathematics,84.0,2020-09-01,Present,Medium
+1341,Mary,Physics,88.0,2022-09-15,absent,High
+1341,Patricia,Physics,85.0,2023-12-17,Absent,High
+1341,Matthew,Physics,62.0,2021-06-29,Absent,Medium
+1140,Tamara,Mathematics,87.0,2022-12-14,Present,High
+1140,Sarah,Mathematics,90.0,2023-09-23,Present,High
+1140,Kayla,Mathematics,90.0,2020-04-15,Present,High
+1140,Shane,Mathematics,86.0,2021-11-25,absent,High
+1056,Erin,Computer Science,81.0,2024-10-22,absent,Medium
+1056,Andrea,Computer Science,70.0,2024-07-14,Present,Medium
+1056,Patrick,Computer Science,78.7,2020-02-10,Present,Medium
+1056,Daniel,Computer Science,86.0,2024-11-04,Present,High
+1056,Christina,Computer Science,60.0,2020-06-25,absent,Medium
+1065,Amber,Physics,92.0,2023-02-13,Absent,High
+1065,Rebekah,Physics,78.0,2023-10-12,Absent,Medium
+1412,Angela,Biology,74.0,2021-08-28,Present,Medium
+1412,Amanda,Biology,88.0,2020-03-23,absent,High
+1087,Stephen,Physics,81.0,2021-08-22,Present,Medium
+1023,Adam,Computer Science,94.0,2020-03-02,Present,High
+1023,Alexander,Computer Science,78.7,2021-11-15,Present,Medium
+1023,Todd,Computer Science,72.0,2022-02-23,Present,Medium
+1023,Natasha,Computer Science,92.0,2022-01-27,Present,High
+1160,Kimberly,Physics,72.0,2024-01-24,Absent,Medium
+1176,Penny,Computer Science,84.0,2024-01-23,Absent,Medium
+1369,Brooke,Physics,100.0,2020-11-16,Absent,High
+1369,Susan,Physics,77.9,2020-10-30,Absent,Medium
+1054,Christian,Computer Science,63.0,2021-11-15,Absent,Medium
+1304,Manuel,Mathematics,83.0,2020-08-11,Present,Medium
+1493,Lynn,Physics,98.0,2021-02-25,Absent,High
+1242,Richard,Physics,87.0,2021-07-07,Present,High
+1242,Susan,Physics,81.0,2023-08-11,absent,Medium
+1321,Jacqueline,Physics,66.0,2024-08-25,Present,Medium
+1321,Kathleen,Physics,66.0,2022-05-15,Present,Medium
+1078,Howard,Computer Science,91.0,2024-04-26,absent,High
+1131,Philip,Biology,73.0,2023-08-12,absent,Medium
+1166,Todd,Computer Science,92.0,2021-09-01,Present,High
+1166,Chelsea,Computer Science,78.0,2023-06-03,Present,Medium
+1468,Ashley,Biology,98.0,2020-11-29,Present,High
+1468,Monica,Biology,79.0,2022-08-15,Present,Medium
+1468,Monica,Biology,79.0,2023-04-27,absent,Medium
+1244,Kenneth,Biology,77.9,2020-10-22,Present,Medium
+1244,Mark,Biology,96.0,2020-05-19,absent,High
+1173,Sarah,Biology,89.0,2024-10-02,Absent,High
+1477,Brandy,Computer Science,68.0,2023-06-23,absent,Medium
+1246,Christopher,Computer Science,66.0,2022-08-23,Absent,Medium
+1246,Joseph,Computer Science,78.0,2020-02-23,Absent,Medium
+1246,Meredith,Computer Science,78.7,2024-01-11,Absent,Medium
+1246,Donna,Computer Science,72.0,2022-06-02,absent,Medium
+1250,Chase,Mathematics,64.0,2022-02-27,Present,Medium
+1096,Sonia,Computer Science,78.7,2022-11-20,absent,Medium
+1090,Krystal,Computer Science,75.0,2023-10-15,Present,Medium
+1090,Cameron,Computer Science,93.0,2021-04-20,Present,High
+1302,Ann,Computer Science,65.0,2023-08-16,Absent,Medium
+1239,Lisa,Mathematics,79.1,2024-05-02,Present,Medium
+1239,Antonio,Mathematics,74.0,2021-10-26,Present,Medium
+1239,Jennifer,Mathematics,66.0,2022-04-04,Present,Medium
+1433,Melvin,Biology,62.0,2024-08-25,Present,Medium
+1031,Samuel,Computer Science,71.0,2020-10-05,Absent,Medium
+1465,Bonnie,Computer Science,88.0,2022-05-31,Absent,High
+1465,Justin,Computer Science,77.0,2020-01-17,Absent,Medium
+1465,Jasmine,Computer Science,77.0,2024-06-05,Absent,Medium
+1033,Justin,Mathematics,79.1,2023-11-06,Present,Medium
+1189,Aaron,Biology,80.0,2021-03-24,Present,Medium
+1189,Sherri,Biology,74.0,2024-09-21,Present,Medium
+1008,Kayla,Biology,79.0,2021-07-20,Present,Medium
+1008,Stephanie,Biology,77.9,2023-01-26,absent,Medium
+1384,Richard,Physics,64.0,2021-02-25,Absent,Medium
+1384,Brittney,Physics,61.0,2023-12-24,Absent,Medium
+1407,Austin,Biology,93.0,2022-09-12,Absent,High
+1177,Michael,Mathematics,83.0,2022-07-13,Present,Medium
+1173,Shawn,Biology,77.9,2024-10-02,Present,Medium
+1104,Thomas,Computer Science,90.0,2021-10-27,Present,High
+1321,Lynn,Biology,66.0,2024-08-25,Present,Medium
+1321,Justin,Biology,80.0,2022-12-10,absent,Medium
+1298,Frank,Mathematics,82.0,2021-07-14,Present,Medium
+1298,Julia,Mathematics,65.0,2020-05-30,Present,Medium
+1298,James,Mathematics,79.1,2020-11-14,Present,Medium
+1298,Pamela,Mathematics,67.0,2024-09-25,Present,Medium
+1127,James,Physics,93.0,2023-04-19,absent,High
+1127,Tracie,Physics,81.0,2022-06-02,Absent,Medium
+1125,Emily,Computer Science,97.0,2022-01-12,Present,High
+1125,Mason,Computer Science,98.0,2021-09-13,Present,High
+1125,Leslie,Computer Science,90.0,2023-10-31,Present,High
+1369,Bill,Biology,100.0,2020-11-16,absent,High
+1369,Jodi,Biology,89.0,2020-10-30,Absent,High
+1193,John,Computer Science,60.0,2023-06-06,Present,Medium
+1030,Edward,Physics,82.0,2023-11-04,Present,Medium
+1359,Kelsey,Biology,82.0,2021-07-14,Absent,Medium
+1135,Jennifer,Biology,74.0,2022-07-10,Absent,Medium
+1135,Zachary,Biology,64.0,2022-11-20,Absent,Medium
+1135,Matthew,Biology,95.0,2023-06-13,Absent,High
+1496,Jacob,Biology,61.0,2022-10-19,Absent,Medium
+1069,Brian,Mathematics,80.0,2022-10-12,Absent,Medium
+1069,Lauren,Mathematics,72.0,2021-11-30,absent,Medium
+1069,April,Mathematics,79.1,2020-02-03,Absent,Medium
+1069,John,Mathematics,89.0,2021-02-05,absent,High
+1054,Phillip,Computer Science,74.0,2024-01-04,Present,Medium
+1200,Erik,Biology,69.0,2022-04-28,Absent,Medium
+1200,Matthew,Biology,61.0,2020-01-19,absent,Medium
+1147,Lisa,Biology,82.0,2024-02-03,Absent,Medium
+1071,Tim,Physics,61.0,2020-11-08,Absent,Medium
+1013,Daniel,Biology,74.0,2024-01-21,Present,Medium
+1418,Michael,Computer Science,91.0,2023-04-11,Absent,High
+1418,Jacqueline,Computer Science,83.0,2024-02-21,Absent,Medium
+1394,Jonathan,Mathematics,60.0,2021-02-14,absent,Medium
+1169,Larry,Biology,90.0,2024-08-27,absent,High
+1169,Kaitlyn,Biology,79.0,2023-11-02,Absent,Medium
+1009,Gerald,Mathematics,87.0,2024-03-14,absent,High
+1083,Keith,Biology,87.0,2020-02-21,absent,High
+1334,James,Mathematics,61.0,2022-10-25,absent,Medium
+1334,David,Mathematics,66.0,2022-12-17,Absent,Medium
+1334,Nicole,Mathematics,97.0,2020-10-19,Absent,High
+1334,Carolyn,Mathematics,95.0,2021-04-21,Absent,High
+1119,Holly,Biology,63.0,2023-06-26,Absent,Medium
+1119,Michael,Biology,87.0,2022-01-16,Absent,High
+1418,James,Biology,91.0,2023-04-11,Absent,High
+1098,Christian,Computer Science,69.0,2020-07-30,absent,Medium
+1098,Amber,Computer Science,89.0,2021-02-20,Absent,High
+1462,Steven,Physics,64.0,2022-07-11,Absent,Medium
+1044,Nicholas,Physics,69.0,2024-10-21,Absent,Medium
+1044,Erin,Physics,88.0,2024-09-02,Absent,High
+1044,Kelsey,Physics,84.0,2024-08-25,Absent,Medium
+1044,Frank,Physics,81.0,2022-04-10,absent,Medium
+1086,Paul,Physics,64.0,2021-08-31,Present,Medium
+1436,Dennis,Mathematics,64.0,2024-02-20,absent,Medium
+1436,John,Mathematics,75.0,2023-09-30,Absent,Medium
+1111,Frances,Physics,77.0,2024-02-16,Present,Medium
+1111,Dean,Physics,86.0,2024-08-14,Present,High
+1111,Rachel,Physics,86.0,2021-04-15,Present,High
+1111,Megan,Physics,79.0,2024-12-02,Present,Medium
+1111,Bethany,Physics,77.0,2024-06-25,absent,Medium
+1478,Alexis,Physics,77.9,2020-03-17,absent,Medium
+1478,Charles,Physics,80.0,2021-10-05,absent,Medium
+1191,Juan,Physics,83.0,2020-07-25,Absent,Medium
+1191,Kelly,Physics,82.0,2023-07-27,Absent,Medium
+1191,Heather,Physics,61.0,2021-05-31,absent,Medium
+1415,Samantha,Physics,97.0,2023-06-05,Absent,High
+1403,Robert,Computer Science,61.0,2021-11-23,Present,Medium
+1403,Scott,Computer Science,75.0,2023-06-14,absent,Medium
+1403,Marco,Computer Science,63.0,2022-06-01,Present,Medium
+1403,Robert,Computer Science,82.0,2021-10-15,absent,Medium
+1301,Chad,Biology,64.0,2022-03-21,Present,Medium
+1106,Michelle,Physics,69.0,2024-08-02,Absent,Medium
+1246,Jerry,Computer Science,66.0,2022-08-23,absent,Medium
+1246,David,Computer Science,78.0,2020-02-23,Present,Medium
+1246,Christina,Computer Science,78.7,2024-01-11,absent,Medium
+1246,Peter,Computer Science,78.7,2022-06-02,Present,Medium
+1065,Brian,Computer Science,92.0,2023-02-13,absent,High
+1065,Adriana,Computer Science,78.0,2023-10-12,Absent,Medium
+1065,Amber,Computer Science,92.0,2024-12-19,Absent,High
+1274,Randy,Biology,73.0,2020-10-17,absent,Medium
+1187,Scott,Physics,87.0,2021-09-25,Present,High
+1187,Lisa,Physics,71.0,2023-07-21,Present,Medium
+1158,Edward,Biology,89.0,2023-10-22,Present,High
+1158,Corey,Biology,77.9,2023-05-21,Present,Medium
+1158,Luis,Biology,98.0,2020-04-26,absent,High
+1304,Stephanie,Mathematics,83.0,2020-08-11,Present,Medium
+1472,Heather,Computer Science,87.0,2021-08-01,absent,High
+1166,Christina,Mathematics,92.0,2021-09-01,Absent,High
+1179,Juan,Biology,66.0,2021-09-29,Absent,Medium
+1426,Allison,Mathematics,79.1,2023-03-08,Absent,Medium
+1354,Lauren,Biology,62.0,2023-07-21,Absent,Medium
+1354,Alexandria,Biology,77.9,2021-08-26,Absent,Medium
+1186,Haley,Physics,81.0,2022-08-23,Present,Medium
+1186,Jacob,Physics,73.0,2023-02-14,Present,Medium
+1184,Mary,Computer Science,99.0,2024-01-11,Present,High
+1426,Rachel,Computer Science,86.0,2023-03-08,Absent,High
+1270,April,Physics,60.0,2020-08-05,Absent,Medium
+1440,Thomas,Biology,77.9,2021-05-25,Present,Medium
+1440,Heather,Biology,77.0,2022-09-16,Present,Medium
+1440,Brittany,Biology,86.0,2023-08-06,Present,High
+1122,Krista,Biology,61.0,2023-09-25,Absent,Medium
+1202,William,Biology,79.0,2021-02-15,Present,Medium
+1438,Roberto,Biology,92.0,2023-05-18,Present,High
+1438,Brian,Biology,71.0,2024-12-15,Present,Medium
+1441,Krista,Physics,72.0,2024-04-16,absent,Medium
+1348,Brittany,Mathematics,68.0,2020-04-02,Present,Medium
+1348,Jesse,Mathematics,70.0,2024-09-14,Present,Medium
+1112,Felicia,Computer Science,92.0,2020-10-19,absent,High
+1112,Stacy,Computer Science,78.7,2023-07-02,Present,Medium
+1447,James,Biology,77.9,2021-11-20,absent,Medium
+1447,David,Biology,88.0,2024-09-18,absent,High
+1447,Larry,Biology,86.0,2023-01-28,absent,High
+1073,Jessica,Computer Science,98.0,2021-01-31,Present,High
+1073,Jennifer,Computer Science,75.0,2023-03-07,Present,Medium
+1290,Rebecca,Biology,72.0,2024-07-16,Absent,Medium
+1290,Ruben,Biology,71.0,2024-03-22,Absent,Medium
+1404,Anthony,Physics,63.0,2022-05-26,Present,Medium
+1404,Sarah,Physics,96.0,2024-09-23,Present,High
+1404,Hannah,Physics,77.9,2021-11-19,Present,Medium
+1404,Benjamin,Physics,74.0,2021-09-14,Present,Medium
+1342,Angel,Physics,90.0,2024-02-13,absent,High
+1342,Tara,Physics,76.0,2020-09-17,Present,Medium
+1357,Tricia,Mathematics,79.1,2022-08-21,Absent,Medium
+1427,Emma,Biology,70.0,2021-03-21,Absent,Medium
+1337,Daniel,Biology,94.0,2024-05-23,Absent,High
+1337,Earl,Biology,77.9,2024-05-06,Absent,Medium
+1071,Nina,Physics,61.0,2020-11-08,Absent,Medium
+1071,Joseph,Physics,77.9,2020-08-24,absent,Medium
+1270,Elizabeth,Physics,60.0,2020-08-05,Present,Medium
+1064,Christie,Computer Science,93.0,2023-01-27,Absent,High
+1064,Andrew,Computer Science,78.7,2020-02-27,Absent,Medium
+1318,Daniel,Biology,75.0,2023-11-28,Present,Medium
+1454,Bridget,Physics,98.0,2022-01-09,Absent,High
+1454,Linda,Physics,77.9,2020-05-20,Absent,Medium
+1260,Jamie,Physics,88.0,2021-02-20,absent,High
+1260,Haley,Physics,77.9,2021-05-05,Absent,Medium
+1260,Pam,Physics,100.0,2020-09-07,Absent,High
+1192,Nathan,Computer Science,80.0,2020-08-04,absent,Medium
+1192,Christopher,Computer Science,62.0,2024-03-24,absent,Medium
+1002,Daniel,Physics,67.0,2024-06-25,Present,Medium
+1002,Kirk,Physics,74.0,2023-11-30,Present,Medium
+1002,Katelyn,Physics,77.9,2021-09-28,Present,Medium
+1002,Caitlin,Physics,98.0,2022-02-09,Present,High
+1198,Mackenzie,Biology,77.9,2024-06-15,Present,Medium
+1194,Greg,Physics,82.0,2021-11-24,absent,Medium
+1194,Andrew,Physics,76.0,2020-02-29,Absent,Medium
+1194,Brandon,Physics,65.0,2024-11-27,Absent,Medium
+1194,Timothy,Physics,72.0,2021-09-26,Absent,Medium
+1346,Donna,Mathematics,63.0,2024-12-25,Absent,Medium
+1346,Aaron,Mathematics,79.1,2024-05-26,absent,Medium
+1346,Juan,Mathematics,90.0,2023-03-04,Absent,High
+1444,Christopher,Physics,66.0,2024-01-06,Present,Medium
+1444,Jamie,Physics,92.0,2024-02-20,Present,High
+1444,Jose,Physics,64.0,2020-12-31,Present,Medium
+1419,Daniel,Computer Science,80.0,2023-08-06,Present,Medium
+1291,Jesse,Physics,68.0,2023-05-30,Present,Medium
+1291,Brian,Physics,80.0,2023-06-02,Present,Medium
+1131,Suzanne,Physics,73.0,2023-08-12,Present,Medium
+1141,Wesley,Computer Science,78.7,2020-08-27,absent,Medium
+1141,Amanda,Computer Science,68.0,2020-06-15,absent,Medium
+1141,Kimberly,Computer Science,69.0,2023-12-02,Present,Medium
+1315,Hannah,Physics,74.0,2024-01-19,Present,Medium
+1290,Sonya,Physics,72.0,2024-07-16,Present,Medium
+1290,Monica,Physics,71.0,2024-03-22,Present,Medium
+1146,Lori,Physics,69.0,2022-01-18,absent,Medium
+1146,Kristy,Physics,77.9,2020-09-14,Absent,Medium
+1067,Matthew,Computer Science,89.0,2023-02-11,Absent,High
+1067,Michael,Computer Science,66.0,2024-06-04,Absent,Medium
+1352,James,Computer Science,78.7,2023-06-16,Present,Medium
+1327,Kellie,Computer Science,81.0,2024-09-11,Present,Medium
+1398,Jonathan,Biology,72.0,2020-10-08,absent,Medium
+1437,Kristopher,Biology,89.0,2023-06-21,Absent,High
+1475,Jose,Biology,71.0,2020-02-20,Present,Medium
+1207,Zoe,Mathematics,79.0,2023-03-01,absent,Medium
+1207,Cole,Mathematics,89.0,2020-09-13,Absent,High
+1165,Sarah,Physics,77.9,2022-03-16,Present,Medium
+1165,Thomas,Physics,98.0,2024-04-23,absent,High
+1165,Mary,Physics,84.0,2024-08-04,Present,Medium
+1348,Christina,Biology,68.0,2020-04-02,Present,Medium
+1348,Leslie,Biology,70.0,2024-09-14,Present,Medium
+1340,Laura,Biology,81.0,2020-06-21,absent,Medium
+1440,Jared,Physics,74.0,2021-05-25,absent,Medium
+1440,Jose,Physics,86.0,2023-08-06,Absent,High
+1469,Matthew,Mathematics,79.1,2024-09-30,Present,Medium
+1455,Angela,Mathematics,67.0,2024-06-16,absent,Medium
+1323,Janet,Biology,82.0,2021-10-15,absent,Medium
+1203,Jessica,Computer Science,100.0,2022-08-03,Absent,High
+1203,Patrick,Computer Science,69.0,2023-03-26,Absent,Medium
+1032,Sabrina,Physics,77.0,2021-04-29,Absent,Medium
+1032,Michelle,Physics,67.0,2024-03-23,Absent,Medium
+1052,Vincent,Biology,63.0,2020-12-16,Absent,Medium
+1184,Rhonda,Biology,99.0,2024-01-11,Absent,High
+1138,Bradley,Computer Science,72.0,2020-12-27,Present,Medium
+1138,John,Computer Science,78.7,2023-08-14,absent,Medium
+1382,Janice,Computer Science,78.7,2020-04-09,absent,Medium
+1087,Lawrence,Physics,81.0,2021-08-22,absent,Medium
+1087,Allison,Physics,73.0,2020-12-14,Present,Medium
+1479,Antonio,Physics,95.0,2023-09-08,Present,High
+1479,Karen,Physics,66.0,2022-10-12,Present,Medium
+1270,Derrick,Biology,60.0,2020-08-05,Present,Medium
+1066,Jesse,Computer Science,78.7,2022-10-03,Present,Medium
+1475,Kristin,Biology,71.0,2020-02-20,Present,Medium
+1242,Mitchell,Physics,87.0,2021-07-07,Absent,High
+1242,David,Physics,81.0,2023-08-11,absent,Medium
+1339,Richard,Computer Science,86.0,2021-02-16,absent,High
+1339,Rhonda,Computer Science,66.0,2023-05-18,Present,Medium
+1128,James,Biology,98.0,2024-01-04,Present,High
+1128,Jessica,Biology,75.0,2021-09-29,Present,Medium
+1149,Lindsay,Mathematics,87.0,2024-09-11,Present,High
+1001,Kathryn,Mathematics,79.1,2024-12-20,Absent,Medium
+1475,Joseph,Physics,71.0,2020-02-20,absent,Medium
+1454,Brandon,Physics,98.0,2022-01-09,Absent,High
+1454,Carolyn,Physics,96.0,2020-05-20,Absent,High
+1037,Stephen,Computer Science,70.0,2021-04-13,Absent,Medium
+1037,Tyler,Computer Science,90.0,2020-05-18,Absent,High
+1485,Jessica,Computer Science,73.0,2024-02-11,absent,Medium
+1485,Denise,Computer Science,92.0,2022-09-10,Present,High
+1151,Tammy,Biology,88.0,2020-10-19,absent,High
+1151,Dean,Biology,77.9,2024-02-10,Present,Medium
+1318,Kelly,Biology,75.0,2023-11-28,Absent,Medium
+1299,Brenda,Computer Science,97.0,2021-10-07,absent,High
+1401,Zachary,Biology,74.0,2021-09-14,Absent,Medium
+1498,Anna,Computer Science,78.7,2022-08-25,Present,Medium
+1405,Rachel,Biology,77.9,2023-12-23,Present,Medium
+1405,Robert,Biology,75.0,2024-04-03,Present,Medium
+1267,Paige,Computer Science,98.0,2020-07-29,Present,High
+1267,Mike,Computer Science,80.0,2022-12-06,absent,Medium
+1076,Jeremy,Biology,77.9,2021-05-21,Absent,Medium
+1076,Michael,Biology,77.9,2023-01-23,Absent,Medium
+1067,Robert,Computer Science,89.0,2023-02-11,absent,High
+1067,Nicole,Computer Science,66.0,2024-06-04,absent,Medium
+1094,Rebecca,Computer Science,78.7,2024-01-14,Present,Medium
+1094,James,Computer Science,78.0,2024-01-16,Present,Medium
+1094,Michael,Computer Science,67.0,2022-05-27,Present,Medium
+1094,Brandi,Computer Science,82.0,2022-10-12,Present,Medium
+1080,Lindsey,Mathematics,80.0,2021-06-17,absent,Medium
+1080,Paul,Mathematics,79.1,2024-04-28,Absent,Medium
+1475,Raymond,Mathematics,79.1,2020-02-20,absent,Medium
+1173,James,Computer Science,89.0,2024-10-02,Present,High
+1055,Tamara,Physics,79.0,2020-06-21,Absent,Medium
+1055,Adam,Physics,77.0,2024-02-18,absent,Medium
+1055,Jessica,Physics,66.0,2021-01-18,Absent,Medium
+1055,Charles,Physics,71.0,2023-05-18,Absent,Medium
+1419,Eduardo,Computer Science,80.0,2023-08-06,Absent,Medium
+1106,Paige,Mathematics,69.0,2024-08-02,Absent,Medium
+1143,Judy,Biology,79.0,2022-12-20,Absent,Medium
+1143,William,Biology,95.0,2021-10-16,absent,High
+1143,Mary,Biology,79.0,2023-04-25,Absent,Medium
+1143,Dylan,Biology,77.9,2024-03-08,Absent,Medium
+1143,Suzanne,Biology,75.0,2021-01-12,Absent,Medium
+1444,Tiffany,Biology,66.0,2024-01-06,Absent,Medium
+1444,Kayla,Biology,92.0,2024-02-20,Absent,High
+1444,Wesley,Biology,64.0,2020-12-31,Absent,Medium
+1399,Rachel,Biology,85.0,2023-02-22,Absent,High
+1399,Michael,Biology,88.0,2023-05-24,absent,High
+1399,Joshua,Biology,94.0,2024-11-23,Absent,High
+1081,David,Biology,65.0,2024-02-26,Present,Medium
+1402,Diana,Biology,77.9,2023-09-24,Absent,Medium
+1402,Donald,Biology,81.0,2020-06-01,Absent,Medium
+1191,Teresa,Biology,96.0,2022-03-04,Absent,High
+1191,Timothy,Biology,82.0,2023-07-27,absent,Medium
+1191,Jennifer,Biology,61.0,2021-05-31,Absent,Medium
+1232,Mark,Physics,84.0,2021-01-22,Present,Medium
+1232,Billy,Physics,65.0,2022-10-20,Present,Medium
+1232,Leslie,Physics,64.0,2024-07-21,Present,Medium
+1232,Holly,Physics,69.0,2024-09-06,Present,Medium
+1232,Lindsay,Physics,77.9,2024-07-02,Present,Medium
+1251,Jerry,Physics,70.0,2023-01-16,Absent,Medium
+1251,Derrick,Physics,77.0,2020-11-15,Absent,Medium
+1118,Elizabeth,Biology,95.0,2024-01-31,Present,High
+1036,Crystal,Mathematics,87.0,2022-04-03,Present,High
+1036,Dawn,Mathematics,66.0,2022-01-09,absent,Medium
+1036,Jessica,Mathematics,87.0,2021-11-03,Present,High
+1032,Christine,Biology,67.0,2024-03-23,Absent,Medium
+1210,Todd,Computer Science,78.0,2022-09-04,Present,Medium
+1339,Christine,Physics,77.9,2023-05-18,Present,Medium
+1327,Joanna,Biology,74.0,2022-09-05,Absent,Medium
+1327,Laura,Biology,77.9,2024-09-11,absent,Medium
+1158,Frank,Mathematics,89.0,2023-10-22,Absent,High
+1158,Misty,Mathematics,61.0,2023-05-21,absent,Medium
+1158,Jeffrey,Mathematics,79.1,2020-04-26,Absent,Medium
+1483,Jose,Biology,73.0,2024-12-10,Present,Medium
+1076,Dominique,Computer Science,84.0,2021-05-21,Present,Medium
+1076,Laura,Computer Science,72.0,2023-01-23,Present,Medium
+1344,Erica,Computer Science,73.0,2023-11-20,Absent,Medium
+1284,Barbara,Physics,62.0,2024-04-22,Absent,Medium
+1284,Billy,Physics,90.0,2022-05-21,absent,High
+1284,Robert,Physics,77.0,2022-05-30,Absent,Medium
+1284,David,Physics,90.0,2023-02-24,Absent,High
+1287,Sheila,Biology,89.0,2021-11-03,Absent,High
+1287,Matthew,Biology,66.0,2022-03-22,Absent,Medium
+1044,Brandon,Biology,69.0,2024-10-21,Present,Medium
+1044,Dale,Biology,88.0,2024-09-02,Present,High
+1044,Nicholas,Biology,84.0,2024-08-25,Present,Medium
+1044,Justin,Biology,81.0,2022-04-10,absent,Medium
+1496,Jacob,Physics,77.9,2023-09-21,Absent,Medium
+1484,Michael,Computer Science,64.0,2024-07-09,absent,Medium
+1192,Megan,Biology,77.9,2020-08-04,Absent,Medium
+1192,Jennifer,Biology,62.0,2024-03-24,Absent,Medium
+1216,Jacob,Physics,65.0,2023-01-03,Present,Medium
+1216,Carlos,Physics,77.9,2023-01-09,Present,Medium
+1216,Brittany,Physics,72.0,2024-07-13,Present,Medium
+1216,Yesenia,Physics,92.0,2020-12-27,Present,High
+1191,Juan,Physics,83.0,2020-07-25,Present,Medium
+1191,Michael,Physics,77.9,2023-07-27,Present,Medium
+1191,Daniel,Physics,61.0,2021-05-31,Present,Medium
+1123,Hannah,Computer Science,90.0,2022-11-06,Present,High
+1123,Ruben,Computer Science,60.0,2021-03-29,absent,Medium
+1472,Timothy,Physics,77.9,2021-08-01,Absent,Medium
+1173,Douglas,Computer Science,89.0,2024-10-02,absent,High
+1067,Kyle,Physics,89.0,2023-02-11,Present,High
+1067,Tracy,Physics,77.9,2024-06-04,Present,Medium
+1182,Nicholas,Physics,67.0,2022-04-01,Absent,Medium
+1118,Kyle,Biology,77.9,2023-05-15,Absent,Medium
+1179,Benjamin,Computer Science,66.0,2021-09-29,Absent,Medium
+1229,Adam,Biology,68.0,2024-08-18,absent,Medium
+1100,Rebecca,Computer Science,69.0,2022-01-16,Absent,Medium
+1100,Steven,Computer Science,66.0,2020-01-31,Absent,Medium
+1171,Paula,Biology,67.0,2021-07-17,absent,Medium
+1031,Aaron,Biology,71.0,2020-10-05,absent,Medium
+1031,Peter,Biology,66.0,2024-05-18,Present,Medium
+1489,Sarah,Biology,76.0,2024-08-12,absent,Medium
+1489,Autumn,Biology,77.9,2021-01-02,absent,Medium
+1186,Jenna,Biology,81.0,2022-08-23,Absent,Medium
+1186,Laura,Biology,73.0,2023-02-14,Absent,Medium
+1286,Jennifer,Biology,100.0,2023-07-16,absent,High
+1286,William,Biology,94.0,2022-05-19,Absent,High
+1286,Julian,Biology,69.0,2022-01-26,absent,Medium
+1286,Stacy,Biology,76.0,2024-02-24,Absent,Medium
+1138,John,Mathematics,72.0,2020-12-27,Present,Medium
+1138,Jasmine,Mathematics,70.0,2023-08-14,Present,Medium
+1147,Heather,Physics,82.0,2024-02-03,Absent,Medium
+1065,James,Mathematics,92.0,2024-12-19,Absent,High
+1183,Jessica,Biology,80.0,2023-11-12,Present,Medium
+1183,John,Biology,83.0,2022-06-22,absent,Medium
+1072,Melissa,Physics,73.0,2021-01-25,Present,Medium
+1072,Nicholas,Physics,61.0,2023-10-24,Present,Medium
+1277,Shawn,Computer Science,79.0,2024-01-10,Absent,Medium
+1277,Donna,Computer Science,68.0,2024-03-12,Absent,Medium
+1228,Jennifer,Computer Science,99.0,2020-04-22,Absent,High
+1228,Haley,Computer Science,63.0,2022-11-03,Absent,Medium
+1228,Wyatt,Computer Science,65.0,2022-06-08,absent,Medium
+1093,Kristen,Biology,94.0,2021-07-11,absent,High
+1175,Steven,Biology,77.9,2020-11-17,Present,Medium
+1175,Stephanie,Biology,65.0,2021-09-26,Present,Medium
+1403,Andrew,Biology,77.9,2021-11-23,absent,Medium
+1403,Janet,Biology,75.0,2023-06-14,Present,Medium
+1403,Rachel,Biology,63.0,2022-06-01,Present,Medium
+1403,Donna,Biology,87.0,2021-07-16,absent,High
+1146,Jeffery,Mathematics,61.0,2024-05-12,Absent,Medium
+1146,Tracy,Mathematics,69.0,2022-01-18,Absent,Medium
+1146,Donald,Mathematics,73.0,2020-09-14,absent,Medium
+1037,Melissa,Biology,77.9,2021-04-13,Absent,Medium
+1037,Randy,Biology,95.0,2020-02-27,Absent,High
+1037,Maria,Biology,77.9,2020-05-18,Absent,Medium
+1066,Tammy,Physics,64.0,2022-10-03,Present,Medium
+1212,Hannah,Computer Science,75.0,2022-09-15,Present,Medium
+1212,Robert,Computer Science,87.0,2024-12-02,Present,High
+1177,Rebekah,Physics,83.0,2022-07-13,absent,Medium
+1143,Shirley,Physics,79.0,2022-12-20,absent,Medium
+1143,Taylor,Physics,77.9,2021-10-16,absent,Medium
+1143,Jose,Physics,84.0,2024-03-08,Absent,Medium
+1143,Angela,Physics,77.9,2021-01-12,Absent,Medium
+1052,Patrick,Computer Science,63.0,2020-12-16,Absent,Medium
+1044,Robert,Computer Science,78.7,2024-10-21,Absent,Medium
+1044,Alfred,Computer Science,88.0,2024-09-02,Absent,High
+1044,Tracy,Computer Science,84.0,2024-08-25,Absent,Medium
+1044,Rebecca,Computer Science,78.7,2022-04-10,Absent,Medium
+1163,Dana,Physics,60.0,2023-09-20,Present,Medium
+1133,Walter,Biology,73.0,2024-07-10,Absent,Medium
+1133,Jason,Biology,82.0,2021-05-11,Absent,Medium
+1169,Candice,Biology,90.0,2024-08-27,Absent,High
+1138,Erika,Physics,72.0,2020-12-27,Present,Medium
+1138,David,Physics,70.0,2023-08-14,Present,Medium
+1054,Amber,Biology,77.9,2021-11-15,Present,Medium
+1054,Sarah,Biology,74.0,2024-01-04,Present,Medium
+1419,Sheila,Biology,77.9,2023-08-06,Present,Medium
+1261,Nathaniel,Computer Science,60.0,2024-12-24,Absent,Medium
+1271,Robin,Physics,93.0,2020-05-22,Absent,High
+1271,Dana,Physics,77.9,2020-07-10,Absent,Medium
+1061,Kevin,Computer Science,62.0,2023-11-21,Present,Medium
+1337,Stacy,Mathematics,94.0,2024-05-23,Present,High
+1048,Kathryn,Physics,94.0,2021-09-01,Absent,High
+1048,Donald,Physics,84.0,2024-05-05,Absent,Medium
+1048,Paula,Physics,94.0,2020-11-15,absent,High
+1219,Heather,Physics,79.0,2024-10-15,Absent,Medium
+1219,Karen,Physics,66.0,2022-08-30,absent,Medium
+1058,Katie,Biology,77.9,2023-08-07,Absent,Medium
+1058,Walter,Biology,73.0,2024-09-15,Absent,Medium
+1058,Jeffrey,Biology,77.9,2021-07-16,Absent,Medium
+1058,Christian,Biology,100.0,2023-07-05,Absent,High
+1058,Johnny,Biology,77.9,2020-03-23,Absent,Medium
+1021,Juan,Mathematics,65.0,2021-07-16,Absent,Medium
+1021,Ryan,Mathematics,72.0,2024-12-22,Absent,Medium
+1021,Mathew,Mathematics,79.1,2020-05-17,Absent,Medium
+1021,Michelle,Mathematics,79.1,2024-07-09,Absent,Medium
+1021,Julia,Mathematics,79.1,2021-12-13,Absent,Medium
+1021,Kathryn,Mathematics,99.0,2020-02-12,Absent,High
+1194,Michael,Biology,82.0,2021-11-24,Absent,Medium
+1194,Vanessa,Biology,76.0,2020-02-29,Absent,Medium
+1194,Ryan,Biology,92.0,2021-10-06,Absent,High
+1194,George,Biology,65.0,2024-11-27,Absent,Medium
+1137,Zachary,Computer Science,64.0,2022-03-26,Present,Medium
+1137,Tony,Computer Science,78.7,2022-06-19,Present,Medium
+1117,Christopher,Physics,85.0,2021-10-03,Absent,High
+1117,Michael,Physics,97.0,2023-01-26,Absent,High
+1218,Joshua,Mathematics,88.0,2022-02-05,Present,High
+1218,Helen,Mathematics,95.0,2021-03-29,absent,High
+1218,Matthew,Mathematics,86.0,2022-11-09,absent,High
+1176,Diana,Biology,84.0,2024-01-23,Present,Medium
+1408,Lisa,Biology,69.0,2022-12-26,Absent,Medium
+1408,Alexa,Biology,83.0,2020-11-26,Absent,Medium
+1400,Victor,Biology,67.0,2024-03-20,Present,Medium
+1400,Jonathan,Biology,77.9,2022-10-18,Present,Medium
+1400,Jennifer,Biology,78.0,2021-07-15,Present,Medium
+1400,Katherine,Biology,77.9,2023-11-16,Present,Medium
+1284,Mark,Computer Science,78.7,2022-05-21,absent,Medium
+1284,James,Computer Science,78.7,2022-05-30,Present,Medium
+1284,David,Computer Science,90.0,2023-02-24,absent,High
+1277,Anna,Biology,77.9,2021-12-17,absent,Medium
+1277,Jill,Biology,77.9,2024-03-16,Absent,Medium
+1277,Brett,Biology,79.0,2024-01-10,Absent,Medium
+1277,Lucas,Biology,68.0,2024-03-12,Absent,Medium
+1264,Jacob,Mathematics,80.0,2023-03-01,absent,Medium
+1264,Tyler,Mathematics,78.0,2020-10-21,Absent,Medium
+1264,George,Mathematics,79.1,2021-04-11,Absent,Medium
+1264,Shelley,Mathematics,75.0,2022-06-02,Absent,Medium
+1329,Heather,Biology,89.0,2020-09-29,Present,High
+1329,Ashley,Biology,65.0,2024-01-14,absent,Medium
+1464,Melanie,Physics,96.0,2024-03-31,Present,High
+1074,Richard,Physics,80.0,2022-09-14,absent,Medium
+1496,Carrie,Biology,75.0,2023-09-21,Present,Medium
+1496,David,Biology,61.0,2022-10-19,Present,Medium
+1475,Tracey,Physics,71.0,2020-02-20,Present,Medium
+1094,Brittany,Biology,68.0,2024-01-14,Present,Medium
+1094,Daniel,Biology,77.9,2024-01-16,Present,Medium
+1094,Rachael,Biology,67.0,2022-05-27,Present,Medium
+1100,Frank,Biology,69.0,2022-01-16,Absent,Medium
+1023,James,Physics,66.0,2021-11-15,Present,Medium
+1023,Matthew,Physics,92.0,2022-01-27,absent,High
+1354,Peter,Biology,77.9,2023-07-21,Present,Medium
+1354,Sandra,Biology,65.0,2021-08-26,Present,Medium
+1027,Marisa,Computer Science,100.0,2024-06-09,Absent,High
+1027,Darren,Computer Science,69.0,2023-07-04,Absent,Medium
+1389,Gina,Computer Science,86.0,2023-01-30,Present,High
+1181,Kim,Computer Science,66.0,2022-12-27,Absent,Medium
+1225,Jackie,Biology,92.0,2023-01-10,Present,High
+1225,Darin,Biology,82.0,2021-09-12,Present,Medium
+1040,Brenda,Mathematics,60.0,2023-02-10,Absent,Medium
+1193,Dylan,Mathematics,60.0,2023-06-06,Present,Medium
+1055,Charles,Computer Science,79.0,2020-06-21,Absent,Medium
+1055,James,Computer Science,77.0,2024-02-18,absent,Medium
+1055,Tanya,Computer Science,62.0,2023-11-14,Absent,Medium
+1055,Cory,Computer Science,71.0,2023-05-18,Absent,Medium
+1153,Kristen,Computer Science,78.7,2023-06-06,Present,Medium
+1153,Miguel,Computer Science,93.0,2020-06-18,Present,High
+1153,Curtis,Computer Science,85.0,2021-02-17,Present,High
+1338,Tina,Mathematics,95.0,2024-05-07,Present,High
+1338,David,Mathematics,73.0,2022-10-03,absent,Medium
+1338,Charles,Mathematics,80.0,2022-10-31,Present,Medium
+1358,Robert,Biology,77.9,2023-03-24,Present,Medium
+1358,Meghan,Biology,64.0,2020-11-13,Present,Medium
+1358,Janet,Biology,78.0,2020-10-10,absent,Medium
+1122,Terry,Computer Science,61.0,2023-09-25,Absent,Medium
+1232,Lisa,Computer Science,84.0,2021-01-22,Present,Medium
+1232,Jeffrey,Computer Science,64.0,2024-07-21,Present,Medium
+1232,Antonio,Computer Science,69.0,2024-09-06,absent,Medium
+1232,Martin,Computer Science,81.0,2024-07-02,Present,Medium
+1232,Craig,Computer Science,84.0,2021-01-25,Present,Medium
+1202,Jillian,Biology,79.0,2021-02-15,Present,Medium
+1393,Jennifer,Biology,77.9,2024-01-29,Present,Medium
+1393,Anna,Biology,78.0,2024-08-25,Present,Medium
+1043,Pamela,Computer Science,91.0,2022-04-11,Absent,High
+1043,Andrea,Computer Science,68.0,2021-10-16,Absent,Medium
+1043,Philip,Computer Science,83.0,2022-06-17,Absent,Medium
+1043,Frank,Computer Science,99.0,2020-07-14,Absent,High
+1043,Sandra,Computer Science,68.0,2024-04-15,Absent,Medium
+1161,Sabrina,Biology,77.9,2022-02-09,Absent,Medium
+1462,Crystal,Mathematics,64.0,2022-07-11,Absent,Medium
+1462,Joel,Mathematics,79.1,2021-11-23,absent,Medium
+1438,Ryan,Mathematics,92.0,2023-05-18,Absent,High
+1438,Christina,Mathematics,100.0,2023-02-04,Absent,High
+1438,Jennifer,Mathematics,93.0,2020-06-01,Absent,High
+1438,Phillip,Mathematics,71.0,2024-12-15,Absent,Medium
+1150,Melissa,Physics,77.9,2020-08-27,absent,Medium
+1150,Juan,Physics,64.0,2022-07-06,absent,Medium
+1408,Mark,Physics,69.0,2022-12-26,absent,Medium
+1408,Nicole,Physics,83.0,2020-11-26,absent,Medium
+1151,Lisa,Physics,88.0,2020-10-19,Absent,High
+1151,Sheila,Physics,79.0,2024-02-10,Absent,Medium
+1011,Tara,Computer Science,92.0,2022-04-30,Absent,High
+1011,Maria,Computer Science,73.0,2021-11-12,absent,Medium
+1297,Samantha,Computer Science,100.0,2023-06-29,Absent,High
+1297,Melanie,Computer Science,63.0,2021-08-02,Absent,Medium
+1226,Brian,Biology,83.0,2021-02-22,Present,Medium
+1040,James,Computer Science,78.7,2023-02-10,Present,Medium
+1040,William,Computer Science,61.0,2024-06-06,absent,Medium
+1405,Mary,Physics,92.0,2023-12-23,Absent,High
+1405,George,Physics,75.0,2024-04-03,Absent,Medium
+1150,David,Physics,70.0,2020-08-27,Present,Medium
+1462,Monica,Mathematics,64.0,2022-07-11,absent,Medium
+1462,Patricia,Mathematics,76.0,2021-11-23,Absent,Medium
+1065,Justin,Computer Science,92.0,2023-02-13,Present,High
+1065,Jennifer,Computer Science,78.0,2023-10-12,Present,Medium
+1065,Stephanie,Computer Science,78.7,2024-12-19,Present,Medium
+1200,Amy,Physics,69.0,2022-04-28,Absent,Medium
+1200,Billy,Physics,61.0,2020-01-19,Absent,Medium
+1096,Logan,Computer Science,78.7,2022-11-20,Present,Medium
+1330,Melissa,Biology,63.0,2023-05-31,Present,Medium
+1416,Michelle,Biology,63.0,2021-09-15,Absent,Medium
+1218,Kyle,Biology,88.0,2022-02-05,Present,High
+1400,Miguel,Computer Science,67.0,2024-03-20,Absent,Medium
+1400,Kyle,Computer Science,78.7,2023-10-12,Absent,Medium
+1400,David,Computer Science,78.0,2021-07-15,Absent,Medium
+1400,Kristin,Computer Science,84.0,2023-11-16,Absent,Medium
+1476,Amber,Computer Science,71.0,2020-02-13,Present,Medium
+1476,Mike,Computer Science,78.7,2021-01-11,Present,Medium
+1476,Robert,Computer Science,71.0,2023-02-08,Present,Medium
+1476,Charles,Computer Science,89.0,2020-01-26,Present,High
+1436,Carrie,Mathematics,64.0,2024-02-20,Absent,Medium
+1436,Betty,Mathematics,79.1,2023-09-30,Absent,Medium
+1073,Duane,Biology,98.0,2021-01-31,Absent,High
+1440,James,Computer Science,77.0,2022-09-16,absent,Medium
+1440,Laura,Computer Science,86.0,2023-08-06,Present,High
+1190,Matthew,Physics,79.0,2020-08-17,Present,Medium
+1190,Marissa,Physics,92.0,2022-10-15,Present,High
+1365,Sara,Physics,71.0,2021-04-09,Absent,Medium
+1469,Catherine,Computer Science,65.0,2024-09-30,Present,Medium
+1469,Daniel,Computer Science,81.0,2024-06-18,absent,Medium
+1467,Nicholas,Biology,62.0,2020-02-27,absent,Medium
+1467,Wendy,Biology,77.9,2021-01-18,Absent,Medium
+1173,Brian,Computer Science,89.0,2024-10-02,Absent,High
+1289,Steven,Physics,85.0,2022-12-16,Absent,High
+1289,Miranda,Physics,96.0,2024-11-24,absent,High
+1011,Elizabeth,Physics,92.0,2022-04-30,Present,High
+1011,Lori,Physics,77.9,2021-11-12,Present,Medium
+1241,Christine,Physics,87.0,2020-03-15,absent,High
+1241,Elizabeth,Physics,68.0,2023-07-19,Absent,Medium
+1241,Lisa,Physics,77.9,2024-10-17,Absent,Medium
+1067,Anne,Physics,77.9,2023-02-11,Present,Medium
+1333,James,Computer Science,78.7,2020-10-21,Present,Medium
+1404,Sheri,Mathematics,96.0,2024-09-23,Absent,High
+1404,Lisa,Mathematics,97.0,2021-11-19,Absent,High
+1129,Russell,Physics,64.0,2020-05-03,Absent,Medium
+1129,Angie,Physics,94.0,2023-09-18,Absent,High
+1129,Thomas,Physics,77.9,2023-09-20,Absent,Medium
+1129,Mark,Physics,88.0,2022-07-13,Absent,High
+1452,Shannon,Computer Science,100.0,2024-04-04,Absent,High
+1452,Chad,Computer Science,78.7,2024-11-12,Absent,Medium
+1106,Benjamin,Biology,77.9,2024-08-02,Present,Medium
+1385,Michael,Computer Science,90.0,2023-06-09,Absent,High
+1491,Christopher,Computer Science,94.0,2020-05-15,Present,High
+1491,Laura,Computer Science,100.0,2024-06-20,Present,High
+1255,Jimmy,Physics,67.0,2023-06-09,Present,Medium
+1255,Lisa,Physics,90.0,2020-04-27,Present,High
+1245,Kyle,Biology,77.9,2023-07-01,Present,Medium
+1245,Kelly,Biology,77.9,2020-01-31,Present,Medium
+1245,William,Biology,67.0,2020-10-17,Present,Medium
+1441,Mason,Mathematics,72.0,2024-04-16,Present,Medium
+1121,Lauren,Computer Science,83.0,2021-09-26,Present,Medium
+1121,Katie,Computer Science,72.0,2023-10-10,absent,Medium
+1287,Terri,Computer Science,89.0,2021-11-03,Present,High
+1287,Gwendolyn,Computer Science,66.0,2022-03-22,Present,Medium
+1287,Whitney,Computer Science,98.0,2021-07-06,Present,High
+1109,Whitney,Biology,97.0,2024-09-16,Present,High
+1109,Kayla,Biology,81.0,2023-05-12,Present,Medium
+1403,Benjamin,Computer Science,61.0,2021-11-23,Absent,Medium
+1403,Janice,Computer Science,75.0,2023-06-14,Absent,Medium
+1403,Joshua,Computer Science,87.0,2021-07-16,Absent,High
+1403,Brian,Computer Science,82.0,2021-10-15,Absent,Medium
+1151,Lori,Mathematics,88.0,2020-10-19,Present,High
+1400,Hannah,Physics,67.0,2024-03-20,Absent,Medium
+1400,Paul,Physics,93.0,2023-10-12,absent,High
+1400,Jasmin,Physics,78.0,2021-07-15,Absent,Medium
+1400,Donald,Physics,77.9,2023-11-16,Absent,Medium
+1327,Travis,Computer Science,74.0,2022-09-05,Absent,Medium
+1327,Christopher,Computer Science,78.7,2022-09-19,Absent,Medium
+1327,Whitney,Computer Science,81.0,2024-09-11,Absent,Medium
+1315,Michael,Biology,70.0,2021-05-31,Present,Medium
+1315,George,Biology,74.0,2024-01-19,Present,Medium
+1315,Christopher,Biology,63.0,2021-08-19,Present,Medium
+1198,Keith,Biology,63.0,2024-06-15,Present,Medium
+1249,Richard,Physics,97.0,2021-08-14,Absent,High
+1249,Meghan,Physics,74.0,2024-01-12,Absent,Medium
+1232,Grace,Computer Science,84.0,2021-01-22,absent,Medium
+1232,Thomas,Computer Science,65.0,2022-10-20,absent,Medium
+1232,Justin,Computer Science,64.0,2024-07-21,Absent,Medium
+1232,Rachel,Computer Science,69.0,2024-09-06,Absent,Medium
+1232,Kaylee,Computer Science,84.0,2021-01-25,Absent,Medium
+1143,William,Computer Science,79.0,2022-12-20,Present,Medium
+1143,Isaac,Computer Science,84.0,2024-03-08,Present,Medium
+1143,George,Computer Science,75.0,2021-01-12,Present,Medium
+1287,Erin,Biology,89.0,2021-11-03,Absent,High
+1287,Amy,Biology,66.0,2022-03-22,Absent,Medium
+1287,Alex,Biology,98.0,2021-07-06,Absent,High
+1153,Christopher,Mathematics,85.0,2021-02-17,Absent,High
+1153,Gregory,Mathematics,90.0,2024-03-01,Absent,High
+1124,Karen,Physics,86.0,2020-02-26,absent,High
+1124,Wesley,Physics,66.0,2022-04-02,Absent,Medium
+1467,Jasmine,Biology,62.0,2020-02-27,Absent,Medium
+1467,Wendy,Biology,64.0,2021-01-18,Absent,Medium
+1274,Sarah,Computer Science,78.7,2020-09-04,absent,Medium
+1406,Jessica,Computer Science,68.0,2023-02-09,Absent,Medium
+1406,David,Computer Science,74.0,2023-03-23,Absent,Medium
+1488,Donald,Biology,62.0,2023-07-30,Absent,Medium
+1488,Emily,Biology,74.0,2023-01-21,absent,Medium
+1488,Colleen,Biology,78.0,2022-09-15,Absent,Medium
+1073,Kyle,Physics,98.0,2021-01-31,Absent,High
+1073,Richard,Physics,75.0,2023-03-07,Absent,Medium
+1356,Austin,Physics,97.0,2021-11-29,absent,High
+1356,Kevin,Physics,65.0,2022-11-21,Present,Medium
+1220,Maurice,Physics,63.0,2022-01-20,Present,Medium
+1220,Robert,Physics,97.0,2021-09-08,Present,High
+1239,Erika,Physics,71.0,2024-05-02,Present,Medium
+1239,David,Physics,74.0,2021-10-26,Present,Medium
+1239,Cynthia,Physics,66.0,2022-04-04,Present,Medium
+1225,David,Computer Science,78.7,2023-01-10,Absent,Medium
+1225,Christopher,Computer Science,82.0,2021-09-12,Absent,Medium
+1406,Daniel,Computer Science,74.0,2023-03-23,Present,Medium
+1299,Gary,Physics,97.0,2021-10-07,Present,High
+1330,Dale,Physics,63.0,2023-05-31,Absent,Medium
+1021,Mackenzie,Computer Science,65.0,2021-07-16,Present,Medium
+1021,Tammy,Computer Science,72.0,2024-12-22,Present,Medium
+1021,Nicole,Computer Science,85.0,2020-05-17,Present,High
+1021,Zachary,Computer Science,72.0,2024-07-09,absent,Medium
+1021,Ricardo,Computer Science,84.0,2021-12-13,Present,Medium
+1021,Alyssa,Computer Science,99.0,2020-02-12,Present,High
+1352,Christine,Physics,74.0,2023-10-17,Present,Medium
+1352,Phillip,Physics,63.0,2023-06-16,absent,Medium
+1119,Lisa,Physics,63.0,2023-06-26,Absent,Medium
+1119,Kevin,Physics,87.0,2022-01-16,Absent,High
+1139,Randall,Computer Science,66.0,2023-06-27,absent,Medium
+1139,Antonio,Computer Science,61.0,2021-11-28,absent,Medium
+1437,Wendy,Physics,89.0,2023-06-21,Absent,High
+1328,Michael,Physics,73.0,2021-05-24,Absent,Medium
+1418,Meghan,Computer Science,91.0,2023-04-11,Present,High
+1418,Connor,Computer Science,83.0,2024-02-21,Present,Medium
+1336,Jessica,Biology,77.9,2023-03-01,Absent,Medium
+1225,Helen,Mathematics,79.1,2023-01-10,Absent,Medium
+1225,Courtney,Mathematics,82.0,2021-09-12,absent,Medium
+1498,Paul,Biology,74.0,2022-08-25,absent,Medium
+1498,Julie,Biology,90.0,2021-05-07,Absent,High
+1070,Corey,Computer Science,78.7,2021-11-16,Present,Medium
+1070,Yvette,Computer Science,93.0,2023-06-11,Present,High
+1070,Jaime,Computer Science,65.0,2023-12-11,Present,Medium
+1070,Jordan,Computer Science,85.0,2022-01-06,Present,High
+1070,Savannah,Computer Science,78.7,2020-03-16,Present,Medium
+1471,Joyce,Biology,95.0,2020-08-08,Absent,High
+1471,Patricia,Biology,95.0,2023-09-01,Absent,High
+1471,Anthony,Biology,77.9,2020-01-28,Absent,Medium
+1135,Kathryn,Computer Science,78.7,2022-07-10,Present,Medium
+1135,Ashley,Computer Science,95.0,2023-06-13,Present,High
+1053,Donna,Mathematics,87.0,2024-02-20,Present,High
+1053,Melissa,Mathematics,80.0,2022-12-23,Present,Medium
+1203,Megan,Mathematics,100.0,2022-08-03,Absent,High
+1203,Jennifer,Mathematics,69.0,2023-03-26,Absent,Medium
+1203,Nicholas,Mathematics,99.0,2022-02-03,Absent,High
+1147,Alison,Physics,77.9,2024-02-03,Present,Medium
+1147,Marc,Physics,78.0,2024-11-03,Present,Medium
+1079,Thomas,Mathematics,65.0,2022-01-06,Absent,Medium
+1400,Rebecca,Computer Science,93.0,2023-10-12,Present,High
+1400,Brittney,Computer Science,78.0,2021-07-15,Present,Medium
+1400,Vanessa,Computer Science,84.0,2023-11-16,absent,Medium
+1364,Mary,Computer Science,77.0,2022-12-17,Present,Medium
+1329,Sheila,Biology,89.0,2020-09-29,Present,High
+1329,Vanessa,Biology,65.0,2024-01-14,Present,Medium
+1414,Robert,Biology,96.0,2024-07-08,absent,High
+1414,Todd,Biology,69.0,2023-11-21,Absent,Medium
+1414,Eric,Biology,86.0,2023-03-27,Absent,High
+1103,Jeremy,Biology,100.0,2020-02-12,Present,High
+1008,Brittney,Biology,77.9,2021-07-20,Present,Medium
+1008,Kathy,Biology,67.0,2023-01-26,Present,Medium
+1008,Susan,Biology,77.9,2024-06-27,Present,Medium
+1248,Patrick,Physics,60.0,2020-06-09,Absent,Medium
+1248,Nicholas,Physics,91.0,2021-01-02,Absent,High
+1405,Laura,Biology,92.0,2023-12-23,Present,High
+1405,Erin,Biology,75.0,2024-04-03,Present,Medium
+1241,Heather,Biology,77.9,2020-03-15,Absent,Medium
+1241,Sharon,Biology,68.0,2023-07-19,Absent,Medium
+1241,Brian,Biology,68.0,2024-10-17,Absent,Medium
+1122,Frank,Biology,77.9,2023-09-25,Present,Medium
+1128,Gabrielle,Physics,98.0,2024-01-04,Present,High
+1356,Vincent,Computer Science,97.0,2021-11-29,Absent,High
+1356,Katherine,Computer Science,65.0,2022-11-21,Absent,Medium
+1221,Julie,Computer Science,96.0,2021-11-20,absent,High
+1409,Vincent,Biology,82.0,2021-10-14,Present,Medium
+1409,Logan,Biology,67.0,2024-06-01,Present,Medium
+1352,Benjamin,Computer Science,63.0,2023-06-16,absent,Medium
+1185,Latoya,Physics,70.0,2024-03-23,Present,Medium
+1185,Tina,Physics,82.0,2024-10-01,Present,Medium
+1384,Kristin,Biology,77.9,2021-02-25,Absent,Medium
+1384,Eric,Biology,61.0,2023-12-24,Absent,Medium
+1292,Daniel,Physics,63.0,2020-07-18,absent,Medium
+1405,James,Biology,92.0,2023-12-23,absent,High
+1405,Daniel,Biology,75.0,2024-04-03,Absent,Medium
+1333,Evan,Physics,85.0,2020-10-21,Present,High
+1436,Shirley,Biology,64.0,2024-02-20,Present,Medium
+1436,Christina,Biology,75.0,2023-09-30,Present,Medium
+1420,John,Physics,89.0,2022-03-31,Present,High
+1469,Vicki,Biology,65.0,2024-09-30,absent,Medium
+1469,Caleb,Biology,81.0,2024-06-18,Present,Medium
+1056,Kayla,Computer Science,70.0,2024-07-14,Present,Medium
+1056,Stephen,Computer Science,86.0,2024-11-04,Present,High
+1056,Sharon,Computer Science,60.0,2020-06-25,absent,Medium
+1056,Rachel,Computer Science,64.0,2021-01-28,Present,Medium
+1056,Scott,Computer Science,98.0,2020-03-06,Present,High
+1069,Amanda,Mathematics,80.0,2022-10-12,Absent,Medium
+1069,Jessica,Mathematics,72.0,2021-11-30,absent,Medium
+1069,Michele,Mathematics,86.0,2020-02-03,Absent,High
+1069,Amanda,Mathematics,89.0,2021-02-05,Absent,High
+1291,Jennifer,Physics,68.0,2023-05-30,absent,Medium
+1291,Kimberly,Physics,77.9,2023-06-02,Present,Medium
+1181,Travis,Physics,66.0,2022-12-27,Absent,Medium
+1200,Julie,Physics,69.0,2022-04-28,Absent,Medium
+1200,Nicholas,Physics,61.0,2020-01-19,Absent,Medium
+1443,Wendy,Computer Science,98.0,2020-07-15,Absent,High
+1318,Marcus,Physics,75.0,2023-11-28,Absent,Medium
+1384,Jose,Physics,61.0,2023-12-24,Absent,Medium
+1224,Jennifer,Mathematics,64.0,2021-07-23,Present,Medium
+1224,William,Mathematics,68.0,2024-08-28,absent,Medium
+1224,Angela,Mathematics,80.0,2021-04-11,absent,Medium
+1224,Amanda,Mathematics,80.0,2022-12-17,Present,Medium
+1095,Katherine,Computer Science,92.0,2021-09-01,Absent,High
+1095,Jessica,Computer Science,76.0,2022-04-29,Absent,Medium
+1172,Robert,Computer Science,94.0,2023-10-16,absent,High
+1172,Pamela,Computer Science,78.7,2022-02-22,Absent,Medium
+1172,Justin,Computer Science,71.0,2024-12-12,Absent,Medium
+1190,Seth,Mathematics,92.0,2022-10-15,Present,High
+1353,Dalton,Physics,66.0,2021-01-19,absent,Medium
+1353,William,Physics,77.9,2021-07-27,Absent,Medium
+1353,Zachary,Physics,73.0,2024-12-06,Absent,Medium
+1147,Mark,Computer Science,82.0,2024-02-03,Present,Medium
+1147,William,Computer Science,78.0,2024-11-03,absent,Medium
+1172,Brenda,Physics,77.9,2023-10-16,Absent,Medium
+1172,Jason,Physics,88.0,2021-05-25,Absent,High
+1172,Christopher,Physics,77.9,2022-02-22,absent,Medium
+1172,Tina,Physics,77.9,2024-12-12,Absent,Medium
+1388,Joseph,Physics,77.9,2023-02-07,Absent,Medium
+1408,Sarah,Physics,69.0,2022-12-26,Absent,Medium
+1408,Tara,Physics,83.0,2020-11-26,Absent,Medium
+1208,Monica,Biology,62.0,2020-03-01,Absent,Medium
+1253,Joseph,Biology,77.9,2021-10-02,Present,Medium
+1253,Carol,Biology,61.0,2024-12-24,Present,Medium
+1253,Thomas,Biology,63.0,2024-08-03,Present,Medium
+1092,Heather,Mathematics,79.1,2023-12-08,absent,Medium
+1323,Jason,Biology,82.0,2021-10-15,Absent,Medium
+1142,Wanda,Biology,66.0,2020-03-02,Present,Medium
+1142,Richard,Biology,76.0,2022-09-14,absent,Medium
+1281,Danielle,Computer Science,78.7,2024-10-18,Present,Medium
+1360,Stacy,Mathematics,84.0,2020-07-20,Absent,Medium
+1301,Mark,Physics,65.0,2022-11-09,Absent,Medium
+1301,Erik,Physics,64.0,2022-03-21,absent,Medium
+1001,Michael,Physics,67.0,2024-12-20,Present,Medium
+1469,Tiffany,Computer Science,65.0,2024-09-30,Present,Medium
+1469,Steve,Computer Science,81.0,2024-06-18,Present,Medium
+1036,Katie,Mathematics,63.0,2022-11-07,Present,Medium
+1036,David,Mathematics,87.0,2022-04-03,Present,High
+1036,Monica,Mathematics,87.0,2021-11-03,Present,High
+1228,Dan,Mathematics,99.0,2020-04-22,Present,High
+1228,Richard,Mathematics,63.0,2022-11-03,Present,Medium
+1228,Madison,Mathematics,65.0,2022-06-08,Present,Medium
+1193,James,Computer Science,60.0,2023-06-06,Absent,Medium
+1134,Victoria,Biology,85.0,2022-04-14,Absent,High
+1134,Crystal,Biology,91.0,2023-03-20,Absent,High
+1134,Dawn,Biology,78.0,2023-12-10,Absent,Medium
+1291,Nicholas,Physics,68.0,2023-05-30,Present,Medium
+1291,George,Physics,80.0,2023-06-02,Present,Medium
+1186,Charles,Biology,81.0,2022-08-23,Absent,Medium
+1186,Pedro,Biology,73.0,2023-02-14,Absent,Medium
+1094,Tommy,Biology,68.0,2024-01-14,Present,Medium
+1094,Michelle,Biology,78.0,2024-01-16,Present,Medium
+1094,Tara,Biology,67.0,2022-05-27,absent,Medium
+1094,Lauren,Biology,83.0,2023-12-12,Present,Medium
+1059,Kimberly,Computer Science,87.0,2021-02-27,Present,High
+1137,Debbie,Mathematics,64.0,2022-03-26,Absent,Medium
+1137,Alicia,Mathematics,75.0,2022-06-19,Absent,Medium
+1058,Maria,Computer Science,64.0,2023-08-07,Absent,Medium
+1058,Amber,Computer Science,73.0,2024-09-15,Absent,Medium
+1058,Amber,Computer Science,67.0,2021-07-16,absent,Medium
+1058,John,Computer Science,100.0,2023-07-05,Absent,High
+1058,Ryan,Computer Science,100.0,2020-03-23,Absent,High
+1358,Bianca,Computer Science,98.0,2023-03-24,Present,High
+1358,Nicole,Computer Science,64.0,2020-11-13,Present,Medium
+1358,Kathryn,Computer Science,78.0,2020-10-10,Present,Medium
+1289,Donald,Biology,77.9,2022-12-16,absent,Medium
+1289,Jessica,Biology,96.0,2024-11-24,Absent,High
+1289,Joseph,Biology,95.0,2020-05-02,Absent,High
+1382,Edwin,Biology,74.0,2020-04-09,Present,Medium
+1029,Darryl,Physics,100.0,2023-08-02,Absent,High
+1336,Amanda,Computer Science,72.0,2020-11-28,Absent,Medium
+1336,Samuel,Computer Science,98.0,2023-03-01,Absent,High
+1040,Ariel,Physics,60.0,2023-02-10,Present,Medium
+1040,Jennifer,Physics,61.0,2024-06-06,Present,Medium
+1003,Alan,Mathematics,79.1,2024-09-17,Absent,Medium
+1285,Richard,Computer Science,69.0,2023-02-02,absent,Medium
+1063,Jennifer,Computer Science,74.0,2024-01-25,absent,Medium
+1063,Adam,Computer Science,68.0,2024-11-23,Present,Medium
+1420,Stephanie,Mathematics,89.0,2022-03-31,Present,High
+1420,Beth,Mathematics,72.0,2024-09-29,Present,Medium
+1162,John,Physics,77.9,2024-11-01,Absent,Medium
+1254,Dennis,Mathematics,72.0,2021-09-12,Present,Medium
+1486,Jasmin,Biology,70.0,2021-03-25,Absent,Medium
+1220,Phyllis,Mathematics,97.0,2021-09-08,Present,High
+1418,David,Biology,91.0,2023-04-11,Present,High
+1340,Lauren,Physics,81.0,2020-06-21,absent,Medium
+1340,Sarah,Physics,63.0,2024-08-18,absent,Medium
+1334,Gregory,Mathematics,61.0,2022-10-25,Absent,Medium
+1334,Michael,Mathematics,66.0,2022-12-17,Absent,Medium
+1334,Sandra,Mathematics,79.1,2020-10-19,absent,Medium
+1334,Brian,Mathematics,95.0,2021-04-21,Absent,High
+1422,Gabriel,Biology,77.9,2022-06-25,Absent,Medium
+1422,Victoria,Biology,77.9,2021-09-09,Absent,Medium
+1058,Jeffrey,Computer Science,64.0,2023-08-07,absent,Medium
+1058,Diane,Computer Science,73.0,2024-09-15,Absent,Medium
+1058,Andrea,Computer Science,67.0,2021-07-16,Absent,Medium
+1058,Christopher,Computer Science,100.0,2020-03-23,Absent,High
+1269,Cynthia,Computer Science,78.7,2024-01-14,Present,Medium
+1269,Samuel,Computer Science,93.0,2024-06-08,Present,High
+1359,Angela,Physics,82.0,2021-07-14,Absent,Medium
+1206,Carrie,Physics,64.0,2021-05-31,Absent,Medium
+1206,Monica,Physics,65.0,2023-08-11,Absent,Medium
+1206,Logan,Physics,100.0,2023-09-28,Absent,High
+1206,William,Physics,79.0,2021-03-14,Absent,Medium
+1162,Donald,Biology,72.0,2024-11-01,Absent,Medium
+1162,Holly,Biology,81.0,2022-02-26,Absent,Medium
+1162,Frank,Biology,77.9,2024-09-17,Absent,Medium
+1312,Tasha,Computer Science,78.7,2021-05-11,Present,Medium
+1112,William,Mathematics,79.1,2020-10-19,Absent,Medium
+1112,Haley,Mathematics,61.0,2023-07-02,Absent,Medium
+1425,Darryl,Biology,87.0,2021-09-25,Absent,High
+1425,David,Biology,63.0,2022-01-04,absent,Medium
+1425,Deborah,Biology,100.0,2023-09-09,absent,High
+1489,James,Biology,76.0,2024-08-12,Present,Medium
+1489,Sherry,Biology,65.0,2021-01-02,Present,Medium
+1234,Javier,Computer Science,66.0,2023-08-03,Present,Medium
+1207,Kathleen,Physics,88.0,2022-12-29,Absent,High
+1207,Matthew,Physics,89.0,2020-09-13,Absent,High
+1107,Katherine,Mathematics,89.0,2023-05-05,Present,High
+1107,Juan,Mathematics,69.0,2022-08-06,Present,Medium
+1107,Joshua,Mathematics,89.0,2024-03-17,Present,High
+1141,Danielle,Biology,70.0,2020-08-27,absent,Medium
+1141,Alyssa,Biology,68.0,2020-06-15,Present,Medium
+1141,Nancy,Biology,69.0,2023-12-02,absent,Medium
+1444,Sharon,Biology,66.0,2024-01-06,Present,Medium
+1444,Marilyn,Biology,92.0,2024-02-20,Present,High
+1444,Carrie,Biology,64.0,2020-12-31,Present,Medium
+1013,Joann,Physics,71.0,2020-07-23,Absent,Medium
+1013,Megan,Physics,74.0,2024-01-21,Absent,Medium
+1087,Paul,Biology,73.0,2020-12-14,Present,Medium
+1475,Tina,Computer Science,71.0,2020-02-20,Present,Medium
+1369,Troy,Computer Science,100.0,2020-11-16,Present,High
+1369,Tonya,Computer Science,89.0,2020-10-30,Present,High
+1338,Cody,Physics,77.0,2020-04-02,Present,Medium
+1338,Kelly,Physics,95.0,2024-05-07,Present,High
+1338,Dave,Physics,73.0,2022-10-03,Present,Medium
+1165,Lisa,Physics,98.0,2024-04-23,absent,High
+1035,Melissa,Biology,74.0,2024-11-05,Present,Medium
+1035,Amy,Biology,71.0,2020-01-01,Present,Medium
+1025,Zachary,Computer Science,95.0,2021-12-13,absent,High
+1060,Kevin,Biology,72.0,2020-04-27,absent,Medium
+1060,Stephanie,Biology,77.9,2020-01-17,Present,Medium
+1060,Danielle,Biology,83.0,2023-11-26,Present,Medium
+1120,Maurice,Computer Science,66.0,2024-01-11,Absent,Medium
+1257,Ashley,Physics,100.0,2020-09-07,Absent,High
+1257,Tiffany,Physics,71.0,2022-07-19,Absent,Medium
+1257,Patrick,Physics,90.0,2021-01-14,Absent,High
+1257,Nicholas,Physics,61.0,2023-01-01,Absent,Medium
+1106,Michelle,Mathematics,79.1,2024-08-02,Present,Medium
+1436,Derek,Physics,64.0,2024-02-20,Absent,Medium
+1436,Gabriel,Physics,75.0,2023-09-30,Absent,Medium
+1177,Ryan,Biology,83.0,2022-07-13,Absent,Medium
+1200,Hannah,Physics,69.0,2022-04-28,Present,Medium
+1200,Gregory,Physics,61.0,2020-01-19,Present,Medium
+1315,Isaac,Computer Science,78.7,2021-05-31,Present,Medium
+1315,Lauren,Computer Science,74.0,2024-01-19,Present,Medium
+1315,Justin,Computer Science,63.0,2021-08-19,Present,Medium
+1254,Richard,Biology,82.0,2021-06-27,Absent,Medium
+1254,Patrick,Biology,77.9,2021-09-12,Absent,Medium
+1180,Dakota,Physics,100.0,2023-05-22,Absent,High
+1115,Patrick,Computer Science,76.0,2022-03-02,Present,Medium
+1027,Keith,Mathematics,69.0,2023-07-04,absent,Medium
+1027,Nicholas,Mathematics,87.0,2024-06-14,Present,High
+1191,William,Computer Science,83.0,2020-07-25,Absent,Medium
+1191,Leah,Computer Science,82.0,2023-07-27,Absent,Medium
+1191,Malik,Computer Science,61.0,2021-05-31,Absent,Medium
+1391,Amanda,Mathematics,81.0,2021-05-23,absent,Medium
+1391,Erica,Mathematics,79.1,2023-08-18,absent,Medium
+1391,Jason,Mathematics,62.0,2023-11-17,Present,Medium
+1194,Lucas,Computer Science,82.0,2021-11-24,Present,Medium
+1194,Cynthia,Computer Science,76.0,2020-02-29,Present,Medium
+1194,Marcus,Computer Science,92.0,2021-10-06,Present,High
+1194,Karen,Computer Science,78.7,2024-11-27,Present,Medium
+1194,Jesus,Computer Science,72.0,2021-09-26,absent,Medium
+1228,Jimmy,Biology,99.0,2020-04-22,Absent,High
+1232,Jacob,Biology,84.0,2021-01-22,Present,Medium
+1232,Stacy,Biology,65.0,2022-10-20,Present,Medium
+1232,Jose,Biology,77.9,2024-07-21,Present,Medium
+1232,Judy,Biology,69.0,2024-09-06,Present,Medium
+1232,Alexis,Biology,81.0,2024-07-02,Present,Medium
+1232,Cassandra,Biology,84.0,2021-01-25,Present,Medium
+1216,Emily,Physics,65.0,2023-01-03,Absent,Medium
+1216,Kimberly,Physics,89.0,2023-01-09,Absent,High
+1216,Katelyn,Physics,72.0,2024-07-13,absent,Medium
+1216,Julie,Physics,92.0,2020-12-27,Absent,High
+1133,Kim,Biology,73.0,2024-07-10,Absent,Medium
+1133,Robert,Biology,82.0,2021-05-11,Absent,Medium
+1133,Melissa,Biology,77.9,2023-08-10,Absent,Medium
+1312,Cathy,Physics,67.0,2022-02-04,absent,Medium
+1312,Aaron,Physics,79.0,2021-05-11,Present,Medium
+1002,Henry,Computer Science,67.0,2024-09-16,Present,Medium
+1002,Renee,Computer Science,74.0,2023-11-30,Present,Medium
+1002,Emily,Computer Science,78.7,2021-09-28,Present,Medium
+1002,Deborah,Computer Science,98.0,2022-02-09,Present,High
+1106,Jacob,Biology,69.0,2024-08-02,Present,Medium
+1220,Alicia,Computer Science,63.0,2022-01-20,Present,Medium
+1196,Jessica,Biology,90.0,2021-10-08,Absent,High
+1196,Ann,Biology,75.0,2020-12-05,Absent,Medium
+1346,Julie,Computer Science,71.0,2024-05-26,Absent,Medium
+1329,Olivia,Biology,89.0,2020-09-29,Absent,High
+1008,Russell,Biology,67.0,2023-01-26,Absent,Medium
+1008,Andres,Biology,77.9,2024-06-27,Absent,Medium
+1297,Christopher,Mathematics,100.0,2023-06-29,absent,High
+1297,Stephanie,Mathematics,63.0,2021-08-02,Absent,Medium
+1279,Carla,Computer Science,78.0,2024-08-15,Absent,Medium
+1279,Laura,Computer Science,92.0,2024-12-18,Absent,High
+1279,Madison,Computer Science,78.7,2021-12-22,Absent,Medium
+1326,Julie,Physics,98.0,2023-08-05,Absent,High
+1326,Jessica,Physics,77.0,2020-03-25,Absent,Medium
+1326,Richard,Physics,60.0,2022-05-25,Absent,Medium
+1129,Kyle,Biology,64.0,2020-05-03,Absent,Medium
+1129,Damon,Biology,65.0,2023-09-20,absent,Medium
+1129,Todd,Biology,88.0,2022-07-13,absent,High
+1219,Kimberly,Computer Science,79.0,2024-10-15,Present,Medium
+1088,Bradley,Biology,93.0,2022-04-15,Absent,High
+1088,Christopher,Biology,77.9,2020-08-18,Absent,Medium
+1421,Ian,Computer Science,94.0,2022-02-22,Present,High
+1341,Angela,Computer Science,85.0,2023-12-17,Present,High
+1341,Eric,Computer Science,62.0,2021-06-29,absent,Medium
+1375,Cynthia,Mathematics,64.0,2024-09-21,Absent,Medium
+1375,Christopher,Mathematics,71.0,2020-11-10,Absent,Medium
+1375,Sandra,Mathematics,96.0,2023-12-17,Absent,High
+1059,Michael,Biology,87.0,2021-02-27,absent,High
+1326,Kristen,Physics,98.0,2023-08-05,Absent,High
+1326,Denise,Physics,77.0,2020-03-25,Absent,Medium
+1326,Christian,Physics,60.0,2022-05-25,Absent,Medium
+1204,Katherine,Biology,64.0,2024-09-21,Absent,Medium
+1204,Christopher,Biology,68.0,2021-02-10,Absent,Medium
+1003,James,Physics,77.9,2024-09-17,Present,Medium
+1371,John,Physics,80.0,2024-01-16,Absent,Medium
+1019,Ryan,Computer Science,78.7,2023-11-05,absent,Medium
+1019,Amy,Computer Science,65.0,2022-08-13,Present,Medium
+1019,Kelly,Computer Science,84.0,2023-11-19,Present,Medium
+1190,Donald,Biology,79.0,2020-08-17,Absent,Medium
+1190,Melissa,Biology,92.0,2022-10-15,Absent,High
+1388,Tracy,Biology,77.9,2023-02-07,absent,Medium
+1191,Nancy,Physics,96.0,2022-03-04,Absent,High
+1191,Michael,Physics,82.0,2023-07-27,Absent,Medium
+1191,Becky,Physics,61.0,2021-05-31,Absent,Medium
+1421,William,Physics,77.9,2022-02-22,absent,Medium
+1284,John,Physics,77.9,2024-04-22,Present,Medium
+1284,Sarah,Physics,90.0,2022-05-21,absent,High
+1284,Kristen,Physics,77.0,2022-05-30,Present,Medium
+1284,Hannah,Physics,90.0,2023-02-24,absent,High
+1261,Mary,Physics,60.0,2024-12-24,Present,Medium
+1296,Roger,Mathematics,65.0,2020-11-08,Absent,Medium
+1296,Caroline,Mathematics,63.0,2023-04-24,Absent,Medium
+1316,Susan,Mathematics,68.0,2020-11-10,Present,Medium
+1316,Samantha,Mathematics,96.0,2020-07-05,Present,High
+1333,Kimberly,Biology,85.0,2020-10-21,Present,High
+1388,Juan,Mathematics,86.0,2023-02-07,Absent,High
+1438,Diana,Physics,92.0,2023-05-18,Absent,High
+1438,Cheryl,Physics,100.0,2023-02-04,Absent,High
+1438,Sarah,Physics,77.9,2020-06-01,Absent,Medium
+1438,Heather,Physics,71.0,2024-12-15,Absent,Medium
+1401,Michelle,Computer Science,74.0,2021-09-14,Present,Medium
+1145,Elizabeth,Physics,69.0,2022-02-25,absent,Medium
+1145,Samantha,Physics,77.9,2020-07-28,Present,Medium
+1145,Martin,Physics,65.0,2020-09-06,Present,Medium
+1145,Joshua,Physics,75.0,2022-01-16,Present,Medium
+1145,Paige,Physics,92.0,2021-12-17,Present,High
+1473,Amber,Mathematics,94.0,2021-04-16,Absent,High
+1073,David,Mathematics,75.0,2023-03-07,Present,Medium
+1420,Emily,Computer Science,89.0,2022-03-31,Absent,High
+1420,James,Computer Science,72.0,2024-09-29,Absent,Medium
+1200,Leonard,Biology,69.0,2022-04-28,Absent,Medium
+1103,Shawn,Biology,100.0,2020-02-12,Absent,High
+1150,Elizabeth,Computer Science,70.0,2020-08-27,Absent,Medium
+1150,Christopher,Computer Science,64.0,2022-07-06,Absent,Medium
+1497,Antonio,Biology,71.0,2022-11-02,Present,Medium
+1195,William,Computer Science,78.7,2020-09-08,Present,Medium
+1195,Leroy,Computer Science,91.0,2021-07-03,Present,High
+1195,Sarah,Computer Science,75.0,2023-05-07,Present,Medium
+1195,Jessica,Computer Science,73.0,2020-12-29,Present,Medium
+1090,Shawn,Biology,75.0,2023-10-15,Present,Medium
+1090,Stephanie,Biology,93.0,2021-04-20,Present,High
+1087,Meagan,Computer Science,81.0,2021-08-22,Absent,Medium
+1087,Cody,Computer Science,73.0,2020-12-14,Absent,Medium
+1241,Carl,Computer Science,68.0,2023-07-19,absent,Medium
+1241,Christine,Computer Science,68.0,2024-10-17,absent,Medium
+1461,Dale,Computer Science,67.0,2020-09-23,absent,Medium
+1461,Arthur,Computer Science,63.0,2022-09-14,Absent,Medium
+1461,Melinda,Computer Science,62.0,2020-06-10,Absent,Medium
+1461,Marissa,Computer Science,68.0,2024-07-29,Absent,Medium
+1370,Joshua,Physics,67.0,2024-05-31,Absent,Medium
+1370,Derek,Physics,97.0,2023-08-15,Absent,High
+1370,Marissa,Physics,76.0,2023-04-03,absent,Medium
+1370,Christopher,Physics,99.0,2023-06-29,absent,High
+1042,Scott,Biology,87.0,2022-03-25,Present,High
+1042,Tony,Biology,75.0,2024-07-25,absent,Medium
+1042,Wayne,Biology,68.0,2023-12-07,Present,Medium
+1042,Theresa,Biology,94.0,2020-06-01,absent,High
+1426,Deborah,Biology,86.0,2023-03-08,Present,High
+1138,Frank,Computer Science,72.0,2020-12-27,Present,Medium
+1138,Corey,Computer Science,70.0,2023-08-14,absent,Medium
+1227,Adam,Physics,73.0,2021-07-27,absent,Medium
+1416,Caroline,Computer Science,63.0,2021-09-15,Present,Medium
+1057,Allison,Mathematics,81.0,2024-10-20,Absent,Medium
+1400,Thomas,Mathematics,67.0,2024-03-20,Absent,Medium
+1400,Peter,Mathematics,79.1,2023-10-12,Absent,Medium
+1400,Madeline,Mathematics,73.0,2022-10-18,Absent,Medium
+1400,Michael,Mathematics,84.0,2023-11-16,absent,Medium
+1322,Deanna,Biology,75.0,2024-02-06,Absent,Medium
+1322,Ann,Biology,77.9,2023-10-07,Absent,Medium
+1428,Timothy,Computer Science,67.0,2020-03-27,Absent,Medium
+1428,Stephen,Computer Science,85.0,2021-02-14,Absent,High
+1428,Bryan,Computer Science,93.0,2023-04-02,Absent,High
+1428,Clinton,Computer Science,78.7,2024-08-04,absent,Medium
+1117,Summer,Mathematics,85.0,2021-10-03,Present,High
+1297,David,Mathematics,100.0,2023-06-29,Absent,High
+1297,Joshua,Mathematics,63.0,2021-08-02,Absent,Medium
+1297,Debra,Mathematics,88.0,2020-12-07,Absent,High
+1394,Tonya,Physics,60.0,2021-02-14,Absent,Medium
+1202,Hannah,Physics,79.0,2021-02-15,Present,Medium
+1187,Tara,Physics,87.0,2021-09-25,Present,High
+1187,Virginia,Physics,71.0,2023-07-21,Present,Medium
+1196,Dylan,Physics,90.0,2021-10-08,Present,High
+1196,Darrell,Physics,77.9,2023-01-07,Present,Medium
+1196,Kristy,Physics,75.0,2020-12-05,Present,Medium
+1227,Teresa,Biology,73.0,2021-07-27,Absent,Medium
+1479,Austin,Physics,95.0,2023-09-08,Absent,High
+1479,Sean,Physics,66.0,2022-10-12,Absent,Medium
+1389,Robert,Computer Science,86.0,2023-01-30,absent,High
+1036,Lucas,Mathematics,87.0,2022-04-03,Absent,High
+1036,Nathan,Mathematics,87.0,2021-11-03,Absent,High
+1259,Laura,Physics,60.0,2023-09-22,Present,Medium
+1035,Valerie,Computer Science,74.0,2024-11-05,absent,Medium
+1035,Richard,Computer Science,71.0,2020-01-01,Present,Medium
+1050,Wendy,Biology,98.0,2020-07-17,Present,High
+1042,Tammy,Physics,87.0,2022-03-25,Absent,High
+1042,Gary,Physics,75.0,2024-07-25,absent,Medium
+1042,Travis,Physics,68.0,2023-12-07,Absent,Medium
+1042,Michelle,Physics,94.0,2020-06-01,Absent,High
+1271,Brenda,Physics,93.0,2020-05-22,Present,High
+1271,Brandon,Physics,73.0,2020-07-10,absent,Medium
+1002,Taylor,Physics,82.0,2024-07-04,Present,Medium
+1002,Michael,Physics,67.0,2024-06-25,Present,Medium
+1002,Brian,Physics,74.0,2023-11-30,Present,Medium
+1002,Lisa,Physics,77.9,2021-09-28,Present,Medium
+1356,Stephanie,Physics,97.0,2021-11-29,absent,High
+1356,Dana,Physics,65.0,2022-11-21,absent,Medium
+1132,Jennifer,Computer Science,67.0,2023-02-07,Absent,Medium
+1147,Robert,Computer Science,82.0,2024-02-03,Absent,Medium
+1147,Cindy,Computer Science,78.0,2024-11-03,Absent,Medium
+1414,John,Physics,96.0,2024-07-08,Present,High
+1414,Briana,Physics,86.0,2023-03-27,Present,High
+1101,Michelle,Biology,77.9,2023-08-21,Present,Medium
+1101,Zachary,Biology,84.0,2024-06-09,Present,Medium
+1101,Taylor,Biology,77.9,2024-11-16,Present,Medium
+1101,Ryan,Biology,77.9,2023-05-14,absent,Medium
+1297,David,Mathematics,63.0,2021-08-02,Present,Medium
+1297,Dana,Mathematics,88.0,2020-12-07,Present,High
+1408,Arthur,Computer Science,78.7,2022-12-26,Present,Medium
+1408,Susan,Computer Science,83.0,2020-11-26,Present,Medium
+1448,Shannon,Physics,65.0,2023-07-29,Absent,Medium
+1448,Chad,Physics,71.0,2022-11-15,Absent,Medium
+1448,Michelle,Physics,82.0,2021-01-23,absent,Medium
+1485,Ernest,Biology,77.9,2024-02-11,Absent,Medium
+1485,Michael,Biology,92.0,2022-09-10,Absent,High
+1395,Adrian,Biology,64.0,2023-10-16,Absent,Medium
+1395,Wayne,Biology,84.0,2024-01-13,Absent,Medium
+1456,Nancy,Computer Science,76.0,2023-01-03,Absent,Medium
+1031,Melissa,Biology,71.0,2020-10-05,Present,Medium
+1031,Jonathan,Biology,66.0,2024-05-18,Present,Medium
+1386,Larry,Physics,76.0,2023-04-03,Present,Medium
+1107,Aaron,Computer Science,89.0,2023-05-05,Present,High
+1107,Emily,Computer Science,89.0,2024-03-17,Present,High
+1107,Jacob,Computer Science,97.0,2022-09-09,absent,High
+1400,Jillian,Physics,73.0,2022-10-18,Present,Medium
+1211,Thomas,Computer Science,83.0,2022-05-31,Absent,Medium
+1248,Emily,Computer Science,60.0,2020-06-09,Present,Medium
+1224,Richard,Computer Science,64.0,2021-07-23,Absent,Medium
+1224,Adam,Computer Science,78.7,2024-08-28,Absent,Medium
+1224,Donald,Computer Science,80.0,2022-12-17,Absent,Medium
+1314,Michelle,Mathematics,78.0,2022-05-09,absent,Medium
+1314,Austin,Mathematics,78.0,2023-02-02,Absent,Medium
+1273,Martin,Biology,82.0,2023-06-15,absent,Medium
+1273,David,Biology,76.0,2021-12-18,Present,Medium
+1273,Brian,Biology,75.0,2020-07-27,Present,Medium
+1086,Marcus,Biology,64.0,2021-08-31,Absent,Medium
+1109,Catherine,Computer Science,78.7,2024-09-16,absent,Medium
+1109,Roberto,Computer Science,81.0,2023-05-12,Absent,Medium
+1047,Gerald,Computer Science,74.0,2024-07-12,Present,Medium
+1070,Amy,Physics,61.0,2021-11-16,Absent,Medium
+1070,Krystal,Physics,77.9,2023-06-11,Absent,Medium
+1070,William,Physics,65.0,2023-12-11,Absent,Medium
+1139,Kathryn,Biology,77.9,2023-06-27,Present,Medium
+1139,Kevin,Biology,61.0,2021-11-28,Present,Medium
+1360,Andrew,Biology,84.0,2020-07-20,Absent,Medium
+1007,Ana,Biology,95.0,2024-02-29,Present,High
+1260,Denise,Biology,88.0,2021-02-20,Absent,High
+1260,Robert,Biology,85.0,2021-05-05,Absent,High
+1260,Monica,Biology,100.0,2020-09-07,Absent,High
+1394,Larry,Physics,60.0,2021-02-14,Absent,Medium
+1160,Connie,Physics,73.0,2020-05-21,Absent,Medium
+1160,Joel,Physics,72.0,2024-01-24,Absent,Medium
+1106,Ronald,Computer Science,69.0,2024-08-02,Present,Medium
+1416,Steven,Biology,63.0,2021-09-15,Absent,Medium
+1103,Jocelyn,Biology,77.9,2020-02-12,Present,Medium
+1301,Julie,Physics,77.9,2022-11-09,Absent,Medium
+1301,Travis,Physics,64.0,2022-03-21,absent,Medium
+1275,Anthony,Physics,69.0,2023-02-24,Present,Medium
+1275,Logan,Physics,66.0,2024-10-01,Present,Medium
+1080,Dennis,Biology,73.0,2024-04-28,Absent,Medium
+1012,Corey,Biology,92.0,2021-04-15,absent,High
+1012,Vanessa,Biology,95.0,2022-04-17,Absent,High
+1472,Beth,Biology,87.0,2021-08-01,absent,High
+1176,Jonathan,Biology,70.0,2024-03-25,Absent,Medium
+1176,Susan,Biology,77.9,2024-01-23,Absent,Medium
+1139,Selena,Mathematics,66.0,2023-06-27,Present,Medium
+1139,Mark,Mathematics,61.0,2021-11-28,Present,Medium
+1066,Jay,Biology,64.0,2022-10-03,Absent,Medium
+1070,Gene,Biology,61.0,2021-11-16,absent,Medium
+1070,Ashlee,Biology,65.0,2023-12-11,Absent,Medium
+1070,Melissa,Biology,85.0,2020-03-16,absent,High
+1393,Courtney,Mathematics,79.1,2024-01-29,Present,Medium
+1393,Michael,Mathematics,78.0,2024-08-25,absent,Medium
+1406,Antonio,Computer Science,68.0,2023-02-09,Present,Medium
+1406,Glenn,Computer Science,74.0,2023-03-23,Present,Medium
+1401,Lawrence,Physics,74.0,2021-09-14,Present,Medium
+1416,Morgan,Biology,63.0,2021-09-15,absent,Medium
+1221,Anthony,Computer Science,96.0,2021-11-20,absent,High
+1134,Rachel,Physics,85.0,2022-04-14,Absent,High
+1134,Lauren,Physics,91.0,2023-03-20,Absent,High
+1134,Paul,Physics,67.0,2023-05-05,Absent,Medium
+1134,Mark,Physics,78.0,2023-12-10,absent,Medium
+1278,Margaret,Computer Science,73.0,2020-01-15,Absent,Medium
+1003,Donna,Physics,94.0,2024-09-17,Present,High
+1428,Natasha,Computer Science,67.0,2020-03-27,Absent,Medium
+1428,Mary,Computer Science,85.0,2021-02-14,Absent,High
+1428,Steve,Computer Science,93.0,2023-04-02,Absent,High
+1428,Tiffany,Computer Science,79.0,2024-08-04,Absent,Medium
+1272,Mary,Biology,77.9,2022-01-19,absent,Medium
+1272,Darrell,Biology,86.0,2024-06-28,Present,High
+1355,Jeffrey,Biology,65.0,2020-08-30,Present,Medium
+1056,Angelica,Biology,81.0,2024-10-22,Absent,Medium
+1056,Kevin,Biology,84.0,2020-02-10,Absent,Medium
+1056,Mark,Biology,86.0,2024-11-04,Absent,High
+1056,Michael,Biology,60.0,2020-06-25,Absent,Medium
+1056,Zachary,Biology,77.9,2021-01-28,Absent,Medium
+1056,Gregory,Biology,98.0,2020-03-06,Absent,High
+1323,Ruben,Computer Science,82.0,2021-10-15,Absent,Medium
+1025,Jennifer,Computer Science,95.0,2021-12-13,absent,High
+1025,Tonya,Computer Science,78.7,2020-03-06,Absent,Medium
+1414,Erica,Mathematics,96.0,2024-07-08,Absent,High
+1414,Spencer,Mathematics,69.0,2023-11-21,absent,Medium
+1414,Paul,Mathematics,79.1,2023-03-27,Absent,Medium
+1431,Katherine,Computer Science,78.7,2023-09-21,Absent,Medium
+1431,Joshua,Computer Science,78.7,2020-04-30,Absent,Medium
+1431,Jamie,Computer Science,63.0,2021-11-13,Absent,Medium
+1431,Victor,Computer Science,82.0,2020-08-10,Absent,Medium
+1246,April,Mathematics,79.1,2020-02-23,Absent,Medium
+1246,Kimberly,Mathematics,71.0,2024-01-11,Absent,Medium
+1246,Mary,Mathematics,79.1,2022-06-02,Absent,Medium
+1260,Emily,Mathematics,88.0,2021-02-20,Absent,High
+1260,Angela,Mathematics,85.0,2021-05-05,Absent,High
+1208,Jenny,Biology,62.0,2020-03-01,Present,Medium
+1497,Thomas,Computer Science,71.0,2022-11-02,Present,Medium
+1497,Robert,Computer Science,74.0,2020-07-17,Present,Medium
+1275,Denise,Computer Science,80.0,2020-11-06,Present,Medium
+1275,Mary,Computer Science,69.0,2023-02-24,Present,Medium
+1275,Ryan,Computer Science,66.0,2024-10-01,absent,Medium
+1275,Shannon,Computer Science,89.0,2022-05-23,Present,High
+1416,Lori,Biology,77.9,2021-09-15,Present,Medium
+1248,Lori,Mathematics,79.1,2020-06-09,Absent,Medium
+1248,Heather,Mathematics,91.0,2021-01-02,Absent,High
+1433,Julie,Biology,62.0,2024-08-25,Absent,Medium
+1270,Amanda,Biology,77.9,2020-08-05,Absent,Medium
+1327,Katie,Physics,74.0,2022-09-05,Present,Medium
+1327,Jacob,Physics,60.0,2022-09-19,Present,Medium
+1327,Jessica,Physics,81.0,2024-09-11,absent,Medium
+1044,Ricky,Biology,69.0,2024-10-21,Absent,Medium
+1044,Amanda,Biology,88.0,2024-09-02,absent,High
+1044,Terri,Biology,81.0,2022-04-10,Absent,Medium
+1151,Amy,Mathematics,88.0,2020-10-19,Present,High
+1151,Lynn,Mathematics,79.0,2024-02-10,absent,Medium
+1431,Anthony,Physics,96.0,2023-09-21,Absent,High
+1431,Travis,Physics,63.0,2021-11-13,Absent,Medium
+1431,Lisa,Physics,82.0,2020-08-10,Absent,Medium
+1431,Robin,Physics,87.0,2020-01-06,Absent,High
+1436,Eric,Mathematics,64.0,2024-02-20,Present,Medium
+1436,Chelsea,Mathematics,75.0,2023-09-30,Present,Medium
+1309,Amanda,Physics,91.0,2024-08-08,absent,High
+1426,Briana,Physics,86.0,2023-03-08,Absent,High
+1329,Maria,Computer Science,89.0,2020-09-29,Present,High
+1329,Alison,Computer Science,65.0,2024-01-14,Present,Medium
+1483,David,Mathematics,73.0,2024-12-10,Present,Medium
+1191,Kyle,Physics,96.0,2022-03-04,Present,High
+1191,Rebecca,Physics,77.9,2020-07-25,Present,Medium
+1191,Alexandra,Physics,82.0,2023-07-27,absent,Medium
+1191,Kathryn,Physics,61.0,2021-05-31,Present,Medium
+1462,Joshua,Computer Science,78.7,2022-07-11,Absent,Medium
+1462,Sean,Computer Science,76.0,2021-11-23,Absent,Medium
+1356,Angel,Computer Science,97.0,2021-11-29,absent,High
+1125,Cynthia,Mathematics,98.0,2021-09-13,Present,High
+1125,Crystal,Mathematics,90.0,2023-10-31,Present,High
+1285,Anita,Mathematics,69.0,2023-02-02,Absent,Medium
+1195,Briana,Biology,60.0,2020-09-08,Absent,Medium
+1195,Lindsay,Biology,77.9,2021-07-03,Absent,Medium
+1195,Morgan,Biology,75.0,2023-05-07,Absent,Medium
+1195,Thomas,Biology,82.0,2023-09-06,Absent,Medium
+1195,Connie,Biology,73.0,2020-12-29,Absent,Medium
+1075,Martha,Biology,73.0,2021-10-22,Present,Medium
+1075,Shane,Biology,77.9,2024-07-03,Present,Medium
+1396,Luis,Computer Science,73.0,2020-02-17,Present,Medium
+1050,Marc,Physics,98.0,2020-07-17,Present,High
+1267,Scott,Biology,98.0,2020-07-29,absent,High
+1267,Veronica,Biology,80.0,2022-12-06,Present,Medium
+1220,Aaron,Mathematics,63.0,2022-01-20,Present,Medium
+1220,Matthew,Mathematics,97.0,2021-09-08,absent,High
+1042,Stephanie,Biology,75.0,2024-07-25,Present,Medium
+1042,Eric,Biology,68.0,2023-12-07,Present,Medium
+1042,Joshua,Biology,94.0,2020-06-01,Present,High
+1373,Dennis,Computer Science,80.0,2024-09-25,Present,Medium
+1188,Laura,Physics,91.0,2020-12-18,Present,High
+1188,Joseph,Physics,79.0,2020-04-09,Present,Medium
+1188,Richard,Physics,77.9,2024-01-27,Present,Medium
+1376,Frank,Computer Science,78.7,2024-05-02,Absent,Medium
+1376,Debra,Computer Science,84.0,2024-04-07,Absent,Medium
+1376,Cheryl,Computer Science,64.0,2022-02-26,absent,Medium
+1376,Kelly,Computer Science,78.7,2023-03-08,absent,Medium
+1477,Jeremy,Mathematics,68.0,2023-06-23,Absent,Medium
+1178,Patricia,Biology,82.0,2021-04-24,Present,Medium
+1160,Jean,Physics,73.0,2020-05-21,Absent,Medium
+1231,Reginald,Computer Science,78.7,2022-09-07,absent,Medium
+1267,Daniel,Biology,80.0,2022-12-06,Absent,Medium
+1325,Jason,Physics,84.0,2022-11-06,Absent,Medium
+1332,Maria,Computer Science,85.0,2020-12-06,Absent,High
+1332,Dustin,Computer Science,78.7,2023-07-31,absent,Medium
+1441,Tamara,Physics,72.0,2024-04-16,Absent,Medium
+1073,Jason,Mathematics,98.0,2021-01-31,Present,High
+1073,Deanna,Mathematics,75.0,2023-03-07,Present,Medium
+1181,Erica,Mathematics,66.0,2022-12-27,Present,Medium
+1261,Stacey,Mathematics,60.0,2024-12-24,Present,Medium
+1369,Charles,Computer Science,78.7,2020-11-16,Present,Medium
+1095,Eric,Biology,92.0,2021-09-01,Present,High
+1095,Cody,Biology,76.0,2022-04-29,Present,Medium
+1038,Kathy,Computer Science,78.7,2024-01-01,absent,Medium
+1038,James,Computer Science,91.0,2021-11-19,Absent,High
+1038,Shannon,Computer Science,69.0,2022-10-18,Absent,Medium
+1128,Michael,Biology,98.0,2024-01-04,Absent,High
+1030,Jason,Computer Science,82.0,2023-11-04,Absent,Medium
+1030,Keith,Computer Science,78.7,2020-02-06,Absent,Medium
+1030,Michelle,Computer Science,78.7,2020-02-05,Absent,Medium
+1124,Christopher,Mathematics,86.0,2020-02-26,Absent,High
+1124,Susan,Mathematics,66.0,2022-04-02,Absent,Medium
+1234,Brittany,Computer Science,66.0,2023-08-03,Absent,Medium
+1201,Jessica,Physics,74.0,2022-12-05,Present,Medium
+1201,Barbara,Physics,77.9,2024-12-10,Present,Medium
+1201,Edward,Physics,76.0,2021-08-13,Present,Medium
+1323,Brent,Computer Science,82.0,2021-10-15,Absent,Medium
+1094,Teresa,Physics,68.0,2024-01-14,absent,Medium
+1094,Amber,Physics,78.0,2024-01-16,absent,Medium
+1094,Paula,Physics,67.0,2022-05-27,Absent,Medium
+1094,Theresa,Physics,83.0,2023-12-12,Absent,Medium
+1375,Samantha,Computer Science,94.0,2020-05-21,Present,High
+1375,Shannon,Computer Science,64.0,2024-09-21,Present,Medium
+1375,Mark,Computer Science,96.0,2022-06-23,absent,High
+1375,Michael,Computer Science,71.0,2020-11-10,Present,Medium
+1375,Dawn,Computer Science,96.0,2023-12-17,Present,High
+1331,Robert,Computer Science,80.0,2024-06-16,Absent,Medium
+1331,Kaylee,Computer Science,83.0,2022-04-09,Absent,Medium
+1331,Daniel,Computer Science,81.0,2020-03-26,absent,Medium
+1412,Mathew,Computer Science,89.0,2021-11-04,Present,High
+1412,Ryan,Computer Science,74.0,2021-08-28,Present,Medium
+1412,Rhonda,Computer Science,88.0,2020-03-23,absent,High
+1412,Gary,Computer Science,68.0,2023-11-29,Present,Medium
+1377,Lori,Mathematics,79.1,2020-12-29,absent,Medium
+1377,Kevin,Mathematics,91.0,2023-07-08,Absent,High
+1377,Erin,Mathematics,80.0,2024-08-13,Absent,Medium
+1377,Joy,Mathematics,92.0,2024-08-01,Absent,High
+1129,Cody,Computer Science,64.0,2020-05-03,Absent,Medium
+1129,Paul,Computer Science,65.0,2023-09-20,Absent,Medium
+1129,Jennifer,Computer Science,78.7,2022-07-13,Absent,Medium
+1100,Vanessa,Physics,77.9,2022-01-16,Present,Medium
+1100,Alec,Physics,77.9,2020-01-31,absent,Medium
+1020,Victoria,Biology,86.0,2024-01-28,Present,High
+1473,Wendy,Biology,94.0,2021-04-16,Present,High
+1148,Jennifer,Physics,74.0,2022-04-12,Absent,Medium
+1148,Lisa,Physics,79.0,2020-04-10,Absent,Medium
+1148,Scott,Physics,77.0,2021-08-17,absent,Medium
+1169,Mary,Physics,90.0,2024-08-27,Present,High
+1169,Donald,Physics,79.0,2023-11-02,Present,Medium
+1274,Angelica,Physics,73.0,2020-10-17,Absent,Medium
+1274,Noah,Physics,69.0,2020-09-04,absent,Medium
+1122,Gary,Physics,61.0,2023-09-25,Absent,Medium
+1021,Tammy,Biology,65.0,2021-07-16,absent,Medium
+1021,Laura,Biology,72.0,2024-12-22,Absent,Medium
+1021,Karen,Biology,72.0,2024-07-09,absent,Medium
+1021,Jill,Biology,99.0,2020-02-12,Absent,High
+1320,Jennifer,Computer Science,78.7,2021-02-27,Absent,Medium
+1008,Eugene,Biology,77.9,2021-07-20,Present,Medium
+1008,Sean,Biology,67.0,2023-01-26,Present,Medium
+1008,Bobby,Biology,77.9,2024-06-27,Present,Medium
+1308,Carl,Mathematics,64.0,2022-09-09,Absent,Medium
+1064,Catherine,Mathematics,79.1,2020-02-27,Absent,Medium
+1033,Nicole,Biology,64.0,2023-11-06,Present,Medium
+1086,Joseph,Physics,64.0,2021-08-31,Present,Medium
+1235,Michael,Biology,61.0,2023-06-21,Present,Medium
+1257,James,Physics,77.9,2020-09-07,Absent,Medium
+1257,Cody,Physics,71.0,2022-07-19,absent,Medium
+1257,Tammy,Physics,90.0,2021-01-14,Absent,High
+1257,Joshua,Physics,61.0,2023-01-01,Absent,Medium
+1174,Jon,Computer Science,99.0,2023-08-04,Absent,High
+1174,Bruce,Computer Science,64.0,2024-08-26,Absent,Medium
+1026,Christopher,Computer Science,90.0,2020-06-03,Present,High
+1178,Christopher,Physics,82.0,2021-04-24,absent,Medium
+1389,Angela,Computer Science,86.0,2023-01-30,Present,High
+1153,Isaiah,Biology,79.0,2023-06-06,Absent,Medium
+1153,Adam,Biology,93.0,2020-06-18,absent,High
+1153,Robin,Biology,85.0,2021-02-17,Absent,High
+1405,Susan,Biology,92.0,2023-12-23,Absent,High
+1420,Todd,Biology,77.9,2022-03-31,Absent,Medium
+1420,Nicole,Biology,77.9,2024-09-29,absent,Medium
+1478,Michael,Physics,77.9,2020-03-17,Present,Medium
+1478,Benjamin,Physics,99.0,2020-07-15,Present,High
+1478,Jacqueline,Physics,80.0,2021-10-05,absent,Medium
+1200,Nicole,Mathematics,69.0,2022-04-28,Absent,Medium
+1200,Christopher,Mathematics,61.0,2020-01-19,absent,Medium
+1258,Christopher,Biology,69.0,2024-06-03,Present,Medium
+1258,Debra,Biology,75.0,2022-03-18,Present,Medium
+1258,Donna,Biology,62.0,2024-01-20,Present,Medium
+1258,Nicholas,Biology,77.9,2022-07-05,absent,Medium
+1092,Morgan,Computer Science,72.0,2023-06-29,Present,Medium
+1453,Anna,Mathematics,79.1,2021-04-22,absent,Medium
+1428,Brenda,Physics,77.9,2020-03-27,Present,Medium
+1428,Deanna,Physics,85.0,2021-02-14,Present,High
+1428,William,Physics,93.0,2023-04-02,absent,High
+1428,Susan,Physics,79.0,2024-08-04,Present,Medium
+1468,Joseph,Biology,98.0,2020-11-29,Present,High
+1468,Steven,Biology,79.0,2022-08-15,Present,Medium
+1468,Cynthia,Biology,79.0,2023-04-27,Present,Medium
+1453,Robert,Physics,92.0,2021-04-22,absent,High
+1311,Denise,Physics,98.0,2022-05-04,Absent,High
+1015,Jason,Computer Science,86.0,2021-05-27,Absent,High
+1015,Ivan,Computer Science,92.0,2022-10-08,Absent,High
+1015,Virginia,Computer Science,62.0,2020-05-24,Absent,Medium
+1015,Bryan,Computer Science,61.0,2024-11-11,Absent,Medium
+1057,Todd,Computer Science,81.0,2024-10-20,Absent,Medium
+1206,Mary,Computer Science,78.7,2021-05-31,Present,Medium
+1206,Cynthia,Computer Science,65.0,2023-08-11,Present,Medium
+1206,Olivia,Computer Science,78.7,2023-09-28,Present,Medium
+1206,Jonathan,Computer Science,78.7,2021-03-14,Present,Medium
+1181,Michael,Computer Science,66.0,2022-12-27,Present,Medium
+1339,James,Physics,86.0,2021-02-16,Present,High
+1314,Donald,Computer Science,78.0,2022-05-09,absent,Medium
+1314,Brian,Computer Science,78.0,2023-02-02,Absent,Medium
+1151,Karen,Computer Science,88.0,2020-10-19,Absent,High
+1151,Jamie,Computer Science,79.0,2024-02-10,Absent,Medium
+1212,Sherri,Physics,87.0,2024-12-02,Present,High
+1219,Allen,Biology,66.0,2022-08-30,absent,Medium
+1127,Emily,Mathematics,79.1,2023-04-19,Absent,Medium
+1448,Karen,Physics,65.0,2023-07-29,Present,Medium
+1448,Maria,Physics,71.0,2022-11-15,Present,Medium
+1156,Jennifer,Computer Science,94.0,2024-09-13,Absent,High
+1156,Vicki,Computer Science,63.0,2020-02-18,Absent,Medium
+1389,Kenneth,Biology,86.0,2023-01-30,Present,High
+1189,Jeffrey,Mathematics,80.0,2021-03-24,Present,Medium
+1387,Amber,Computer Science,78.7,2022-10-15,absent,Medium
+1387,Scott,Computer Science,78.7,2021-06-04,Absent,Medium
+1387,Melinda,Computer Science,74.0,2023-05-14,Absent,Medium
+1267,Andre,Biology,98.0,2020-07-29,absent,High
+1267,Taylor,Biology,80.0,2022-12-06,Absent,Medium
+1469,Laurie,Biology,65.0,2024-09-30,absent,Medium
+1469,Randy,Biology,81.0,2024-06-18,Absent,Medium
+1401,Kathleen,Biology,74.0,2021-09-14,Present,Medium
+1180,Joseph,Computer Science,78.7,2023-05-22,Absent,Medium
+1140,Kristina,Computer Science,87.0,2022-12-14,absent,High
+1140,Trevor,Computer Science,90.0,2023-09-23,Present,High
+1140,Christina,Computer Science,90.0,2020-04-15,Present,High
+1140,Shane,Computer Science,86.0,2021-11-25,Present,High
+1313,Mark,Mathematics,79.1,2020-01-04,Present,Medium
+1444,Donna,Biology,66.0,2024-01-06,absent,Medium
+1444,Paula,Biology,92.0,2024-02-20,Present,High
+1444,Douglas,Biology,64.0,2020-12-31,Present,Medium
+1234,Brittany,Biology,66.0,2023-08-03,Present,Medium
+1088,Steven,Computer Science,93.0,2022-04-15,Absent,High
+1088,Daniel,Computer Science,70.0,2020-08-18,absent,Medium
+1300,Tracy,Biology,96.0,2021-10-01,absent,High
+1078,Edward,Biology,91.0,2024-04-26,absent,High
+1065,Lauren,Physics,92.0,2023-02-13,Present,High
+1373,Aaron,Physics,77.9,2024-09-25,Present,Medium
+1286,Jennifer,Computer Science,78.7,2022-05-19,Present,Medium
+1286,Erika,Computer Science,69.0,2022-01-26,Present,Medium
+1286,Wendy,Computer Science,76.0,2024-02-24,Present,Medium
+1286,Brittany,Computer Science,72.0,2022-08-25,Present,Medium
+1489,Kenneth,Computer Science,78.7,2024-08-12,Present,Medium
+1489,Alexander,Computer Science,65.0,2021-01-02,Present,Medium
+1331,Peter,Biology,80.0,2024-06-16,Present,Medium
+1331,Krista,Biology,83.0,2022-04-09,Present,Medium
+1331,Tonya,Biology,81.0,2020-03-26,Present,Medium
+1049,Danielle,Biology,77.9,2024-06-14,Absent,Medium
+1049,Danielle,Biology,77.9,2023-08-12,Absent,Medium
+1049,Ian,Biology,88.0,2022-02-13,Absent,High
+1049,Brian,Biology,66.0,2024-03-01,Absent,Medium
+1139,Alan,Mathematics,66.0,2023-06-27,Present,Medium
+1139,Brad,Mathematics,61.0,2021-11-28,Present,Medium
+1315,Robert,Computer Science,70.0,2021-05-31,absent,Medium
+1315,Timothy,Computer Science,78.7,2024-01-19,absent,Medium
+1315,Christopher,Computer Science,63.0,2021-08-19,Absent,Medium
+1189,Christina,Computer Science,80.0,2021-03-24,Present,Medium
+1189,George,Computer Science,74.0,2024-09-21,Present,Medium
+1395,Michael,Mathematics,64.0,2023-10-16,Present,Medium
+1395,Jose,Mathematics,84.0,2024-01-13,absent,Medium
+1191,Amy,Physics,96.0,2022-03-04,Present,High
+1191,Kelly,Physics,82.0,2023-07-27,Present,Medium
+1191,Kenneth,Physics,61.0,2021-05-31,Present,Medium
+1065,Samantha,Computer Science,92.0,2023-02-13,Absent,High
+1065,Megan,Computer Science,78.0,2023-10-12,absent,Medium
+1300,Angela,Biology,96.0,2021-10-01,Absent,High
+1036,Dennis,Computer Science,63.0,2022-11-07,Absent,Medium
+1036,Gregory,Computer Science,87.0,2022-04-03,Absent,High
+1036,David,Computer Science,66.0,2022-01-09,absent,Medium
+1036,Gary,Computer Science,87.0,2021-11-03,Absent,High
+1146,Shelby,Computer Science,61.0,2024-05-12,Absent,Medium
+1146,Charles,Computer Science,69.0,2022-01-18,Absent,Medium
+1146,Debra,Computer Science,73.0,2020-09-14,Absent,Medium
+1042,Jermaine,Computer Science,87.0,2022-03-25,Present,High
+1042,Amanda,Computer Science,75.0,2024-07-25,absent,Medium
+1042,Elizabeth,Computer Science,68.0,2023-12-07,Present,Medium
+1042,Andrea,Computer Science,94.0,2020-06-01,Present,High
+1226,Colleen,Computer Science,83.0,2021-02-22,Absent,Medium
+1163,James,Physics,60.0,2023-09-20,Absent,Medium
+1163,Mark,Physics,77.9,2023-03-18,Absent,Medium
+1138,Cory,Physics,72.0,2020-12-27,Absent,Medium
+1138,Jeanette,Physics,70.0,2023-08-14,absent,Medium
+1465,Cody,Computer Science,78.7,2022-05-31,Absent,Medium
+1465,Leslie,Computer Science,77.0,2020-01-17,Absent,Medium
+1465,Kelli,Computer Science,77.0,2024-06-05,Absent,Medium
+1489,Christopher,Physics,76.0,2024-08-12,Present,Medium
+1489,Ryan,Physics,65.0,2021-01-02,absent,Medium
+1397,Stephen,Mathematics,99.0,2023-09-08,Present,High
+1397,Christine,Mathematics,83.0,2021-11-21,Present,Medium
+1163,Christopher,Biology,60.0,2023-09-20,Absent,Medium
+1163,Margaret,Biology,87.0,2023-03-18,Absent,High
+1260,Marvin,Physics,85.0,2021-05-05,Absent,High
+1260,Travis,Physics,100.0,2020-09-07,Absent,High
+1371,David,Mathematics,80.0,2024-01-16,Present,Medium
+1153,Kari,Computer Science,79.0,2023-06-06,Absent,Medium
+1153,Johnny,Computer Science,90.0,2024-03-01,Absent,High
+1040,Raymond,Biology,60.0,2023-02-10,absent,Medium
+1448,Sarah,Physics,65.0,2023-07-29,Present,Medium
+1448,Olivia,Physics,71.0,2022-11-15,Present,Medium
+1448,Amanda,Physics,82.0,2021-01-23,Present,Medium
+1472,Karen,Mathematics,87.0,2021-08-01,Absent,High
+1124,Thomas,Biology,86.0,2020-02-26,Present,High
+1273,Paul,Computer Science,82.0,2023-06-15,Present,Medium
+1273,Erica,Computer Science,76.0,2021-12-18,Present,Medium
+1273,Stephanie,Computer Science,78.7,2020-07-27,Present,Medium
+1161,Julie,Mathematics,79.1,2022-02-09,Absent,Medium
+1141,Dawn,Computer Science,78.7,2020-08-27,Present,Medium
+1141,Cheryl,Computer Science,78.7,2020-06-15,Present,Medium
+1141,Jerry,Computer Science,78.7,2023-12-02,Present,Medium
+1112,Lisa,Computer Science,92.0,2020-10-19,Present,High
+1112,Luis,Computer Science,61.0,2023-07-02,absent,Medium
+1371,Donna,Physics,80.0,2024-01-16,Absent,Medium
+1403,Kevin,Computer Science,61.0,2021-11-23,Absent,Medium
+1403,Raymond,Computer Science,75.0,2023-06-14,Absent,Medium
+1403,Alexander,Computer Science,63.0,2022-06-01,Absent,Medium
+1403,Dakota,Computer Science,87.0,2021-07-16,absent,High
+1403,Lori,Computer Science,82.0,2021-10-15,Absent,Medium
+1495,Erica,Mathematics,72.0,2020-09-03,Present,Medium
+1495,Kevin,Mathematics,79.0,2020-02-27,Present,Medium
+1440,David,Physics,77.9,2021-05-25,Present,Medium
+1440,Andrew,Physics,77.0,2022-09-16,Present,Medium
+1440,Joyce,Physics,86.0,2023-08-06,absent,High
+1080,Jennifer,Biology,80.0,2021-06-17,Present,Medium
+1080,Mary,Biology,73.0,2024-04-28,Present,Medium
+1142,Beth,Physics,66.0,2020-03-02,Absent,Medium
+1142,David,Physics,76.0,2022-09-14,Absent,Medium
+1142,Brett,Physics,77.9,2023-04-08,Absent,Medium
+1396,Tom,Computer Science,73.0,2020-02-17,Present,Medium
+1399,Daniel,Computer Science,85.0,2023-02-22,Present,High
+1399,James,Computer Science,94.0,2024-11-23,absent,High
+1279,Brandon,Physics,77.9,2024-08-15,Absent,Medium
+1279,Lindsey,Physics,92.0,2024-12-18,Absent,High
+1279,Kelly,Physics,77.9,2021-12-22,Absent,Medium
+1173,Jennifer,Biology,89.0,2024-10-02,Absent,High
+1121,Jamie,Physics,77.9,2023-04-03,Absent,Medium
+1121,Katherine,Physics,83.0,2021-09-26,absent,Medium
+1121,Michael,Physics,80.0,2022-09-30,Absent,Medium
+1121,Allison,Physics,72.0,2023-10-10,Absent,Medium
+1355,Thomas,Physics,65.0,2020-08-30,Present,Medium

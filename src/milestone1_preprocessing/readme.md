@@ -50,5 +50,5 @@ Original CSV files (located in `data/raw/`):
 > ✅ This cleaned dataset is the **single source of truth** for the rest of the project.
 
 ## 🔗 Next Steps
-- The `cleaned_data.csv` file is imported into MySQL in **[Milestone 2](../milestone2_sql/README.md)**  
+- The `cleaned_data.csv` file is imported into MySQL in **[Milestone 2](../milestone2_sql/readme.md)**  
 - It also powers all visualizations in **[Milestone 3](../milestone3_visualization/streamlit_readme.md)**

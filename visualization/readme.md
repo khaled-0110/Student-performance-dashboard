@@ -22,7 +22,7 @@ This section imports the required Python libraries for data manipulation and vis
 - `pandas` for data handling and cleaning.
 - `matplotlib.pyplot` and `seaborn` for creating visualizations.
 
-The dataset (`cleaned_file.csv`) is loaded and cleaned by:
+The dataset (`cleaned_data.csv`) is loaded and cleaned by:
 - Converting the `date` column to proper datetime format.
 - Rounding all `score` values to one decimal place.
 - Replacing `"Unknown"` values in `attendance` with `"Absent"`.

@@ -1,0 +1,2004 @@
+student_id,name,subject,score,date,attendance
+1086,Dale,Computer Science,64.0,2021-08-31,
+1320,John,Mathematics,78.0,2021-02-27,Present
+1327,Scott,Computer Science,74.0,2022-09-05,Present
+1327,Todd,Computer Science,60.0,2022-09-19,Present
+1327,Bryce,Computer Science,,2024-09-11,Present
+1055,Jessica,Biology,79.0,2020-06-21,Present
+1055,Rachel,Biology,77.0,2024-02-18,Present
+1055,Brittany,Biology,66.0,2021-01-18,Present
+1055,Linda,Biology,,2023-11-14,
+1055,Anthony,Biology,71.0,2023-05-18,Present
+1262,Ann,Biology,,2023-01-18,Present
+1084,Allison,Computer Science,,2022-03-15,
+1084,Dorothy,Computer Science,,2024-08-20,Absent
+1084,Ashley,Computer Science,97.0,2020-09-14,Absent
+1228,Vanessa,Biology,99.0,2020-04-22,
+1228,Molly,Biology,63.0,2022-11-03,Present
+1228,Sarah,Biology,,2022-06-08,Present
+1115,Brenda,Physics,76.0,2022-03-02,Present
+1358,Patricia,Biology,98.0,2023-03-24,Absent
+1358,Eric,Biology,,2020-11-13,Absent
+1358,Adrian,Biology,78.0,2020-10-10,Absent
+1449,Michael,Physics,75.0,2023-02-24,Present
+1449,William,Physics,95.0,2022-05-29,Present
+1449,Erin,Physics,74.0,2024-07-19,Present
+1449,Alyssa,Physics,63.0,2020-11-06,Present
+1449,Christopher,Physics,75.0,2023-07-28,Present
+1179,William,Biology,78.0,2020-06-05,Present
+1179,Eric,Biology,66.0,2021-09-29,Present
+1016,Michelle,Mathematics,76.0,2021-03-17,Present
+1016,John,Mathematics,84.0,2020-09-01,Present
+1341,Gary,Physics,92.0,,Absent
+1341,Mary,Physics,88.0,2022-09-15,
+1341,Patricia,Physics,85.0,2023-12-17,Absent
+1341,Matthew,Physics,62.0,2021-06-29,Absent
+1140,Tamara,Mathematics,87.0,2022-12-14,Present
+1140,Sarah,Mathematics,90.0,2023-09-23,Present
+1140,Kayla,Mathematics,90.0,2020-04-15,Present
+1140,Cynthia,Mathematics,90.0,,Present
+1140,Shane,Mathematics,86.0,2021-11-25,
+1056,Erin,Computer Science,81.0,2024-10-22,
+1056,Andrea,Computer Science,70.0,2024-07-14,Present
+1056,Patrick,Computer Science,,2020-02-10,Present
+1056,Daniel,Computer Science,86.0,2024-11-04,Present
+1056,Christina,Computer Science,60.0,2020-06-25,
+1056,Erin,Computer Science,64.0,,Present
+1056,Evan,Computer Science,98.0,,Present
+1065,Amber,Physics,92.0,2023-02-13,Absent
+1065,Rebekah,Physics,78.0,2023-10-12,Absent
+1065,Pamela,Physics,92.0,,Absent
+1412,Haley,Biology,89.0,,Present
+1412,Angela,Biology,74.0,2021-08-28,Present
+1412,Amanda,Biology,88.0,2020-03-23,
+1412,Matthew,Biology,,,
+1437,James,Physics,,,Present
+1087,Stephen,Physics,81.0,2021-08-22,Present
+1087,Michelle,Physics,73.0,,Present
+1023,Adam,Computer Science,94.0,2020-03-02,Present
+1023,Alexander,Computer Science,,2021-11-15,Present
+1023,Todd,Computer Science,72.0,2022-02-23,Present
+1023,Natasha,Computer Science,92.0,2022-01-27,Present
+1160,William,Physics,73.0,,
+1160,Kimberly,Physics,72.0,2024-01-24,Absent
+1176,John,Computer Science,,,
+1176,Penny,Computer Science,84.0,2024-01-23,Absent
+1369,Brooke,Physics,100.0,2020-11-16,Absent
+1369,Susan,Physics,,2020-10-30,Absent
+1054,Christian,Computer Science,63.0,2021-11-15,Absent
+1054,Ariana,,74.0,,Absent
+1304,Manuel,Mathematics,83.0,2020-08-11,Present
+1493,Lynn,Physics,98.0,2021-02-25,Absent
+1242,Richard,Physics,87.0,2021-07-07,Present
+1242,Susan,Physics,81.0,2023-08-11,
+1321,Jacqueline,Physics,66.0,2024-08-25,Present
+1321,Jessica,Physics,80.0,,
+1321,Kathleen,Physics,66.0,2022-05-15,Present
+1078,Howard,Computer Science,91.0,2024-04-26,
+1131,Philip,Biology,73.0,2023-08-12,
+1166,Todd,Computer Science,92.0,2021-09-01,Present
+1166,Chelsea,Computer Science,78.0,2023-06-03,Present
+1468,Ashley,Biology,98.0,2020-11-29,Present
+1468,Monica,Biology,79.0,2022-08-15,Present
+1468,Monica,Biology,79.0,2023-04-27,
+1244,Kenneth,Biology,,2020-10-22,Present
+1244,Mark,Biology,96.0,2020-05-19,
+1173,Sarah,Biology,89.0,2024-10-02,Absent
+1477,Brandy,Computer Science,68.0,2023-06-23,
+1246,Christopher,Computer Science,66.0,2022-08-23,Absent
+1246,Joseph,Computer Science,78.0,2020-02-23,Absent
+1246,Meredith,Computer Science,,2024-01-11,Absent
+1246,Donna,Computer Science,72.0,2022-06-02,
+1250,Chase,Mathematics,64.0,2022-02-27,Present
+1096,Sonia,Computer Science,,2022-11-20,
+1090,Krystal,Computer Science,75.0,2023-10-15,Present
+1090,Cameron,Computer Science,93.0,2021-04-20,Present
+1302,Ann,Computer Science,65.0,2023-08-16,Absent
+1239,Lisa,Mathematics,,2024-05-02,Present
+1239,Antonio,Mathematics,74.0,2021-10-26,Present
+1239,Jennifer,Mathematics,66.0,2022-04-04,Present
+1439,Alexandra,Physics,84.0,,Present
+1433,Melvin,Biology,62.0,2024-08-25,Present
+1031,Samuel,Computer Science,71.0,2020-10-05,Absent
+1031,Johnathan,Computer Science,,,Absent
+1465,Bonnie,Computer Science,88.0,2022-05-31,Absent
+1465,Justin,Computer Science,77.0,2020-01-17,Absent
+1465,Jasmine,Computer Science,77.0,2024-06-05,Absent
+1033,Justin,Mathematics,,2023-11-06,Present
+1189,Aaron,Biology,80.0,2021-03-24,Present
+1189,Sherri,Biology,74.0,2024-09-21,Present
+1008,Kayla,Biology,79.0,2021-07-20,Present
+1008,Stephanie,Biology,,2023-01-26,
+1008,Matthew,Biology,,,Present
+1384,Richard,Physics,64.0,2021-02-25,Absent
+1384,Brittney,Physics,61.0,2023-12-24,Absent
+1320,Jay,Mathematics,78.0,,
+1407,Austin,Biology,93.0,2022-09-12,Absent
+1407,Lynn,Biology,82.0,,
+1177,Michael,Mathematics,83.0,2022-07-13,Present
+1173,Shawn,Biology,,2024-10-02,Present
+1104,Thomas,Computer Science,90.0,2021-10-27,Present
+1321,Lynn,Biology,66.0,2024-08-25,Present
+1321,Justin,Biology,80.0,2022-12-10,
+1321,Sheryl,,,,Present
+1298,Frank,Mathematics,82.0,2021-07-14,Present
+1298,Julia,Mathematics,65.0,2020-05-30,Present
+1298,James,Mathematics,,2020-11-14,Present
+1298,Pamela,Mathematics,67.0,2024-09-25,Present
+1127,James,Physics,93.0,2023-04-19,
+1127,Tracie,Physics,81.0,2022-06-02,Absent
+1125,Emily,Computer Science,97.0,2022-01-12,Present
+1125,Mason,Computer Science,98.0,2021-09-13,Present
+1125,Leslie,Computer Science,90.0,2023-10-31,Present
+1369,Bill,Biology,100.0,2020-11-16,
+1369,Jodi,Biology,89.0,2020-10-30,Absent
+1193,John,Computer Science,60.0,2023-06-06,Present
+1030,Edward,Physics,82.0,2023-11-04,Present
+1030,Jose,Physics,63.0,,Present
+1030,Melissa,Physics,,,Present
+1359,Kelsey,Biology,82.0,2021-07-14,Absent
+1135,Jennifer,Biology,74.0,2022-07-10,Absent
+1135,Zachary,Biology,64.0,2022-11-20,Absent
+1135,Matthew,Biology,95.0,2023-06-13,Absent
+1229,Jason,,68.0,2024-08-18,
+1496,Joseph,,75.0,2023-09-21,
+1496,Jacob,Biology,61.0,2022-10-19,Absent
+1069,Brian,Mathematics,80.0,2022-10-12,Absent
+1069,Lauren,Mathematics,72.0,2021-11-30,
+1069,April,Mathematics,,2020-02-03,Absent
+1069,John,Mathematics,89.0,2021-02-05,
+1054,Kim,Computer Science,63.0,,
+1054,Phillip,Computer Science,74.0,2024-01-04,Present
+1200,Erik,Biology,69.0,2022-04-28,Absent
+1200,Matthew,Biology,61.0,2020-01-19,
+1147,Lisa,Biology,82.0,2024-02-03,Absent
+1147,Morgan,Biology,78.0,,Absent
+1071,Tim,Physics,61.0,2020-11-08,Absent
+1071,Joshua,Physics,67.0,,Absent
+1013,Daniel,Biology,71.0,,Present
+1013,Daniel,Biology,74.0,2024-01-21,Present
+1180,Roger,Biology,100.0,,
+1418,Michael,Computer Science,91.0,2023-04-11,Absent
+1418,Jacqueline,Computer Science,83.0,2024-02-21,Absent
+1394,Jonathan,Mathematics,60.0,2021-02-14,
+1394,Donna,Mathematics,81.0,,Absent
+1169,Larry,Biology,90.0,2024-08-27,
+1169,Kaitlyn,Biology,79.0,2023-11-02,Absent
+1009,Donna,Mathematics,64.0,,Absent
+1009,Gerald,Mathematics,87.0,2024-03-14,
+1083,Keith,Biology,87.0,2020-02-21,
+1334,James,Mathematics,61.0,2022-10-25,
+1334,David,Mathematics,66.0,2022-12-17,Absent
+1334,Nicole,Mathematics,97.0,2020-10-19,Absent
+1334,Carolyn,Mathematics,95.0,2021-04-21,Absent
+1119,Holly,Biology,63.0,2023-06-26,Absent
+1119,Michael,Biology,87.0,2022-01-16,Absent
+1418,James,Biology,91.0,2023-04-11,Absent
+1418,Leon,Biology,,,Absent
+1098,Christian,Computer Science,69.0,2020-07-30,
+1098,Amber,Computer Science,89.0,2021-02-20,Absent
+1462,Steven,Physics,64.0,2022-07-11,Absent
+1462,Eric,,76.0,2021-11-23,
+1044,Nicholas,Physics,69.0,2024-10-21,Absent
+1044,Erin,Physics,88.0,2024-09-02,Absent
+1044,Kelsey,Physics,84.0,2024-08-25,Absent
+1044,Frank,Physics,81.0,2022-04-10,
+1086,Paul,Physics,64.0,2021-08-31,Present
+1436,Dennis,Mathematics,64.0,2024-02-20,
+1436,John,Mathematics,75.0,2023-09-30,Absent
+1111,Frances,Physics,77.0,2024-02-16,Present
+1111,Dean,Physics,86.0,2024-08-14,Present
+1111,Rachel,Physics,86.0,2021-04-15,Present
+1111,Megan,Physics,79.0,2024-12-02,Present
+1111,Bethany,Physics,77.0,2024-06-25,
+1478,Alexis,Physics,,2020-03-17,
+1478,Corey,Physics,99.0,,Present
+1478,Charles,Physics,80.0,2021-10-05,
+1191,Lauren,,96.0,2022-03-04,
+1191,Juan,Physics,83.0,2020-07-25,Absent
+1191,Kelly,Physics,82.0,2023-07-27,Absent
+1191,Heather,Physics,61.0,2021-05-31,
+1415,Samantha,Physics,97.0,2023-06-05,Absent
+1403,Robert,Computer Science,61.0,2021-11-23,Present
+1403,Scott,Computer Science,75.0,2023-06-14,
+1403,Marco,Computer Science,63.0,2022-06-01,Present
+1403,Jay,Computer Science,87.0,,Present
+1403,Robert,Computer Science,82.0,2021-10-15,
+1301,Daniel,Biology,65.0,,Present
+1301,Chad,Biology,64.0,2022-03-21,Present
+1106,Michelle,Physics,69.0,2024-08-02,Absent
+1313,Cindy,,,2020-01-04,Present
+1246,Jerry,Computer Science,66.0,2022-08-23,
+1246,David,Computer Science,78.0,2020-02-23,Present
+1246,Christina,Computer Science,,2024-01-11,
+1246,Peter,Computer Science,,2022-06-02,Present
+1065,Brian,Computer Science,92.0,2023-02-13,
+1065,Adriana,Computer Science,78.0,2023-10-12,Absent
+1065,Amber,Computer Science,92.0,2024-12-19,Absent
+1274,Randy,Biology,73.0,2020-10-17,
+1274,Andrea,Biology,69.0,,Absent
+1187,Scott,Physics,87.0,2021-09-25,Present
+1187,Lisa,Physics,71.0,2023-07-21,Present
+1158,Edward,Biology,89.0,2023-10-22,Present
+1158,Corey,Biology,,2023-05-21,Present
+1158,Luis,Biology,98.0,2020-04-26,
+1304,Stephanie,Mathematics,83.0,2020-08-11,Present
+1472,Heather,Computer Science,87.0,2021-08-01,
+1166,Christina,Mathematics,92.0,2021-09-01,Absent
+1166,Gina,Mathematics,78.0,,Absent
+1179,Michele,Biology,,,Absent
+1179,Juan,Biology,66.0,2021-09-29,Absent
+1426,Allison,Mathematics,,2023-03-08,Absent
+1354,Lauren,Biology,62.0,2023-07-21,Absent
+1354,Alexandria,Biology,,2021-08-26,Absent
+1186,Haley,Physics,81.0,2022-08-23,Present
+1186,Jacob,Physics,73.0,2023-02-14,Present
+1184,Mary,Computer Science,99.0,2024-01-11,Present
+1426,Rachel,Computer Science,86.0,2023-03-08,Absent
+1270,April,Physics,60.0,2020-08-05,Absent
+1440,Thomas,Biology,,2021-05-25,Present
+1440,Heather,Biology,77.0,2022-09-16,Present
+1440,Brittany,Biology,86.0,2023-08-06,Present
+1122,Krista,Biology,61.0,2023-09-25,Absent
+1202,William,Biology,79.0,2021-02-15,Present
+1438,Roberto,Biology,92.0,2023-05-18,Present
+1438,Debra,Biology,100.0,,Present
+1438,Kayla,Biology,93.0,,Present
+1438,Brian,Biology,71.0,2024-12-15,Present
+1441,Krista,Physics,72.0,2024-04-16,
+1348,Brittany,Mathematics,68.0,2020-04-02,Present
+1348,Jesse,Mathematics,70.0,2024-09-14,Present
+1112,Felicia,Computer Science,92.0,2020-10-19,
+1112,Stacy,Computer Science,,2023-07-02,Present
+1447,James,Biology,,2021-11-20,
+1447,Sharon,Biology,72.0,,Present
+1447,David,Biology,88.0,2024-09-18,
+1447,Larry,Biology,86.0,2023-01-28,
+1073,Jessica,Computer Science,98.0,2021-01-31,Present
+1073,Jennifer,Computer Science,75.0,2023-03-07,Present
+1290,Rebecca,Biology,72.0,2024-07-16,Absent
+1290,Ruben,Biology,71.0,2024-03-22,Absent
+1066,Robert,,64.0,2022-10-03,Present
+1404,Anthony,Physics,63.0,2022-05-26,Present
+1404,Sarah,Physics,96.0,2024-09-23,Present
+1404,Hannah,Physics,,2021-11-19,Present
+1404,Benjamin,Physics,74.0,2021-09-14,Present
+1342,Angel,Physics,90.0,2024-02-13,
+1342,Tara,Physics,76.0,2020-09-17,Present
+1357,Tricia,Mathematics,,2022-08-21,Absent
+1427,Emma,Biology,70.0,2021-03-21,Absent
+1427,Eugene,Biology,98.0,,Absent
+1337,Daniel,Biology,94.0,2024-05-23,Absent
+1337,Earl,Biology,,2024-05-06,Absent
+1071,Nina,Physics,61.0,2020-11-08,Absent
+1071,Joseph,Physics,,2020-08-24,
+1270,Elizabeth,Physics,60.0,2020-08-05,Present
+1064,Christie,Computer Science,93.0,2023-01-27,Absent
+1064,Andrew,Computer Science,,2020-02-27,Absent
+1318,Daniel,Biology,75.0,2023-11-28,Present
+1454,Bridget,Physics,98.0,2022-01-09,Absent
+1454,Linda,Physics,,2020-05-20,Absent
+1260,Jamie,Physics,88.0,2021-02-20,
+1260,Haley,Physics,,2021-05-05,Absent
+1260,Pam,Physics,100.0,2020-09-07,Absent
+1192,Nathan,Computer Science,80.0,2020-08-04,
+1192,Christopher,Computer Science,62.0,2024-03-24,
+1002,Daniel,Physics,82.0,,
+1002,Daniel,Physics,67.0,2024-06-25,Present
+1002,Tina,Physics,67.0,,Present
+1002,Kirk,Physics,74.0,2023-11-30,Present
+1002,Katelyn,Physics,,2021-09-28,Present
+1002,Caitlin,Physics,98.0,2022-02-09,Present
+1198,Mackenzie,Biology,,2024-06-15,Present
+1198,Benjamin,,75.0,2024-05-23,Present
+1194,Greg,Physics,82.0,2021-11-24,
+1194,Andrew,Physics,76.0,2020-02-29,Absent
+1194,Mary,Physics,,,Absent
+1194,Brandon,Physics,65.0,2024-11-27,Absent
+1194,Timothy,Physics,72.0,2021-09-26,Absent
+1346,Donna,Mathematics,63.0,2024-12-25,Absent
+1346,Aaron,Mathematics,,2024-05-26,
+1346,Juan,Mathematics,90.0,2023-03-04,Absent
+1444,Christopher,Physics,66.0,2024-01-06,Present
+1444,Jamie,Physics,92.0,2024-02-20,Present
+1444,Jose,Physics,64.0,2020-12-31,Present
+1419,Daniel,Computer Science,80.0,2023-08-06,Present
+1291,Jesse,Physics,68.0,2023-05-30,Present
+1291,Brian,Physics,80.0,2023-06-02,Present
+1131,Suzanne,Physics,73.0,2023-08-12,Present
+1141,Wesley,Computer Science,,2020-08-27,
+1141,Amanda,Computer Science,68.0,2020-06-15,
+1141,Kimberly,Computer Science,69.0,2023-12-02,Present
+1315,Hailey,,70.0,2021-05-31,Present
+1315,Hannah,Physics,74.0,2024-01-19,Present
+1315,Haley,Physics,63.0,,Present
+1290,Sonya,Physics,72.0,2024-07-16,Present
+1290,Monica,Physics,71.0,2024-03-22,Present
+1146,Steven,Physics,61.0,,
+1146,Lori,Physics,69.0,2022-01-18,
+1146,Kristy,Physics,,2020-09-14,Absent
+1067,Matthew,Computer Science,89.0,2023-02-11,Absent
+1067,Michael,Computer Science,66.0,2024-06-04,Absent
+1352,Gilbert,Computer Science,,,Present
+1352,James,Computer Science,,2023-06-16,Present
+1327,Eric,,74.0,2022-09-05,Present
+1327,Kristie,Computer Science,60.0,,Present
+1327,Kellie,Computer Science,81.0,2024-09-11,Present
+1398,Jonathan,Biology,72.0,2020-10-08,
+1437,Kristopher,Biology,89.0,2023-06-21,Absent
+1475,Jose,Biology,71.0,2020-02-20,Present
+1207,Robert,Mathematics,88.0,,Absent
+1207,Zoe,Mathematics,79.0,2023-03-01,
+1207,Cole,Mathematics,89.0,2020-09-13,Absent
+1221,Erika,Biology,96.0,,Absent
+1165,Sarah,Physics,,2022-03-16,Present
+1165,Thomas,Physics,98.0,2024-04-23,
+1165,Mary,Physics,84.0,2024-08-04,Present
+1348,Christina,Biology,68.0,2020-04-02,Present
+1348,Leslie,Biology,70.0,2024-09-14,Present
+1340,Laura,Biology,81.0,2020-06-21,
+1340,John,Biology,63.0,,Absent
+1440,Jared,Physics,74.0,2021-05-25,
+1440,Luis,Physics,77.0,,Absent
+1440,Jose,Physics,86.0,2023-08-06,Absent
+1469,Matthew,Mathematics,,2024-09-30,Present
+1469,,,81.0,2024-06-18,Present
+1455,Angela,Mathematics,67.0,2024-06-16,
+1323,Janet,Biology,82.0,2021-10-15,
+1203,Jessica,Computer Science,100.0,2022-08-03,Absent
+1203,Patrick,Computer Science,69.0,2023-03-26,Absent
+1203,Pamela,,,2022-02-03,Absent
+1032,Sabrina,Physics,77.0,2021-04-29,Absent
+1032,Michelle,Physics,67.0,2024-03-23,Absent
+1052,Vincent,Biology,63.0,2020-12-16,Absent
+1184,Rhonda,Biology,99.0,2024-01-11,Absent
+1138,Bradley,Computer Science,72.0,2020-12-27,Present
+1138,John,Computer Science,,2023-08-14,
+1373,,Computer Science,80.0,2024-09-25,Absent
+1382,Janice,Computer Science,,2020-04-09,
+1087,Lawrence,Physics,81.0,2021-08-22,
+1087,Allison,Physics,73.0,2020-12-14,Present
+1479,Antonio,Physics,95.0,2023-09-08,Present
+1479,Karen,Physics,66.0,2022-10-12,Present
+1270,Derrick,Biology,60.0,2020-08-05,Present
+1066,Jesse,Computer Science,,2022-10-03,Present
+1475,Kristin,Biology,71.0,2020-02-20,Present
+1242,Mitchell,Physics,87.0,2021-07-07,Absent
+1242,David,Physics,81.0,2023-08-11,
+1339,Richard,Computer Science,86.0,2021-02-16,
+1339,Rhonda,Computer Science,66.0,2023-05-18,Present
+1128,James,Biology,98.0,2024-01-04,Present
+1128,Jessica,Biology,75.0,2021-09-29,Present
+1149,Lindsay,Mathematics,87.0,2024-09-11,Present
+1149,Joshua,Mathematics,89.0,,Present
+1001,Kathryn,Mathematics,,2024-12-20,Absent
+1475,Joseph,Physics,71.0,2020-02-20,
+1454,Brandon,Physics,98.0,2022-01-09,Absent
+1454,Carolyn,Physics,96.0,2020-05-20,Absent
+1037,Stephen,Computer Science,70.0,2021-04-13,Absent
+1037,Thomas,Computer Science,95.0,,Absent
+1037,Tyler,Computer Science,90.0,2020-05-18,Absent
+1485,Jessica,Computer Science,73.0,2024-02-11,
+1485,Denise,Computer Science,92.0,2022-09-10,Present
+1151,Tammy,Biology,88.0,2020-10-19,
+1151,Dean,Biology,,2024-02-10,Present
+1318,Kelly,Biology,75.0,2023-11-28,Absent
+1299,Brenda,Computer Science,97.0,2021-10-07,
+1401,Zachary,Biology,74.0,2021-09-14,Absent
+1498,Anna,Computer Science,,2022-08-25,Present
+1498,David,Computer Science,90.0,,Present
+1405,Rachel,Biology,,2023-12-23,Present
+1405,Robert,Biology,75.0,2024-04-03,Present
+1267,Paige,Computer Science,98.0,2020-07-29,Present
+1267,Mike,Computer Science,80.0,2022-12-06,
+1076,Jeremy,Biology,,2021-05-21,Absent
+1076,Michael,Biology,,2023-01-23,Absent
+1067,Robert,Computer Science,89.0,2023-02-11,
+1067,Nicole,Computer Science,66.0,2024-06-04,
+1094,Rebecca,Computer Science,,2024-01-14,Present
+1094,James,Computer Science,78.0,2024-01-16,Present
+1094,Michael,Computer Science,67.0,2022-05-27,Present
+1094,Brandi,Computer Science,82.0,2022-10-12,Present
+1094,Debra,,83.0,2023-12-12,Present
+1080,Lindsey,Mathematics,80.0,2021-06-17,
+1080,Paul,Mathematics,,2024-04-28,Absent
+1475,Raymond,Mathematics,,2020-02-20,
+1173,James,Computer Science,89.0,2024-10-02,Present
+1339,Jeffrey,Physics,86.0,,Absent
+1339,Elizabeth,Physics,66.0,,Absent
+1055,Tamara,Physics,79.0,2020-06-21,Absent
+1055,Adam,Physics,77.0,2024-02-18,
+1055,Jessica,Physics,66.0,2021-01-18,Absent
+1055,Joshua,,62.0,2023-11-14,Absent
+1055,Charles,Physics,71.0,2023-05-18,Absent
+1419,Eduardo,Computer Science,80.0,2023-08-06,Absent
+1106,Paige,Mathematics,69.0,2024-08-02,Absent
+1143,Judy,Biology,79.0,2022-12-20,Absent
+1143,William,Biology,95.0,2021-10-16,
+1143,Mary,Biology,79.0,2023-04-25,Absent
+1143,Dylan,Biology,,2024-03-08,Absent
+1143,Suzanne,Biology,75.0,2021-01-12,Absent
+1444,Tiffany,Biology,66.0,2024-01-06,Absent
+1444,Kayla,Biology,92.0,2024-02-20,Absent
+1444,Wesley,Biology,64.0,2020-12-31,Absent
+1399,Rachel,Biology,85.0,2023-02-22,Absent
+1399,Michael,Biology,88.0,2023-05-24,
+1399,Joshua,Biology,94.0,2024-11-23,Absent
+1385,Jessica,Mathematics,90.0,,Absent
+1081,David,Biology,65.0,2024-02-26,Present
+1402,Diana,Biology,,2023-09-24,Absent
+1402,Donald,Biology,81.0,2020-06-01,Absent
+1191,Teresa,Biology,96.0,2022-03-04,Absent
+1191,Ashley,Biology,83.0,,Absent
+1191,Timothy,Biology,82.0,2023-07-27,
+1191,Jennifer,Biology,61.0,2021-05-31,Absent
+1232,Mark,Physics,84.0,2021-01-22,Present
+1232,Billy,Physics,65.0,2022-10-20,Present
+1232,Leslie,Physics,64.0,2024-07-21,Present
+1232,Holly,Physics,69.0,2024-09-06,Present
+1232,Lindsay,Physics,,2024-07-02,Present
+1232,Vicki,Physics,84.0,,
+1251,Jerry,Physics,70.0,2023-01-16,Absent
+1251,Derrick,Physics,77.0,2020-11-15,Absent
+1118,Destiny,Biology,82.0,,Present
+1118,Elizabeth,Biology,95.0,2024-01-31,Present
+1320,Erin,Computer Science,78.0,,Present
+1036,,,63.0,2022-11-07,Present
+1036,Crystal,Mathematics,87.0,2022-04-03,Present
+1036,Dawn,Mathematics,66.0,2022-01-09,
+1036,Jessica,Mathematics,87.0,2021-11-03,Present
+1032,Maria,Biology,,,Absent
+1032,Christine,Biology,67.0,2024-03-23,Absent
+1210,Todd,Computer Science,78.0,2022-09-04,Present
+1339,Amanda,Physics,86.0,,
+1339,Christine,Physics,,2023-05-18,Present
+1327,Joanna,Biology,74.0,2022-09-05,Absent
+1327,Bryan,Biology,60.0,,
+1327,Laura,Biology,,2024-09-11,
+1158,Frank,Mathematics,89.0,2023-10-22,Absent
+1158,Misty,Mathematics,61.0,2023-05-21,
+1158,Jeffrey,Mathematics,,2020-04-26,Absent
+1483,Jose,Biology,73.0,2024-12-10,Present
+1076,Dominique,Computer Science,84.0,2021-05-21,Present
+1076,Laura,Computer Science,72.0,2023-01-23,Present
+1344,Erica,Computer Science,73.0,2023-11-20,Absent
+1344,Joshua,Computer Science,78.0,,Absent
+1284,Barbara,Physics,62.0,2024-04-22,Absent
+1284,Billy,Physics,90.0,2022-05-21,
+1284,Robert,Physics,77.0,2022-05-30,Absent
+1284,David,Physics,90.0,2023-02-24,Absent
+1287,Sheila,Biology,89.0,2021-11-03,Absent
+1287,Matthew,Biology,66.0,2022-03-22,Absent
+1287,,Biology,98.0,2021-07-06,
+1044,Brandon,Biology,69.0,2024-10-21,Present
+1044,Dale,Biology,88.0,2024-09-02,Present
+1044,Nicholas,Biology,84.0,2024-08-25,Present
+1044,Justin,Biology,81.0,2022-04-10,
+1496,Jacob,Physics,,2023-09-21,Absent
+1496,Wendy,Physics,61.0,,Absent
+1484,Michael,Computer Science,64.0,2024-07-09,
+1192,Megan,Biology,,2020-08-04,Absent
+1192,Jennifer,Biology,62.0,2024-03-24,Absent
+1216,Jacob,Physics,65.0,2023-01-03,Present
+1216,Carlos,Physics,,2023-01-09,Present
+1216,Brittany,Physics,72.0,2024-07-13,Present
+1216,Yesenia,Physics,92.0,2020-12-27,Present
+1191,Jacob,Physics,96.0,,
+1191,Juan,Physics,83.0,2020-07-25,Present
+1191,Michael,Physics,,2023-07-27,Present
+1191,Daniel,Physics,61.0,2021-05-31,Present
+1123,Hannah,Computer Science,90.0,2022-11-06,Present
+1123,Ruben,Computer Science,60.0,2021-03-29,
+1323,David,Physics,,,Present
+1472,Timothy,Physics,,2021-08-01,Absent
+1173,Douglas,Computer Science,89.0,2024-10-02,
+1067,Kyle,Physics,89.0,2023-02-11,Present
+1067,Tracy,Physics,,2024-06-04,Present
+1182,Nicholas,Physics,67.0,2022-04-01,Absent
+1007,Michael,Physics,95.0,,Absent
+1118,Kyle,Biology,,2023-05-15,Absent
+1118,Judith,Biology,,,Absent
+1179,Paula,,78.0,2020-06-05,Absent
+1179,Benjamin,Computer Science,66.0,2021-09-29,Absent
+1229,Adam,Biology,68.0,2024-08-18,
+1100,Rebecca,Computer Science,69.0,2022-01-16,Absent
+1100,Steven,Computer Science,66.0,2020-01-31,Absent
+1171,Carla,Biology,,,
+1171,Paula,Biology,67.0,2021-07-17,
+1031,Aaron,Biology,71.0,2020-10-05,
+1031,Peter,Biology,66.0,2024-05-18,Present
+1489,Sarah,Biology,76.0,2024-08-12,
+1489,Autumn,Biology,,2021-01-02,
+1186,Jenna,Biology,81.0,2022-08-23,Absent
+1186,Laura,Biology,73.0,2023-02-14,Absent
+1286,Jennifer,Biology,100.0,2023-07-16,
+1286,William,Biology,94.0,2022-05-19,Absent
+1286,Julian,Biology,69.0,2022-01-26,
+1286,Stacy,Biology,76.0,2024-02-24,Absent
+1286,,Biology,72.0,2022-08-25,Absent
+1138,John,Mathematics,72.0,2020-12-27,Present
+1138,Jasmine,Mathematics,70.0,2023-08-14,Present
+1147,Heather,Physics,82.0,2024-02-03,Absent
+1147,Paula,Physics,78.0,,Absent
+1065,,Mathematics,92.0,2023-02-13,Absent
+1065,Kimberly,Mathematics,78.0,,Absent
+1065,James,Mathematics,92.0,2024-12-19,Absent
+1183,Christine,,92.0,2024-09-24,Present
+1183,Jessica,Biology,80.0,2023-11-12,Present
+1183,John,Biology,83.0,2022-06-22,
+1072,Melissa,Physics,73.0,2021-01-25,Present
+1072,Nicholas,Physics,61.0,2023-10-24,Present
+1277,Andrew,Computer Science,71.0,,
+1277,Derrick,,82.0,,Absent
+1277,Shawn,Computer Science,79.0,2024-01-10,Absent
+1277,Donna,Computer Science,68.0,2024-03-12,Absent
+1228,Jennifer,Computer Science,99.0,2020-04-22,Absent
+1228,Haley,Computer Science,63.0,2022-11-03,Absent
+1228,Wyatt,Computer Science,65.0,2022-06-08,
+1093,Kristen,Biology,94.0,2021-07-11,
+1175,Steven,Biology,,2020-11-17,Present
+1175,Stephanie,Biology,65.0,2021-09-26,Present
+1403,Andrew,Biology,,2021-11-23,
+1403,Janet,Biology,75.0,2023-06-14,Present
+1403,Rachel,Biology,63.0,2022-06-01,Present
+1403,Donna,Biology,87.0,2021-07-16,
+1403,Eric,Biology,82.0,,Present
+1146,Jeffery,Mathematics,61.0,2024-05-12,Absent
+1146,Tracy,Mathematics,69.0,2022-01-18,Absent
+1146,Donald,Mathematics,73.0,2020-09-14,
+1037,Melissa,Biology,,2021-04-13,Absent
+1037,Randy,Biology,95.0,2020-02-27,Absent
+1037,Maria,Biology,,2020-05-18,Absent
+1066,Tammy,Physics,64.0,2022-10-03,Present
+1429,George,Computer Science,92.0,,Absent
+1212,Hannah,Computer Science,75.0,2022-09-15,Present
+1212,Robert,Computer Science,87.0,2024-12-02,Present
+1177,Rebekah,Physics,83.0,2022-07-13,
+1143,Shirley,Physics,79.0,2022-12-20,
+1143,Taylor,Physics,,2021-10-16,
+1143,Jose,Physics,79.0,,Absent
+1143,Jose,Physics,84.0,2024-03-08,Absent
+1143,Angela,Physics,,2021-01-12,Absent
+1052,Patrick,Computer Science,63.0,2020-12-16,Absent
+1044,Robert,Computer Science,,2024-10-21,Absent
+1044,Alfred,Computer Science,88.0,2024-09-02,Absent
+1044,Tracy,Computer Science,84.0,2024-08-25,Absent
+1044,Rebecca,Computer Science,,2022-04-10,Absent
+1163,Dana,Physics,60.0,2023-09-20,Present
+1163,Glenda,Physics,87.0,,Present
+1133,Walter,Biology,73.0,2024-07-10,Absent
+1133,Jason,Biology,82.0,2021-05-11,Absent
+1133,Madeline,Biology,,,Absent
+1401,Matthew,Biology,74.0,,Present
+1169,Candice,Biology,90.0,2024-08-27,Absent
+1169,Michael,Biology,79.0,,Absent
+1138,Erika,Physics,72.0,2020-12-27,Present
+1138,David,Physics,70.0,2023-08-14,Present
+1054,Amber,Biology,,2021-11-15,Present
+1054,Sarah,Biology,74.0,2024-01-04,Present
+1419,Sheila,Biology,,2023-08-06,Present
+1261,Nathaniel,Computer Science,60.0,2024-12-24,Absent
+1271,Robin,Physics,93.0,2020-05-22,Absent
+1271,Dana,Physics,,2020-07-10,Absent
+1061,Daniel,,89.0,2021-10-28,
+1061,Kevin,Computer Science,62.0,2023-11-21,Present
+1061,Morgan,Computer Science,68.0,,Present
+1337,Stacy,Mathematics,94.0,2024-05-23,Present
+1337,Nicole,,84.0,2024-05-06,Present
+1048,Kathryn,Physics,94.0,2021-09-01,Absent
+1048,Donald,Physics,84.0,2024-05-05,Absent
+1048,Paula,Physics,94.0,2020-11-15,
+1219,Heather,Physics,79.0,2024-10-15,Absent
+1219,Karen,Physics,66.0,2022-08-30,
+1058,Katie,Biology,,2023-08-07,Absent
+1058,Walter,Biology,73.0,2024-09-15,Absent
+1058,Jeffrey,Biology,,2021-07-16,Absent
+1058,Christian,Biology,100.0,2023-07-05,Absent
+1058,Johnny,Biology,,2020-03-23,Absent
+1021,Juan,Mathematics,65.0,2021-07-16,Absent
+1021,Ryan,Mathematics,72.0,2024-12-22,Absent
+1021,Mathew,Mathematics,,2020-05-17,Absent
+1021,Michelle,Mathematics,,2024-07-09,Absent
+1021,Julia,Mathematics,,2021-12-13,Absent
+1021,Kathryn,Mathematics,99.0,2020-02-12,Absent
+1194,Michael,Biology,82.0,2021-11-24,Absent
+1194,Vanessa,Biology,76.0,2020-02-29,Absent
+1194,Ryan,Biology,92.0,2021-10-06,Absent
+1194,George,Biology,65.0,2024-11-27,Absent
+1194,Denise,,72.0,2021-09-26,Absent
+1137,Zachary,Computer Science,64.0,2022-03-26,Present
+1137,Tony,Computer Science,,2022-06-19,Present
+1360,David,,84.0,2020-07-20,Absent
+1117,Christopher,Physics,85.0,2021-10-03,Absent
+1117,Michael,Physics,97.0,2023-01-26,Absent
+1218,Joshua,Mathematics,88.0,2022-02-05,Present
+1218,Helen,Mathematics,95.0,2021-03-29,
+1218,Matthew,Mathematics,86.0,2022-11-09,
+1176,Charles,Biology,,,Present
+1176,Diana,Biology,84.0,2024-01-23,Present
+1408,Lisa,Biology,69.0,2022-12-26,Absent
+1408,Alexa,Biology,83.0,2020-11-26,Absent
+1400,Victor,Biology,67.0,2024-03-20,Present
+1400,Joshua,Biology,93.0,,Present
+1400,Jonathan,Biology,,2022-10-18,Present
+1400,Jennifer,Biology,78.0,2021-07-15,Present
+1400,Katherine,Biology,,2023-11-16,Present
+1284,,Computer Science,62.0,2024-04-22,Present
+1284,Mark,Computer Science,,2022-05-21,
+1284,James,Computer Science,,2022-05-30,Present
+1284,David,Computer Science,90.0,2023-02-24,
+1277,Anna,Biology,,2021-12-17,
+1277,Jill,Biology,,2024-03-16,Absent
+1277,Brett,Biology,79.0,2024-01-10,Absent
+1277,Lucas,Biology,68.0,2024-03-12,Absent
+1264,Jacob,Mathematics,80.0,2023-03-01,
+1264,Tyler,Mathematics,78.0,2020-10-21,Absent
+1264,George,Mathematics,,2021-04-11,Absent
+1264,Shelley,Mathematics,75.0,2022-06-02,Absent
+1329,Heather,Biology,89.0,2020-09-29,Present
+1329,Ashley,Biology,65.0,2024-01-14,
+1464,Hailey,Physics,,,Present
+1464,Melanie,Physics,96.0,2024-03-31,Present
+1074,Richard,Physics,80.0,2022-09-14,
+1496,Carrie,Biology,75.0,2023-09-21,Present
+1496,David,Biology,61.0,2022-10-19,Present
+1475,Tracey,Physics,71.0,2020-02-20,Present
+1094,Brittany,Biology,68.0,2024-01-14,Present
+1094,Daniel,Biology,,2024-01-16,Present
+1094,Rachael,Biology,67.0,2022-05-27,Present
+1094,Caleb,,82.0,,
+1094,Joseph,Biology,83.0,,Present
+1100,Frank,Biology,69.0,2022-01-16,Absent
+1100,Christine,Biology,66.0,,Absent
+1023,Brian,,94.0,,Present
+1023,James,Physics,66.0,2021-11-15,Present
+1023,Julie,,72.0,2022-02-23,
+1023,Matthew,Physics,92.0,2022-01-27,
+1354,Peter,Biology,,2023-07-21,Present
+1354,Sandra,Biology,65.0,2021-08-26,Present
+1027,Marisa,Computer Science,100.0,2024-06-09,Absent
+1027,Darren,Computer Science,69.0,2023-07-04,Absent
+1027,Stephanie,Computer Science,87.0,,Absent
+1389,Gina,Computer Science,86.0,2023-01-30,Present
+1181,Kim,Computer Science,66.0,2022-12-27,Absent
+1108,Jonathan,Mathematics,92.0,,
+1225,Jackie,Biology,92.0,2023-01-10,Present
+1225,Darin,Biology,82.0,2021-09-12,Present
+1040,Brenda,Mathematics,60.0,2023-02-10,Absent
+1040,Matthew,Mathematics,61.0,,Absent
+1388,Jody,,86.0,2023-02-07,
+1193,Dylan,Mathematics,60.0,2023-06-06,Present
+1401,Robert,,74.0,2021-09-14,Present
+1055,Charles,Computer Science,79.0,2020-06-21,Absent
+1055,James,Computer Science,77.0,2024-02-18,
+1055,Raymond,,66.0,,Absent
+1055,Tanya,Computer Science,62.0,2023-11-14,Absent
+1055,Cory,Computer Science,71.0,2023-05-18,Absent
+1153,Kristen,Computer Science,,2023-06-06,Present
+1153,Miguel,Computer Science,93.0,2020-06-18,Present
+1153,Curtis,Computer Science,85.0,2021-02-17,Present
+1153,Caitlyn,Computer Science,,,Present
+1338,,Mathematics,77.0,2020-04-02,Present
+1338,Tina,Mathematics,95.0,2024-05-07,Present
+1338,David,Mathematics,73.0,2022-10-03,
+1338,Charles,Mathematics,80.0,2022-10-31,Present
+1358,Robert,Biology,,2023-03-24,Present
+1358,Meghan,Biology,64.0,2020-11-13,Present
+1358,Janet,Biology,78.0,2020-10-10,
+1211,Charles,Computer Science,,,Absent
+1122,Terry,Computer Science,61.0,2023-09-25,Absent
+1232,Lisa,Computer Science,84.0,2021-01-22,Present
+1232,,Computer Science,,2022-10-20,
+1232,Jeffrey,Computer Science,64.0,2024-07-21,Present
+1232,Antonio,Computer Science,69.0,2024-09-06,
+1232,Martin,Computer Science,81.0,2024-07-02,Present
+1232,Craig,Computer Science,84.0,2021-01-25,Present
+1202,Jillian,Biology,79.0,2021-02-15,Present
+1393,Jennifer,Biology,,2024-01-29,Present
+1393,Anna,Biology,78.0,2024-08-25,Present
+1043,Pamela,Computer Science,91.0,2022-04-11,Absent
+1043,Andrea,Computer Science,68.0,2021-10-16,Absent
+1043,Philip,Computer Science,83.0,2022-06-17,Absent
+1043,Amy,Computer Science,81.0,,Absent
+1043,Frank,Computer Science,99.0,2020-07-14,Absent
+1043,Sandra,Computer Science,68.0,2024-04-15,Absent
+1161,Sabrina,Biology,,2022-02-09,Absent
+1161,Robert,,84.0,2020-05-18,
+1462,Crystal,Mathematics,64.0,2022-07-11,Absent
+1462,Joel,Mathematics,,2021-11-23,
+1438,Ryan,Mathematics,92.0,2023-05-18,Absent
+1438,Christina,Mathematics,100.0,2023-02-04,Absent
+1438,Jennifer,Mathematics,93.0,2020-06-01,Absent
+1438,Phillip,Mathematics,71.0,2024-12-15,Absent
+1150,Melissa,Physics,,2020-08-27,
+1150,Juan,Physics,64.0,2022-07-06,
+1408,Mark,Physics,69.0,2022-12-26,
+1408,Nicole,Physics,83.0,2020-11-26,
+1151,Lisa,Physics,88.0,2020-10-19,Absent
+1151,Sheila,Physics,79.0,2024-02-10,Absent
+1011,Tara,Computer Science,92.0,2022-04-30,Absent
+1011,Maria,Computer Science,73.0,2021-11-12,
+1297,Samantha,Computer Science,100.0,2023-06-29,Absent
+1297,Melanie,Computer Science,63.0,2021-08-02,Absent
+1297,,Computer Science,88.0,2020-12-07,Absent
+1226,Brian,Biology,83.0,2021-02-22,Present
+1040,James,Computer Science,,2023-02-10,Present
+1040,William,Computer Science,61.0,2024-06-06,
+1405,Mary,Physics,92.0,2023-12-23,Absent
+1405,George,Physics,75.0,2024-04-03,Absent
+1150,David,Physics,70.0,2020-08-27,Present
+1150,Angela,Physics,64.0,,Present
+1462,Monica,Mathematics,64.0,2022-07-11,
+1462,Patricia,Mathematics,76.0,2021-11-23,Absent
+1065,Justin,Computer Science,92.0,2023-02-13,Present
+1065,Jennifer,Computer Science,78.0,2023-10-12,Present
+1065,Stephanie,Computer Science,,2024-12-19,Present
+1200,Amy,Physics,69.0,2022-04-28,Absent
+1200,Billy,Physics,61.0,2020-01-19,Absent
+1096,Logan,Computer Science,,2022-11-20,Present
+1330,Melissa,Biology,63.0,2023-05-31,Present
+1416,Michelle,Biology,63.0,2021-09-15,Absent
+1394,Isabella,,60.0,2021-02-14,Absent
+1394,Tyler,,81.0,2023-11-18,Absent
+1218,Kyle,Biology,88.0,2022-02-05,Present
+1218,,Biology,,2021-03-29,Present
+1218,Brandy,Biology,,,Present
+1400,Miguel,Computer Science,67.0,2024-03-20,Absent
+1400,Kyle,Computer Science,,2023-10-12,Absent
+1400,Chris,Computer Science,,,Absent
+1400,David,Computer Science,78.0,2021-07-15,Absent
+1400,Kristin,Computer Science,84.0,2023-11-16,Absent
+1476,Amber,Computer Science,71.0,2020-02-13,Present
+1476,Mike,Computer Science,,2021-01-11,Present
+1476,Robert,Computer Science,71.0,2023-02-08,Present
+1476,Charles,Computer Science,89.0,2020-01-26,Present
+1436,Carrie,Mathematics,64.0,2024-02-20,Absent
+1436,Betty,Mathematics,,2023-09-30,Absent
+1073,Duane,Biology,98.0,2021-01-31,Absent
+1073,Dustin,,75.0,2023-03-07,Absent
+1330,Mark,Physics,,,Present
+1440,Audrey,,,2021-05-25,Present
+1440,James,Computer Science,77.0,2022-09-16,
+1440,Laura,Computer Science,86.0,2023-08-06,Present
+1190,Matthew,Physics,79.0,2020-08-17,Present
+1190,Marissa,Physics,92.0,2022-10-15,Present
+1313,James,Mathematics,64.0,,Present
+1365,Sara,Physics,71.0,2021-04-09,Absent
+1469,Catherine,Computer Science,65.0,2024-09-30,Present
+1469,Daniel,Computer Science,81.0,2024-06-18,
+1467,Nicholas,Biology,62.0,2020-02-27,
+1467,Wendy,Biology,,2021-01-18,Absent
+1053,,Computer Science,87.0,2024-02-20,Present
+1053,Nancy,Computer Science,80.0,,Present
+1173,Brian,Computer Science,89.0,2024-10-02,Absent
+1289,Steven,Physics,85.0,2022-12-16,Absent
+1289,Miranda,Physics,96.0,2024-11-24,
+1289,Christina,,95.0,,Absent
+1113,Roger,Mathematics,77.0,,Present
+1011,Elizabeth,Physics,92.0,2022-04-30,Present
+1011,Lori,Physics,,2021-11-12,Present
+1241,Christine,Physics,87.0,2020-03-15,
+1241,Elizabeth,Physics,68.0,2023-07-19,Absent
+1241,Lisa,Physics,,2024-10-17,Absent
+1067,Anne,Physics,,2023-02-11,Present
+1067,Mary,Physics,66.0,,Present
+1333,James,Computer Science,,2020-10-21,Present
+1404,Megan,Mathematics,63.0,,
+1404,Sheri,Mathematics,96.0,2024-09-23,Absent
+1404,Lisa,Mathematics,97.0,2021-11-19,Absent
+1404,Gabrielle,Mathematics,74.0,,Absent
+1129,Russell,Physics,64.0,2020-05-03,Absent
+1129,Angie,Physics,94.0,2023-09-18,Absent
+1129,Thomas,Physics,,2023-09-20,Absent
+1129,Mark,Physics,88.0,2022-07-13,Absent
+1452,Shannon,Computer Science,100.0,2024-04-04,Absent
+1452,Chad,Computer Science,,2024-11-12,Absent
+1106,Benjamin,Biology,,2024-08-02,Present
+1385,Michael,Computer Science,90.0,2023-06-09,Absent
+1491,Christopher,Computer Science,94.0,2020-05-15,Present
+1491,Laura,Computer Science,100.0,2024-06-20,Present
+1255,Jimmy,Physics,67.0,2023-06-09,Present
+1255,Lisa,Physics,90.0,2020-04-27,Present
+1245,Kyle,Biology,,2023-07-01,Present
+1245,Kelly,Biology,,2020-01-31,Present
+1245,William,Biology,67.0,2020-10-17,Present
+1441,Mason,Mathematics,72.0,2024-04-16,Present
+1113,Shelley,Computer Science,,,Present
+1227,Ashley,,,,Absent
+1121,Michelle,Computer Science,94.0,,Present
+1121,Lauren,Computer Science,83.0,2021-09-26,Present
+1121,Kevin,,80.0,2022-09-30,
+1121,Katie,Computer Science,72.0,2023-10-10,
+1287,Terri,Computer Science,89.0,2021-11-03,Present
+1287,Gwendolyn,Computer Science,66.0,2022-03-22,Present
+1287,Whitney,Computer Science,98.0,2021-07-06,Present
+1109,Whitney,Biology,97.0,2024-09-16,Present
+1109,Kayla,Biology,81.0,2023-05-12,Present
+1403,Benjamin,Computer Science,61.0,2021-11-23,Absent
+1403,Janice,Computer Science,75.0,2023-06-14,Absent
+1403,Mitchell,Computer Science,63.0,,Absent
+1403,Joshua,Computer Science,87.0,2021-07-16,Absent
+1403,Brian,Computer Science,82.0,2021-10-15,Absent
+1151,Lori,Mathematics,88.0,2020-10-19,Present
+1151,Amy,Mathematics,79.0,,
+1400,Hannah,Physics,67.0,2024-03-20,Absent
+1400,Paul,Physics,93.0,2023-10-12,
+1400,,Physics,73.0,2022-10-18,Absent
+1400,Jasmin,Physics,78.0,2021-07-15,Absent
+1400,Donald,Physics,,2023-11-16,Absent
+1327,Travis,Computer Science,74.0,2022-09-05,Absent
+1327,Christopher,Computer Science,,2022-09-19,Absent
+1327,Whitney,Computer Science,81.0,2024-09-11,Absent
+1007,William,Mathematics,95.0,,Absent
+1096,Janice,Physics,,,Present
+1330,Connie,,,2023-05-31,Absent
+1315,Michael,Biology,70.0,2021-05-31,Present
+1315,George,Biology,74.0,2024-01-19,Present
+1315,Christopher,Biology,63.0,2021-08-19,Present
+1198,Keith,Biology,63.0,2024-06-15,Present
+1198,Melissa,Biology,75.0,,Present
+1059,Kristina,Biology,,,Present
+1249,Richard,Physics,97.0,2021-08-14,Absent
+1249,Meghan,Physics,74.0,2024-01-12,Absent
+1232,Grace,Computer Science,84.0,2021-01-22,
+1232,Thomas,Computer Science,65.0,2022-10-20,
+1232,Justin,Computer Science,64.0,2024-07-21,Absent
+1232,Rachel,Computer Science,69.0,2024-09-06,Absent
+1232,Erika,Computer Science,81.0,,Absent
+1232,Kaylee,Computer Science,84.0,2021-01-25,Absent
+1143,William,Computer Science,79.0,2022-12-20,Present
+1143,Michelle,Computer Science,95.0,,Present
+1143,Victor,,79.0,2023-04-25,Present
+1143,Isaac,Computer Science,84.0,2024-03-08,Present
+1143,George,Computer Science,75.0,2021-01-12,Present
+1287,Erin,Biology,89.0,2021-11-03,Absent
+1287,Amy,Biology,66.0,2022-03-22,Absent
+1287,Alex,Biology,98.0,2021-07-06,Absent
+1153,Jacob,Mathematics,79.0,,Absent
+1153,Ricardo,,93.0,2020-06-18,
+1153,Christopher,Mathematics,85.0,2021-02-17,Absent
+1153,Gregory,Mathematics,90.0,2024-03-01,Absent
+1124,Karen,Physics,86.0,2020-02-26,
+1124,Wesley,Physics,66.0,2022-04-02,Absent
+1467,Jasmine,Biology,62.0,2020-02-27,Absent
+1467,Wendy,Biology,64.0,2021-01-18,Absent
+1274,Luis,Computer Science,73.0,,Absent
+1274,Sarah,Computer Science,,2020-09-04,
+1406,Jessica,Computer Science,68.0,2023-02-09,Absent
+1406,David,Computer Science,74.0,2023-03-23,Absent
+1488,Donald,Biology,62.0,2023-07-30,Absent
+1488,Emily,Biology,74.0,2023-01-21,
+1488,Colleen,Biology,78.0,2022-09-15,Absent
+1073,Kyle,Physics,98.0,2021-01-31,Absent
+1073,Richard,Physics,75.0,2023-03-07,Absent
+1356,Austin,Physics,97.0,2021-11-29,
+1356,Kevin,Physics,65.0,2022-11-21,Present
+1220,Maurice,Physics,63.0,2022-01-20,Present
+1220,Robert,Physics,97.0,2021-09-08,Present
+1239,Erika,Physics,71.0,2024-05-02,Present
+1239,David,Physics,74.0,2021-10-26,Present
+1239,Cynthia,Physics,66.0,2022-04-04,Present
+1225,David,Computer Science,,2023-01-10,Absent
+1225,Christopher,Computer Science,82.0,2021-09-12,Absent
+1406,Bonnie,Computer Science,68.0,,Present
+1406,Daniel,Computer Science,74.0,2023-03-23,Present
+1299,Gary,Physics,97.0,2021-10-07,Present
+1330,Dale,Physics,63.0,2023-05-31,Absent
+1021,Mackenzie,Computer Science,65.0,2021-07-16,Present
+1021,Tammy,Computer Science,72.0,2024-12-22,Present
+1021,Nicole,Computer Science,85.0,2020-05-17,Present
+1021,Zachary,Computer Science,72.0,2024-07-09,
+1021,Ricardo,Computer Science,84.0,2021-12-13,Present
+1021,Alyssa,Computer Science,99.0,2020-02-12,Present
+1352,Christine,Physics,74.0,2023-10-17,Present
+1352,Phillip,Physics,63.0,2023-06-16,
+1119,Lisa,Physics,63.0,2023-06-26,Absent
+1119,Kevin,Physics,87.0,2022-01-16,Absent
+1139,Randall,Computer Science,66.0,2023-06-27,
+1139,Antonio,Computer Science,61.0,2021-11-28,
+1437,Wendy,Physics,89.0,2023-06-21,Absent
+1328,Michael,Physics,73.0,2021-05-24,Absent
+1418,Meghan,Computer Science,91.0,2023-04-11,Present
+1418,Connor,Computer Science,83.0,2024-02-21,Present
+1336,Matthew,Biology,72.0,,Absent
+1336,Jessica,Biology,,2023-03-01,Absent
+1225,Helen,Mathematics,,2023-01-10,Absent
+1225,Courtney,Mathematics,82.0,2021-09-12,
+1498,Paul,Biology,74.0,2022-08-25,
+1498,Julie,Biology,90.0,2021-05-07,Absent
+1484,Stanley,,64.0,2024-07-09,Present
+1070,Corey,Computer Science,,2021-11-16,Present
+1070,Yvette,Computer Science,93.0,2023-06-11,Present
+1070,Jaime,Computer Science,65.0,2023-12-11,Present
+1070,Jordan,Computer Science,85.0,2022-01-06,Present
+1070,Savannah,Computer Science,,2020-03-16,Present
+1471,Joyce,Biology,95.0,2020-08-08,Absent
+1471,Patricia,Biology,95.0,2023-09-01,Absent
+1471,Anthony,Biology,,2020-01-28,Absent
+1135,Kathryn,Computer Science,,2022-07-10,Present
+1135,Laurie,,64.0,2022-11-20,Present
+1135,Ashley,Computer Science,95.0,2023-06-13,Present
+1053,Donna,Mathematics,87.0,2024-02-20,Present
+1053,Melissa,Mathematics,80.0,2022-12-23,Present
+1203,Megan,Mathematics,100.0,2022-08-03,Absent
+1203,Jennifer,Mathematics,69.0,2023-03-26,Absent
+1203,Nicholas,Mathematics,99.0,2022-02-03,Absent
+1446,Johnny,Computer Science,67.0,,Absent
+1147,Alison,Physics,,2024-02-03,Present
+1147,Marc,Physics,78.0,2024-11-03,Present
+1079,Thomas,Mathematics,65.0,2022-01-06,Absent
+1066,Andrew,Mathematics,64.0,,Present
+1400,Tyler,,,2024-03-20,
+1400,Rebecca,Computer Science,93.0,2023-10-12,Present
+1400,Mary,,73.0,,Present
+1400,Brittney,Computer Science,78.0,2021-07-15,Present
+1400,Vanessa,Computer Science,84.0,2023-11-16,
+1364,Mary,Computer Science,77.0,2022-12-17,Present
+1329,Sheila,Biology,89.0,2020-09-29,Present
+1329,Vanessa,Biology,65.0,2024-01-14,Present
+1278,Charles,,73.0,2020-01-15,Present
+1414,Robert,Biology,96.0,2024-07-08,
+1414,Todd,Biology,69.0,2023-11-21,Absent
+1414,Eric,Biology,86.0,2023-03-27,Absent
+1103,Jeremy,Biology,100.0,2020-02-12,Present
+1008,Brittney,Biology,,2021-07-20,Present
+1008,Kathy,Biology,67.0,2023-01-26,Present
+1008,Susan,Biology,,2024-06-27,Present
+1248,Patrick,Physics,60.0,2020-06-09,Absent
+1248,Phyllis,Physics,92.0,,Absent
+1248,Nicholas,Physics,91.0,2021-01-02,Absent
+1405,Laura,Biology,92.0,2023-12-23,Present
+1405,Erin,Biology,75.0,2024-04-03,Present
+1241,Heather,Biology,,2020-03-15,Absent
+1241,Sharon,Biology,68.0,2023-07-19,Absent
+1241,Brian,Biology,68.0,2024-10-17,Absent
+1122,Frank,Biology,,2023-09-25,Present
+1128,Gabrielle,Physics,98.0,2024-01-04,Present
+1128,Nathaniel,Physics,75.0,,Present
+1356,Vincent,Computer Science,97.0,2021-11-29,Absent
+1356,Katherine,Computer Science,65.0,2022-11-21,Absent
+1480,Andrew,Mathematics,60.0,,Absent
+1221,Julie,Computer Science,96.0,2021-11-20,
+1409,Ryan,Biology,91.0,,
+1409,Vincent,Biology,82.0,2021-10-14,Present
+1409,Erica,Biology,69.0,,Present
+1409,Logan,Biology,67.0,2024-06-01,Present
+1352,Janet,Computer Science,74.0,,Absent
+1352,Benjamin,Computer Science,63.0,2023-06-16,
+1185,Latoya,Physics,70.0,2024-03-23,Present
+1185,Tina,Physics,82.0,2024-10-01,Present
+1384,Kristin,Biology,,2021-02-25,Absent
+1384,Eric,Biology,61.0,2023-12-24,Absent
+1292,Daniel,Physics,63.0,2020-07-18,
+1405,James,Biology,92.0,2023-12-23,
+1405,Daniel,Biology,75.0,2024-04-03,Absent
+1333,Evan,Physics,85.0,2020-10-21,Present
+1436,Shirley,Biology,64.0,2024-02-20,Present
+1436,Christina,Biology,75.0,2023-09-30,Present
+1420,John,Physics,89.0,2022-03-31,Present
+1420,Tina,Physics,72.0,,Present
+1469,Vicki,Biology,65.0,2024-09-30,
+1469,Caleb,Biology,81.0,2024-06-18,Present
+1056,Joshua,,81.0,2024-10-22,Present
+1056,Kayla,Computer Science,70.0,2024-07-14,Present
+1056,Carl,,84.0,,Present
+1056,Stephen,Computer Science,86.0,2024-11-04,Present
+1056,Sharon,Computer Science,60.0,2020-06-25,
+1056,Rachel,Computer Science,64.0,2021-01-28,Present
+1056,Scott,Computer Science,98.0,2020-03-06,Present
+1069,Amanda,Mathematics,80.0,2022-10-12,Absent
+1069,Jessica,Mathematics,72.0,2021-11-30,
+1069,Michele,Mathematics,86.0,2020-02-03,Absent
+1069,Amanda,Mathematics,89.0,2021-02-05,Absent
+1291,Jennifer,Physics,68.0,2023-05-30,
+1291,Kimberly,Physics,,2023-06-02,Present
+1181,Travis,Physics,66.0,2022-12-27,Absent
+1200,Julie,Physics,69.0,2022-04-28,Absent
+1200,Nicholas,Physics,61.0,2020-01-19,Absent
+1443,Wendy,Computer Science,98.0,2020-07-15,Absent
+1318,Marcus,Physics,75.0,2023-11-28,Absent
+1384,Vanessa,Physics,64.0,,Absent
+1384,Jose,Physics,61.0,2023-12-24,Absent
+1224,Jennifer,Mathematics,64.0,2021-07-23,Present
+1224,William,Mathematics,68.0,2024-08-28,
+1224,Angela,Mathematics,80.0,2021-04-11,
+1224,Amanda,Mathematics,80.0,2022-12-17,Present
+1095,Katherine,Computer Science,92.0,2021-09-01,Absent
+1095,Jessica,Computer Science,76.0,2022-04-29,Absent
+1172,Robert,Computer Science,94.0,2023-10-16,
+1172,Ashley,,88.0,2021-05-25,
+1172,Pamela,Computer Science,,2022-02-22,Absent
+1172,Justin,Computer Science,71.0,2024-12-12,Absent
+1190,Natalie,Mathematics,,,Present
+1190,Seth,Mathematics,92.0,2022-10-15,Present
+1353,Dalton,Physics,66.0,2021-01-19,
+1353,William,Physics,,2021-07-27,Absent
+1353,Zachary,Physics,73.0,2024-12-06,Absent
+1147,Mark,Computer Science,82.0,2024-02-03,Present
+1147,William,Computer Science,78.0,2024-11-03,
+1172,Brenda,Physics,,2023-10-16,Absent
+1172,Jason,Physics,88.0,2021-05-25,Absent
+1172,Christopher,Physics,,2022-02-22,
+1172,Tina,Physics,,2024-12-12,Absent
+1388,Joseph,Physics,,2023-02-07,Absent
+1408,Sarah,Physics,69.0,2022-12-26,Absent
+1408,Tara,Physics,83.0,2020-11-26,Absent
+1208,Monica,Biology,62.0,2020-03-01,Absent
+1253,Joseph,Biology,,2021-10-02,Present
+1253,Carol,Biology,61.0,2024-12-24,Present
+1253,Thomas,Biology,63.0,2024-08-03,Present
+1092,Heather,Mathematics,,2023-12-08,
+1092,Heather,,72.0,2023-06-29,Absent
+1092,Aaron,Mathematics,,,Absent
+1073,Tammie,Physics,98.0,,
+1073,Brian,Physics,75.0,,Present
+1323,Jason,Biology,82.0,2021-10-15,Absent
+1142,Wanda,Biology,66.0,2020-03-02,Present
+1142,Richard,Biology,76.0,2022-09-14,
+1142,Judith,Biology,77.0,,Present
+1142,John,Biology,79.0,,Present
+1281,Patrick,,,2023-04-25,Present
+1281,Danielle,Computer Science,,2024-10-18,Present
+1360,Stacy,Mathematics,84.0,2020-07-20,Absent
+1301,Mark,Physics,65.0,2022-11-09,Absent
+1301,Erik,Physics,64.0,2022-03-21,
+1066,Robin,Mathematics,64.0,,Present
+1001,Michael,Physics,67.0,2024-12-20,Present
+1469,Tiffany,Computer Science,65.0,2024-09-30,Present
+1469,Steve,Computer Science,81.0,2024-06-18,Present
+1036,Katie,Mathematics,63.0,2022-11-07,Present
+1036,David,Mathematics,87.0,2022-04-03,Present
+1036,,Mathematics,66.0,,Present
+1036,Monica,Mathematics,87.0,2021-11-03,Present
+1228,Dan,Mathematics,99.0,2020-04-22,Present
+1228,Richard,Mathematics,63.0,2022-11-03,Present
+1228,Madison,Mathematics,65.0,2022-06-08,Present
+1193,James,Computer Science,60.0,2023-06-06,Absent
+1134,Christina,Biology,68.0,,Absent
+1134,Victoria,Biology,85.0,2022-04-14,Absent
+1134,Katherine,,,2020-08-23,Absent
+1134,Crystal,Biology,91.0,2023-03-20,Absent
+1134,Andrea,Biology,67.0,,
+1134,Dawn,Biology,78.0,2023-12-10,Absent
+1291,Nicholas,Physics,68.0,2023-05-30,Present
+1291,George,Physics,80.0,2023-06-02,Present
+1186,Charles,Biology,81.0,2022-08-23,Absent
+1186,Pedro,Biology,73.0,2023-02-14,Absent
+1094,Tommy,Biology,68.0,2024-01-14,Present
+1094,Michelle,Biology,78.0,2024-01-16,Present
+1094,Tara,Biology,67.0,2022-05-27,
+1094,Brian,Biology,82.0,,Present
+1094,Lauren,Biology,83.0,2023-12-12,Present
+1059,Kimberly,Computer Science,87.0,2021-02-27,Present
+1137,Debbie,Mathematics,64.0,2022-03-26,Absent
+1137,Alicia,Mathematics,75.0,2022-06-19,Absent
+1058,Maria,Computer Science,64.0,2023-08-07,Absent
+1058,Amber,Computer Science,73.0,2024-09-15,Absent
+1058,Amber,Computer Science,67.0,2021-07-16,
+1058,John,Computer Science,100.0,2023-07-05,Absent
+1058,Ryan,Computer Science,100.0,2020-03-23,Absent
+1358,Bianca,Computer Science,98.0,2023-03-24,Present
+1358,Nicole,Computer Science,64.0,2020-11-13,Present
+1358,Kathryn,Computer Science,78.0,2020-10-10,Present
+1289,Donald,Biology,,2022-12-16,
+1289,Jessica,Biology,96.0,2024-11-24,Absent
+1289,Joseph,Biology,95.0,2020-05-02,Absent
+1382,Edwin,Biology,74.0,2020-04-09,Present
+1029,Darryl,Physics,100.0,2023-08-02,Absent
+1029,Stephen,Physics,71.0,,Absent
+1336,Amanda,Computer Science,72.0,2020-11-28,Absent
+1336,Samuel,Computer Science,98.0,2023-03-01,Absent
+1040,Ariel,Physics,60.0,2023-02-10,Present
+1040,Jennifer,Physics,61.0,2024-06-06,Present
+1003,Alan,Mathematics,,2024-09-17,Absent
+1285,Richard,Computer Science,69.0,2023-02-02,
+1063,Jennifer,Computer Science,74.0,2024-01-25,
+1063,Adam,Computer Science,68.0,2024-11-23,Present
+1063,Barbara,Computer Science,,,Present
+1420,Stephanie,Mathematics,89.0,2022-03-31,Present
+1420,Beth,Mathematics,72.0,2024-09-29,Present
+1162,John,Physics,,2024-11-01,Absent
+1162,Melinda,Physics,81.0,,
+1162,Christopher,Physics,84.0,,Absent
+1162,Jeremy,Physics,,,Absent
+1254,,Mathematics,82.0,,Present
+1254,Dennis,Mathematics,72.0,2021-09-12,Present
+1486,Jasmin,Biology,70.0,2021-03-25,Absent
+1220,Erica,Mathematics,,,Present
+1220,Phyllis,Mathematics,97.0,2021-09-08,Present
+1418,David,Biology,91.0,2023-04-11,Present
+1418,Eric,Biology,83.0,,Present
+1340,Lauren,Physics,81.0,2020-06-21,
+1340,Sarah,Physics,63.0,2024-08-18,
+1334,Gregory,Mathematics,61.0,2022-10-25,Absent
+1334,Michael,Mathematics,66.0,2022-12-17,Absent
+1334,Sandra,Mathematics,,2020-10-19,
+1334,Brian,Mathematics,95.0,2021-04-21,Absent
+1422,Gabriel,Biology,,2022-06-25,Absent
+1422,Anna,Biology,68.0,,
+1422,Victoria,Biology,,2021-09-09,Absent
+1058,Jeffrey,Computer Science,64.0,2023-08-07,
+1058,Diane,Computer Science,73.0,2024-09-15,Absent
+1058,Andrea,Computer Science,67.0,2021-07-16,Absent
+1058,Diana,Computer Science,100.0,,Absent
+1058,Christopher,Computer Science,100.0,2020-03-23,Absent
+1269,Cynthia,Computer Science,,2024-01-14,Present
+1269,Julie,Computer Science,87.0,,Present
+1269,Samuel,Computer Science,93.0,2024-06-08,Present
+1359,Angela,Physics,82.0,2021-07-14,Absent
+1206,,Physics,,2023-03-15,
+1206,Carrie,Physics,64.0,2021-05-31,Absent
+1206,Monica,Physics,65.0,2023-08-11,Absent
+1206,Logan,Physics,100.0,2023-09-28,Absent
+1206,William,Physics,79.0,2021-03-14,Absent
+1162,Donald,Biology,72.0,2024-11-01,Absent
+1162,Holly,Biology,81.0,2022-02-26,Absent
+1162,Sara,Biology,,,Absent
+1162,Frank,Biology,,2024-09-17,Absent
+1312,Jennifer,Computer Science,67.0,,
+1312,Tasha,Computer Science,,2021-05-11,Present
+1040,Steven,Biology,60.0,,Present
+1040,Michael,Biology,61.0,,Present
+1112,William,Mathematics,,2020-10-19,Absent
+1112,Haley,Mathematics,61.0,2023-07-02,Absent
+1425,Darryl,Biology,87.0,2021-09-25,Absent
+1425,David,Biology,63.0,2022-01-04,
+1425,Deborah,Biology,100.0,2023-09-09,
+1489,James,Biology,76.0,2024-08-12,Present
+1489,Sherry,Biology,65.0,2021-01-02,Present
+1234,Javier,Computer Science,66.0,2023-08-03,Present
+1207,Kathleen,Physics,88.0,2022-12-29,Absent
+1207,Jamie,,79.0,2023-03-01,Absent
+1207,Matthew,Physics,89.0,2020-09-13,Absent
+1107,Katherine,Mathematics,89.0,2023-05-05,Present
+1107,Juan,Mathematics,69.0,2022-08-06,Present
+1107,Joshua,Mathematics,89.0,2024-03-17,Present
+1107,Derek,Mathematics,,,
+1141,Danielle,Biology,70.0,2020-08-27,
+1141,Alyssa,Biology,68.0,2020-06-15,Present
+1141,Nancy,Biology,69.0,2023-12-02,
+1444,Sharon,Biology,66.0,2024-01-06,Present
+1444,Marilyn,Biology,92.0,2024-02-20,Present
+1444,Carrie,Biology,64.0,2020-12-31,Present
+1013,Joann,Physics,71.0,2020-07-23,Absent
+1013,Megan,Physics,74.0,2024-01-21,Absent
+1087,Megan,Biology,81.0,,
+1087,Paul,Biology,73.0,2020-12-14,Present
+1475,Tina,Computer Science,71.0,2020-02-20,Present
+1369,Troy,Computer Science,100.0,2020-11-16,Present
+1369,Tonya,Computer Science,89.0,2020-10-30,Present
+1338,Cody,Physics,77.0,2020-04-02,Present
+1338,Kelly,Physics,95.0,2024-05-07,Present
+1338,Dave,Physics,73.0,2022-10-03,Present
+1338,Brandi,,80.0,2022-10-31,Present
+1165,James,Physics,63.0,,Absent
+1165,Lisa,Physics,98.0,2024-04-23,
+1165,Timothy,Physics,84.0,,Absent
+1035,Melissa,Biology,74.0,2024-11-05,Present
+1035,Amy,Biology,71.0,2020-01-01,Present
+1025,Zachary,Computer Science,95.0,2021-12-13,
+1025,Rebecca,Computer Science,86.0,,
+1261,Jacob,,60.0,2024-12-24,Absent
+1060,Kevin,Biology,72.0,2020-04-27,
+1060,Stephanie,Biology,,2020-01-17,Present
+1060,Danielle,Biology,83.0,2023-11-26,Present
+1120,Maurice,Computer Science,66.0,2024-01-11,Absent
+1257,Ashley,Physics,100.0,2020-09-07,Absent
+1257,Tiffany,Physics,71.0,2022-07-19,Absent
+1257,Patrick,Physics,90.0,2021-01-14,Absent
+1257,Nicholas,Physics,61.0,2023-01-01,Absent
+1106,Michelle,Mathematics,,2024-08-02,Present
+1436,Derek,Physics,64.0,2024-02-20,Absent
+1436,Gabriel,Physics,75.0,2023-09-30,Absent
+1177,Ryan,Biology,83.0,2022-07-13,Absent
+1200,Hannah,Physics,69.0,2022-04-28,Present
+1200,Gregory,Physics,61.0,2020-01-19,Present
+1315,Isaac,Computer Science,,2021-05-31,Present
+1315,Lauren,Computer Science,74.0,2024-01-19,Present
+1315,Justin,Computer Science,63.0,2021-08-19,Present
+1254,Richard,Biology,82.0,2021-06-27,Absent
+1254,Patrick,Biology,,2021-09-12,Absent
+1180,Dakota,Physics,100.0,2023-05-22,Absent
+1115,Patrick,Computer Science,76.0,2022-03-02,Present
+1027,Tara,Mathematics,100.0,,Present
+1027,Keith,Mathematics,69.0,2023-07-04,
+1027,Nicholas,Mathematics,87.0,2024-06-14,Present
+1191,Donna,Computer Science,96.0,,Absent
+1191,William,Computer Science,83.0,2020-07-25,Absent
+1191,Leah,Computer Science,82.0,2023-07-27,Absent
+1191,Malik,Computer Science,61.0,2021-05-31,Absent
+1391,Amanda,Mathematics,81.0,2021-05-23,
+1391,Erica,Mathematics,,2023-08-18,
+1391,Jason,Mathematics,62.0,2023-11-17,Present
+1194,Lucas,Computer Science,82.0,2021-11-24,Present
+1194,Cynthia,Computer Science,76.0,2020-02-29,Present
+1194,Marcus,Computer Science,92.0,2021-10-06,Present
+1194,Karen,Computer Science,,2024-11-27,Present
+1194,Jesus,Computer Science,72.0,2021-09-26,
+1228,Jimmy,Biology,99.0,2020-04-22,Absent
+1228,Raymond,,63.0,2022-11-03,Absent
+1228,Ann,,65.0,2022-06-08,Absent
+1232,Jacob,Biology,84.0,2021-01-22,Present
+1232,Stacy,Biology,65.0,2022-10-20,Present
+1232,Jose,Biology,,2024-07-21,Present
+1232,Judy,Biology,69.0,2024-09-06,Present
+1232,Alexis,Biology,81.0,2024-07-02,Present
+1232,Cassandra,Biology,84.0,2021-01-25,Present
+1216,Emily,Physics,65.0,2023-01-03,Absent
+1216,Kimberly,Physics,89.0,2023-01-09,Absent
+1216,Katelyn,Physics,72.0,2024-07-13,
+1216,Julie,Physics,92.0,2020-12-27,Absent
+1133,Kim,Biology,73.0,2024-07-10,Absent
+1133,Robert,Biology,82.0,2021-05-11,Absent
+1133,Melissa,Biology,,2023-08-10,Absent
+1312,Cathy,Physics,67.0,2022-02-04,
+1312,Aaron,Physics,79.0,2021-05-11,Present
+1002,Andrea,Computer Science,82.0,,Present
+1002,Brianna,Computer Science,67.0,,Present
+1002,Henry,Computer Science,67.0,2024-09-16,Present
+1002,Renee,Computer Science,74.0,2023-11-30,Present
+1002,Emily,Computer Science,,2021-09-28,Present
+1002,Deborah,Computer Science,98.0,2022-02-09,Present
+1106,Jacob,Biology,69.0,2024-08-02,Present
+1220,Alicia,Computer Science,63.0,2022-01-20,Present
+1220,Patrick,,97.0,,Present
+1196,Jessica,Biology,90.0,2021-10-08,Absent
+1196,Cody,,73.0,2023-01-07,Absent
+1196,Ann,Biology,75.0,2020-12-05,Absent
+1006,,Physics,96.0,2020-04-05,Present
+1346,Michael,Computer Science,63.0,,Absent
+1346,Julie,Computer Science,71.0,2024-05-26,Absent
+1346,Gail,,90.0,2023-03-04,Absent
+1329,Olivia,Biology,89.0,2020-09-29,Absent
+1329,Ashley,,65.0,,Absent
+1008,Susan,Biology,,,
+1008,Russell,Biology,67.0,2023-01-26,Absent
+1008,Andres,Biology,,2024-06-27,Absent
+1297,Christopher,Mathematics,100.0,2023-06-29,
+1297,Stephanie,Mathematics,63.0,2021-08-02,Absent
+1297,Rebecca,,88.0,2020-12-07,
+1279,Carla,Computer Science,78.0,2024-08-15,Absent
+1279,Laura,Computer Science,92.0,2024-12-18,Absent
+1279,Madison,Computer Science,,2021-12-22,Absent
+1326,Julie,Physics,98.0,2023-08-05,Absent
+1326,Jessica,Physics,77.0,2020-03-25,Absent
+1326,Richard,Physics,60.0,2022-05-25,Absent
+1129,Kyle,Biology,64.0,2020-05-03,Absent
+1129,Jodi,,94.0,,
+1129,Damon,Biology,65.0,2023-09-20,
+1129,Todd,Biology,88.0,2022-07-13,
+1219,Kimberly,Computer Science,79.0,2024-10-15,Present
+1219,Thomas,Computer Science,66.0,,Present
+1088,Bradley,Biology,93.0,2022-04-15,Absent
+1088,Christopher,Biology,,2020-08-18,Absent
+1421,Ian,Computer Science,94.0,2022-02-22,Present
+1341,Timothy,Computer Science,92.0,,Present
+1341,Andrea,,88.0,2022-09-15,Present
+1341,Angela,Computer Science,85.0,2023-12-17,Present
+1341,Eric,Computer Science,62.0,2021-06-29,
+1375,Tanner,Mathematics,94.0,,Absent
+1375,Cynthia,Mathematics,64.0,2024-09-21,Absent
+1375,Jason,Mathematics,96.0,,Absent
+1375,Christopher,Mathematics,71.0,2020-11-10,Absent
+1375,Sandra,Mathematics,96.0,2023-12-17,Absent
+1059,Michael,Biology,87.0,2021-02-27,
+1326,Kristen,Physics,98.0,2023-08-05,Absent
+1326,Denise,Physics,77.0,2020-03-25,Absent
+1326,Christian,Physics,60.0,2022-05-25,Absent
+1204,Katherine,Biology,64.0,2024-09-21,Absent
+1204,Christopher,Biology,68.0,2021-02-10,Absent
+1003,James,Physics,,2024-09-17,Present
+1371,John,Physics,80.0,2024-01-16,Absent
+1019,Ryan,Computer Science,,2023-11-05,
+1019,Amy,Computer Science,65.0,2022-08-13,Present
+1019,Kelly,Computer Science,84.0,2023-11-19,Present
+1019,Holly,Computer Science,77.0,,Present
+1190,Donald,Biology,79.0,2020-08-17,Absent
+1190,Melissa,Biology,92.0,2022-10-15,Absent
+1388,Tracy,Biology,,2023-02-07,
+1191,Nancy,Physics,96.0,2022-03-04,Absent
+1191,Jasmine,,83.0,2020-07-25,
+1191,Michael,Physics,82.0,2023-07-27,Absent
+1191,Becky,Physics,61.0,2021-05-31,Absent
+1421,William,Physics,,2022-02-22,
+1284,John,Physics,,2024-04-22,Present
+1284,Sarah,Physics,90.0,2022-05-21,
+1284,Kristen,Physics,77.0,2022-05-30,Present
+1284,Hannah,Physics,90.0,2023-02-24,
+1261,Mary,Physics,60.0,2024-12-24,Present
+1296,Roger,Mathematics,65.0,2020-11-08,Absent
+1296,Caroline,Mathematics,63.0,2023-04-24,Absent
+1316,Susan,Mathematics,68.0,2020-11-10,Present
+1316,Samantha,Mathematics,96.0,2020-07-05,Present
+1333,Kimberly,Biology,85.0,2020-10-21,Present
+1388,Juan,Mathematics,86.0,2023-02-07,Absent
+1438,Diana,Physics,92.0,2023-05-18,Absent
+1438,Cheryl,Physics,100.0,2023-02-04,Absent
+1438,Sarah,Physics,,2020-06-01,Absent
+1438,Heather,Physics,71.0,2024-12-15,Absent
+1401,Michelle,Computer Science,74.0,2021-09-14,Present
+1145,Elizabeth,Physics,69.0,2022-02-25,
+1145,Samantha,Physics,,2020-07-28,Present
+1145,Martin,Physics,65.0,2020-09-06,Present
+1145,Joshua,Physics,75.0,2022-01-16,Present
+1145,Paige,Physics,92.0,2021-12-17,Present
+1473,Amber,Mathematics,94.0,2021-04-16,Absent
+1073,Diana,Mathematics,98.0,,Present
+1073,David,Mathematics,75.0,2023-03-07,Present
+1420,Emily,Computer Science,89.0,2022-03-31,Absent
+1420,James,Computer Science,72.0,2024-09-29,Absent
+1200,Leonard,Biology,69.0,2022-04-28,Absent
+1200,Kimberly,Biology,61.0,,Absent
+1103,Shawn,Biology,100.0,2020-02-12,Absent
+1150,Elizabeth,Computer Science,70.0,2020-08-27,Absent
+1150,Christopher,Computer Science,64.0,2022-07-06,Absent
+1497,Antonio,Biology,71.0,2022-11-02,Present
+1497,Meredith,Biology,74.0,,Present
+1195,William,Computer Science,,2020-09-08,Present
+1195,Leroy,Computer Science,91.0,2021-07-03,Present
+1195,Sarah,Computer Science,75.0,2023-05-07,Present
+1195,Jennifer,,82.0,2023-09-06,Present
+1195,Jessica,Computer Science,73.0,2020-12-29,Present
+1090,Shawn,Biology,75.0,2023-10-15,Present
+1090,Stephanie,Biology,93.0,2021-04-20,Present
+1087,Meagan,Computer Science,81.0,2021-08-22,Absent
+1087,Cody,Computer Science,73.0,2020-12-14,Absent
+1241,Thomas,,87.0,,Absent
+1241,Carl,Computer Science,68.0,2023-07-19,
+1241,Christine,Computer Science,68.0,2024-10-17,
+1461,Dale,Computer Science,67.0,2020-09-23,
+1461,Arthur,Computer Science,63.0,2022-09-14,Absent
+1461,Melinda,Computer Science,62.0,2020-06-10,Absent
+1461,Eric,Computer Science,91.0,,Absent
+1461,Marissa,Computer Science,68.0,2024-07-29,Absent
+1370,Kelsey,Physics,71.0,,
+1370,Joshua,Physics,67.0,2024-05-31,Absent
+1370,Derek,Physics,97.0,2023-08-15,Absent
+1370,Marissa,Physics,76.0,2023-04-03,
+1370,Christopher,Physics,99.0,2023-06-29,
+1042,Scott,Biology,87.0,2022-03-25,Present
+1042,Tony,Biology,75.0,2024-07-25,
+1042,Wayne,Biology,68.0,2023-12-07,Present
+1042,Theresa,Biology,94.0,2020-06-01,
+1426,Deborah,Biology,86.0,2023-03-08,Present
+1138,Frank,Computer Science,72.0,2020-12-27,Present
+1138,Corey,Computer Science,70.0,2023-08-14,
+1227,Adam,Physics,73.0,2021-07-27,
+1416,Caroline,Computer Science,63.0,2021-09-15,Present
+1057,Allison,Mathematics,81.0,2024-10-20,Absent
+1057,Benjamin,Mathematics,86.0,,Absent
+1400,Thomas,Mathematics,67.0,2024-03-20,Absent
+1400,Peter,Mathematics,,2023-10-12,Absent
+1400,Madeline,Mathematics,73.0,2022-10-18,Absent
+1400,Tammy,,78.0,2021-07-15,Absent
+1400,Michael,Mathematics,84.0,2023-11-16,
+1322,Deanna,Biology,75.0,2024-02-06,Absent
+1322,Ann,Biology,,2023-10-07,Absent
+1428,Timothy,Computer Science,67.0,2020-03-27,Absent
+1428,Stephen,Computer Science,85.0,2021-02-14,Absent
+1428,Bryan,Computer Science,93.0,2023-04-02,Absent
+1428,Clinton,Computer Science,,2024-08-04,
+1117,Summer,Mathematics,85.0,2021-10-03,Present
+1117,Tina,Mathematics,97.0,,Present
+1297,David,Mathematics,100.0,2023-06-29,Absent
+1297,Joshua,Mathematics,63.0,2021-08-02,Absent
+1297,Debra,Mathematics,88.0,2020-12-07,Absent
+1394,Tonya,Physics,60.0,2021-02-14,Absent
+1394,Sarah,,,2023-11-18,
+1202,Hannah,Physics,79.0,2021-02-15,Present
+1187,Tara,Physics,87.0,2021-09-25,Present
+1187,Virginia,Physics,71.0,2023-07-21,Present
+1196,Dylan,Physics,90.0,2021-10-08,Present
+1196,Darrell,Physics,,2023-01-07,Present
+1196,Kristy,Physics,75.0,2020-12-05,Present
+1227,Teresa,Biology,73.0,2021-07-27,Absent
+1479,Austin,Physics,95.0,2023-09-08,Absent
+1479,Sean,Physics,66.0,2022-10-12,Absent
+1389,Robert,Computer Science,86.0,2023-01-30,
+1036,Douglas,Mathematics,63.0,,Absent
+1036,Lucas,Mathematics,87.0,2022-04-03,Absent
+1036,Louis,,66.0,2022-01-09,
+1036,Nathan,Mathematics,87.0,2021-11-03,Absent
+1259,Laura,Physics,60.0,2023-09-22,Present
+1035,Valerie,Computer Science,74.0,2024-11-05,
+1035,Richard,Computer Science,71.0,2020-01-01,Present
+1050,Wendy,Biology,98.0,2020-07-17,Present
+1042,Tammy,Physics,87.0,2022-03-25,Absent
+1042,Gary,Physics,75.0,2024-07-25,
+1042,Travis,Physics,68.0,2023-12-07,Absent
+1042,Michelle,Physics,94.0,2020-06-01,Absent
+1271,Brenda,Physics,93.0,2020-05-22,Present
+1271,Brandon,Physics,73.0,2020-07-10,
+1002,Taylor,Physics,82.0,2024-07-04,Present
+1002,Michael,Physics,67.0,2024-06-25,Present
+1002,Gordon,Physics,67.0,,
+1002,Brian,Physics,74.0,2023-11-30,Present
+1002,Lisa,Physics,,2021-09-28,Present
+1002,Tina,,98.0,2022-02-09,
+1356,Stephanie,Physics,97.0,2021-11-29,
+1356,Dana,Physics,65.0,2022-11-21,
+1132,Jennifer,Computer Science,67.0,2023-02-07,Absent
+1132,Matthew,Computer Science,,,Absent
+1147,Robert,Computer Science,82.0,2024-02-03,Absent
+1147,Cindy,Computer Science,78.0,2024-11-03,Absent
+1414,John,Physics,96.0,2024-07-08,Present
+1414,Anthony,,69.0,2023-11-21,Present
+1414,Briana,Physics,86.0,2023-03-27,Present
+1101,Michelle,Biology,,2023-08-21,Present
+1101,Zachary,Biology,84.0,2024-06-09,Present
+1101,Taylor,Biology,,2024-11-16,Present
+1101,Ryan,Biology,,2023-05-14,
+1297,Jennifer,Mathematics,100.0,,Present
+1297,David,Mathematics,63.0,2021-08-02,Present
+1297,Dana,Mathematics,88.0,2020-12-07,Present
+1408,Arthur,Computer Science,,2022-12-26,Present
+1408,Susan,Computer Science,83.0,2020-11-26,Present
+1448,Shannon,Physics,65.0,2023-07-29,Absent
+1448,Chad,Physics,71.0,2022-11-15,Absent
+1448,Michelle,Physics,82.0,2021-01-23,
+1485,Ernest,Biology,,2024-02-11,Absent
+1485,Michael,Biology,92.0,2022-09-10,Absent
+1395,Adrian,Biology,64.0,2023-10-16,Absent
+1395,Wayne,Biology,84.0,2024-01-13,Absent
+1456,Nancy,Computer Science,76.0,2023-01-03,Absent
+1456,Patrick,,89.0,2022-07-10,Absent
+1456,Erika,Computer Science,87.0,,Absent
+1031,Melissa,Biology,71.0,2020-10-05,Present
+1031,Jonathan,Biology,66.0,2024-05-18,Present
+1386,Larry,Physics,76.0,2023-04-03,Present
+1107,Aaron,Computer Science,89.0,2023-05-05,Present
+1107,Tammy,Computer Science,69.0,,Present
+1107,Emily,Computer Science,89.0,2024-03-17,Present
+1107,Jacob,Computer Science,97.0,2022-09-09,
+1400,Walter,Physics,67.0,,
+1400,Amanda,Physics,93.0,,Present
+1400,Jillian,Physics,73.0,2022-10-18,Present
+1400,Gordon,Physics,78.0,,Present
+1400,Mark,,84.0,2023-11-16,Present
+1211,Thomas,Computer Science,83.0,2022-05-31,Absent
+1086,,Mathematics,,2021-08-31,
+1248,Emily,Computer Science,60.0,2020-06-09,Present
+1248,,Computer Science,92.0,2021-06-13,
+1248,Kenneth,Computer Science,91.0,,
+1224,Richard,Computer Science,64.0,2021-07-23,Absent
+1224,Adam,Computer Science,,2024-08-28,Absent
+1224,Frank,,80.0,,Absent
+1224,Donald,Computer Science,80.0,2022-12-17,Absent
+1314,Michelle,Mathematics,78.0,2022-05-09,
+1314,Austin,Mathematics,78.0,2023-02-02,Absent
+1273,Martin,Biology,82.0,2023-06-15,
+1273,David,Biology,76.0,2021-12-18,Present
+1273,Brian,Biology,75.0,2020-07-27,Present
+1086,Marcus,Biology,64.0,2021-08-31,Absent
+1109,Catherine,Computer Science,,2024-09-16,
+1109,Roberto,Computer Science,81.0,2023-05-12,Absent
+1047,Brian,Computer Science,67.0,,Present
+1047,Gerald,Computer Science,74.0,2024-07-12,Present
+1070,Amy,Physics,61.0,2021-11-16,Absent
+1070,Krystal,Physics,,2023-06-11,Absent
+1070,William,Physics,65.0,2023-12-11,Absent
+1070,Karl,Physics,85.0,,
+1070,Gregory,Physics,85.0,,Absent
+1139,Kathryn,Biology,,2023-06-27,Present
+1139,Kevin,Biology,61.0,2021-11-28,Present
+1360,Andrew,Biology,84.0,2020-07-20,Absent
+1007,Ana,Biology,95.0,2024-02-29,Present
+1260,Denise,Biology,88.0,2021-02-20,Absent
+1260,Robert,Biology,85.0,2021-05-05,Absent
+1260,Monica,Biology,100.0,2020-09-07,Absent
+1394,Larry,Physics,60.0,2021-02-14,Absent
+1394,Valerie,,81.0,2023-11-18,Absent
+1160,Connie,Physics,73.0,2020-05-21,Absent
+1160,Joel,Physics,72.0,2024-01-24,Absent
+1106,Ronald,Computer Science,69.0,2024-08-02,Present
+1416,Steven,Biology,63.0,2021-09-15,Absent
+1103,Jocelyn,Biology,,2020-02-12,Present
+1301,Julie,Physics,,2022-11-09,Absent
+1301,Travis,Physics,64.0,2022-03-21,
+1275,Kristen,,,,Present
+1275,Anthony,Physics,69.0,2023-02-24,Present
+1275,Logan,Physics,66.0,2024-10-01,Present
+1275,Kenneth,Physics,89.0,,Present
+1080,Joshua,Biology,,,
+1080,Dennis,Biology,73.0,2024-04-28,Absent
+1012,Corey,Biology,92.0,2021-04-15,
+1012,Vanessa,Biology,95.0,2022-04-17,Absent
+1388,Jason,Physics,86.0,,
+1472,Beth,Biology,87.0,2021-08-01,
+1176,Jonathan,Biology,70.0,2024-03-25,Absent
+1176,Susan,Biology,,2024-01-23,Absent
+1139,Selena,Mathematics,66.0,2023-06-27,Present
+1139,Mark,Mathematics,61.0,2021-11-28,Present
+1066,Jay,Biology,64.0,2022-10-03,Absent
+1070,Gene,Biology,61.0,2021-11-16,
+1070,Eric,,93.0,2023-06-11,
+1070,Ashlee,Biology,65.0,2023-12-11,Absent
+1070,Maria,,85.0,2022-01-06,
+1070,Melissa,Biology,85.0,2020-03-16,
+1393,Courtney,Mathematics,,2024-01-29,Present
+1393,Michael,Mathematics,78.0,2024-08-25,
+1406,Antonio,Computer Science,68.0,2023-02-09,Present
+1406,Glenn,Computer Science,74.0,2023-03-23,Present
+1401,Lawrence,Physics,74.0,2021-09-14,Present
+1416,Morgan,Biology,63.0,2021-09-15,
+1221,Anthony,Computer Science,96.0,2021-11-20,
+1134,Amy,Physics,68.0,,Absent
+1134,Rachel,Physics,85.0,2022-04-14,Absent
+1134,Brent,,67.0,2020-08-23,Absent
+1134,Lauren,Physics,91.0,2023-03-20,Absent
+1134,Paul,Physics,67.0,2023-05-05,Absent
+1134,Mark,Physics,78.0,2023-12-10,
+1278,Margaret,Computer Science,73.0,2020-01-15,Absent
+1003,Donna,Physics,94.0,2024-09-17,Present
+1428,Natasha,Computer Science,67.0,2020-03-27,Absent
+1428,Mary,Computer Science,85.0,2021-02-14,Absent
+1428,Steve,Computer Science,93.0,2023-04-02,Absent
+1428,Tiffany,Computer Science,79.0,2024-08-04,Absent
+1272,Mary,Biology,,2022-01-19,
+1272,Katherine,,,,Present
+1272,Darrell,Biology,86.0,2024-06-28,Present
+1355,Jeffrey,Biology,65.0,2020-08-30,Present
+1086,Andrea,Biology,64.0,,Present
+1056,Angelica,Biology,81.0,2024-10-22,Absent
+1056,Lisa,Biology,70.0,,
+1056,Kevin,Biology,84.0,2020-02-10,Absent
+1056,Mark,Biology,86.0,2024-11-04,Absent
+1056,Michael,Biology,60.0,2020-06-25,Absent
+1056,Zachary,Biology,,2021-01-28,Absent
+1056,Gregory,Biology,98.0,2020-03-06,Absent
+1323,Ruben,Computer Science,82.0,2021-10-15,Absent
+1025,Jennifer,Computer Science,95.0,2021-12-13,
+1025,Tonya,Computer Science,,2020-03-06,Absent
+1414,Erica,Mathematics,96.0,2024-07-08,Absent
+1414,Spencer,Mathematics,69.0,2023-11-21,
+1414,Paul,Mathematics,,2023-03-27,Absent
+1431,Katherine,Computer Science,,2023-09-21,Absent
+1431,Joshua,Computer Science,,2020-04-30,Absent
+1431,Jamie,Computer Science,63.0,2021-11-13,Absent
+1431,Victor,Computer Science,82.0,2020-08-10,Absent
+1431,Michele,Computer Science,87.0,,
+1246,Stacey,Mathematics,66.0,,Absent
+1246,April,Mathematics,,2020-02-23,Absent
+1246,Kimberly,Mathematics,71.0,2024-01-11,Absent
+1246,Mary,Mathematics,,2022-06-02,Absent
+1260,Emily,Mathematics,88.0,2021-02-20,Absent
+1260,Angela,Mathematics,85.0,2021-05-05,Absent
+1260,Diana,Mathematics,100.0,,
+1208,Jenny,Biology,62.0,2020-03-01,Present
+1497,Thomas,Computer Science,71.0,2022-11-02,Present
+1497,Robert,Computer Science,74.0,2020-07-17,Present
+1275,Denise,Computer Science,80.0,2020-11-06,Present
+1275,Mary,Computer Science,69.0,2023-02-24,Present
+1275,Ryan,Computer Science,66.0,2024-10-01,
+1275,Shannon,Computer Science,89.0,2022-05-23,Present
+1416,Lori,Biology,,2021-09-15,Present
+1248,Lori,Mathematics,,2020-06-09,Absent
+1248,David,Mathematics,92.0,,Absent
+1248,Heather,Mathematics,91.0,2021-01-02,Absent
+1433,Julie,Biology,62.0,2024-08-25,Absent
+1270,Amanda,Biology,,2020-08-05,Absent
+1327,Katie,Physics,74.0,2022-09-05,Present
+1327,Jacob,Physics,60.0,2022-09-19,Present
+1327,Jessica,Physics,81.0,2024-09-11,
+1044,Ricky,Biology,69.0,2024-10-21,Absent
+1044,Amanda,Biology,88.0,2024-09-02,
+1044,Kenneth,,84.0,2024-08-25,
+1044,Terri,Biology,81.0,2022-04-10,Absent
+1151,Amy,Mathematics,88.0,2020-10-19,Present
+1151,Lynn,Mathematics,79.0,2024-02-10,
+1431,Anthony,Physics,96.0,2023-09-21,Absent
+1431,Michael,,68.0,,Absent
+1431,Travis,Physics,63.0,2021-11-13,Absent
+1431,Lisa,Physics,82.0,2020-08-10,Absent
+1431,Robin,Physics,87.0,2020-01-06,Absent
+1436,Eric,Mathematics,64.0,2024-02-20,Present
+1436,Chelsea,Mathematics,75.0,2023-09-30,Present
+1309,Amanda,Physics,91.0,2024-08-08,
+1426,Briana,Physics,86.0,2023-03-08,Absent
+1329,Maria,Computer Science,89.0,2020-09-29,Present
+1329,Alison,Computer Science,65.0,2024-01-14,Present
+1483,David,Mathematics,73.0,2024-12-10,Present
+1191,Kyle,Physics,96.0,2022-03-04,Present
+1191,Rebecca,Physics,,2020-07-25,Present
+1191,Alexandra,Physics,82.0,2023-07-27,
+1191,Kathryn,Physics,61.0,2021-05-31,Present
+1462,Joshua,Computer Science,,2022-07-11,Absent
+1462,Sean,Computer Science,76.0,2021-11-23,Absent
+1356,Angel,Computer Science,97.0,2021-11-29,
+1356,Lori,,65.0,2022-11-21,Absent
+1125,Beverly,Mathematics,97.0,,Present
+1125,Cynthia,Mathematics,98.0,2021-09-13,Present
+1125,Crystal,Mathematics,90.0,2023-10-31,Present
+1285,Anita,Mathematics,69.0,2023-02-02,Absent
+1195,Briana,Biology,60.0,2020-09-08,Absent
+1195,Lindsay,Biology,,2021-07-03,Absent
+1195,Morgan,Biology,75.0,2023-05-07,Absent
+1195,Thomas,Biology,82.0,2023-09-06,Absent
+1195,Connie,Biology,73.0,2020-12-29,Absent
+1075,Martha,Biology,73.0,2021-10-22,Present
+1075,Shane,Biology,,2024-07-03,Present
+1396,Luis,Computer Science,73.0,2020-02-17,Present
+1050,Marc,Physics,98.0,2020-07-17,Present
+1267,Scott,Biology,98.0,2020-07-29,
+1267,Veronica,Biology,80.0,2022-12-06,Present
+1220,Aaron,Mathematics,63.0,2022-01-20,Present
+1220,Matthew,Mathematics,97.0,2021-09-08,
+1042,,Biology,87.0,,Present
+1042,Stephanie,Biology,75.0,2024-07-25,Present
+1042,Eric,Biology,68.0,2023-12-07,Present
+1042,Joshua,Biology,94.0,2020-06-01,Present
+1373,Dennis,Computer Science,80.0,2024-09-25,Present
+1188,Laura,Physics,91.0,2020-12-18,Present
+1188,Joseph,Physics,79.0,2020-04-09,Present
+1188,Ryan,Physics,99.0,,Present
+1188,Richard,Physics,,2024-01-27,Present
+1376,Frank,Computer Science,,2024-05-02,Absent
+1376,Debra,Computer Science,84.0,2024-04-07,Absent
+1376,Cheryl,Computer Science,64.0,2022-02-26,
+1376,Kelly,Computer Science,,2023-03-08,
+1477,Jeremy,Mathematics,68.0,2023-06-23,Absent
+1178,Patricia,Biology,82.0,2021-04-24,Present
+1160,Jean,Physics,73.0,2020-05-21,Absent
+1160,William,,72.0,2024-01-24,Absent
+1231,Reginald,Computer Science,,2022-09-07,
+1267,Kristin,,98.0,2020-07-29,
+1267,Daniel,Biology,80.0,2022-12-06,Absent
+1325,Jason,Physics,84.0,2022-11-06,Absent
+1325,Amy,Physics,100.0,,Absent
+1332,Maria,Computer Science,85.0,2020-12-06,Absent
+1332,Dustin,Computer Science,,2023-07-31,
+1441,Tamara,Physics,72.0,2024-04-16,Absent
+1073,Jason,Mathematics,98.0,2021-01-31,Present
+1073,Deanna,Mathematics,75.0,2023-03-07,Present
+1181,Erica,Mathematics,66.0,2022-12-27,Present
+1261,Stacey,Mathematics,60.0,2024-12-24,Present
+1369,Charles,Computer Science,,2020-11-16,Present
+1369,Diane,Computer Science,89.0,,Present
+1095,Eric,Biology,92.0,2021-09-01,Present
+1095,Cody,Biology,76.0,2022-04-29,Present
+1038,Kathy,Computer Science,95.0,,
+1038,Kathy,Computer Science,,2024-01-01,
+1038,James,Computer Science,91.0,2021-11-19,Absent
+1038,Shannon,Computer Science,69.0,2022-10-18,Absent
+1128,Michael,Biology,98.0,2024-01-04,Absent
+1128,Justin,,75.0,2021-09-29,Absent
+1030,Jason,Computer Science,82.0,2023-11-04,Absent
+1030,Keith,Computer Science,,2020-02-06,Absent
+1030,Michelle,Computer Science,,2020-02-05,Absent
+1124,Christopher,Mathematics,86.0,2020-02-26,Absent
+1124,Susan,Mathematics,66.0,2022-04-02,Absent
+1234,Brittany,Computer Science,66.0,2023-08-03,Absent
+1201,Jessica,Physics,74.0,2022-12-05,Present
+1201,Barbara,Physics,,2024-12-10,Present
+1201,Edward,Physics,76.0,2021-08-13,Present
+1323,Brent,Computer Science,82.0,2021-10-15,Absent
+1094,Teresa,Physics,68.0,2024-01-14,
+1094,Amber,Physics,78.0,2024-01-16,
+1094,Paula,Physics,67.0,2022-05-27,Absent
+1094,Linda,Physics,82.0,,Absent
+1094,Theresa,Physics,83.0,2023-12-12,Absent
+1375,Samantha,Computer Science,94.0,2020-05-21,Present
+1375,Shannon,Computer Science,64.0,2024-09-21,Present
+1375,Mark,Computer Science,96.0,2022-06-23,
+1375,Michael,Computer Science,71.0,2020-11-10,Present
+1375,Dawn,Computer Science,96.0,2023-12-17,Present
+1331,Robert,Computer Science,80.0,2024-06-16,Absent
+1331,Kaylee,Computer Science,83.0,2022-04-09,Absent
+1331,Daniel,Computer Science,81.0,2020-03-26,
+1412,Mathew,Computer Science,89.0,2021-11-04,Present
+1412,Ryan,Computer Science,74.0,2021-08-28,Present
+1412,Rhonda,Computer Science,88.0,2020-03-23,
+1412,Gary,Computer Science,68.0,2023-11-29,Present
+1377,Lori,Mathematics,,2020-12-29,
+1377,Kevin,Mathematics,91.0,2023-07-08,Absent
+1377,Erin,Mathematics,80.0,2024-08-13,Absent
+1377,Joy,Mathematics,92.0,2024-08-01,Absent
+1129,Cody,Computer Science,64.0,2020-05-03,Absent
+1129,Meghan,Computer Science,94.0,,Absent
+1129,Paul,Computer Science,65.0,2023-09-20,Absent
+1129,Jennifer,Computer Science,,2022-07-13,Absent
+1100,Vanessa,Physics,,2022-01-16,Present
+1100,Alec,Physics,,2020-01-31,
+1020,Victoria,Biology,86.0,2024-01-28,Present
+1020,Kimberly,Biology,72.0,,Present
+1473,Wendy,Biology,94.0,2021-04-16,Present
+1148,Jennifer,Physics,74.0,2022-04-12,Absent
+1148,Lisa,Physics,79.0,2020-04-10,Absent
+1148,,Physics,62.0,2024-09-14,
+1148,Scott,Physics,77.0,2021-08-17,
+1169,Mary,Physics,90.0,2024-08-27,Present
+1169,Donald,Physics,79.0,2023-11-02,Present
+1274,Angelica,Physics,73.0,2020-10-17,Absent
+1274,Noah,Physics,69.0,2020-09-04,
+1122,Gary,Physics,61.0,2023-09-25,Absent
+1373,Thomas,Physics,,,Present
+1021,Tammy,Biology,65.0,2021-07-16,
+1021,Laura,Biology,72.0,2024-12-22,Absent
+1021,John,,85.0,2020-05-17,
+1021,Karen,Biology,72.0,2024-07-09,
+1021,Erin,Biology,84.0,,Absent
+1021,Jill,Biology,99.0,2020-02-12,Absent
+1499,John,Physics,77.0,,Absent
+1499,Derek,,70.0,2021-01-18,Absent
+1320,Jennifer,Computer Science,,2021-02-27,Absent
+1008,Eugene,Biology,,2021-07-20,Present
+1008,Sean,Biology,67.0,2023-01-26,Present
+1008,Bobby,Biology,,2024-06-27,Present
+1308,Deborah,Mathematics,100.0,,Absent
+1308,Carl,Mathematics,64.0,2022-09-09,Absent
+1064,Nicole,Mathematics,93.0,,Absent
+1064,Catherine,Mathematics,,2020-02-27,Absent
+1033,Nicole,Biology,64.0,2023-11-06,Present
+1086,Joseph,Physics,64.0,2021-08-31,Present
+1235,Michael,Biology,61.0,2023-06-21,Present
+1257,James,Physics,,2020-09-07,Absent
+1257,Cody,Physics,71.0,2022-07-19,
+1257,Tammy,Physics,90.0,2021-01-14,Absent
+1257,Joshua,Physics,61.0,2023-01-01,Absent
+1174,Jon,Computer Science,99.0,2023-08-04,Absent
+1174,Michael,Computer Science,,,Absent
+1174,Hayley,Computer Science,,,Absent
+1174,Bruce,Computer Science,64.0,2024-08-26,Absent
+1026,Christopher,Computer Science,90.0,2020-06-03,Present
+1178,Christopher,Physics,82.0,2021-04-24,
+1389,Angela,Computer Science,86.0,2023-01-30,Present
+1153,Isaiah,Biology,79.0,2023-06-06,Absent
+1153,Adam,Biology,93.0,2020-06-18,
+1153,Robin,Biology,85.0,2021-02-17,Absent
+1153,Tristan,Biology,90.0,,
+1405,Susan,Biology,92.0,2023-12-23,Absent
+1405,Matthew,,75.0,2024-04-03,
+1420,Todd,Biology,,2022-03-31,Absent
+1420,Nicole,Biology,,2024-09-29,
+1478,Michael,Physics,,2020-03-17,Present
+1478,Benjamin,Physics,99.0,2020-07-15,Present
+1478,Jacqueline,Physics,80.0,2021-10-05,
+1200,Nicole,Mathematics,69.0,2022-04-28,Absent
+1200,Christopher,Mathematics,61.0,2020-01-19,
+1258,Christopher,Biology,69.0,2024-06-03,Present
+1258,Debra,Biology,75.0,2022-03-18,Present
+1258,Donna,Biology,62.0,2024-01-20,Present
+1258,Nicholas,Biology,,2022-07-05,
+1092,Rachel,Computer Science,69.0,,
+1092,Morgan,Computer Science,72.0,2023-06-29,Present
+1092,,Computer Science,,2023-09-17,Present
+1453,Anna,Mathematics,,2021-04-22,
+1428,Brenda,Physics,,2020-03-27,Present
+1428,Deanna,Physics,85.0,2021-02-14,Present
+1428,William,Physics,93.0,2023-04-02,
+1428,Susan,Physics,79.0,2024-08-04,Present
+1468,Joseph,Biology,98.0,2020-11-29,Present
+1468,Steven,Biology,79.0,2022-08-15,Present
+1468,Cynthia,Biology,79.0,2023-04-27,Present
+1453,Robert,Physics,92.0,2021-04-22,
+1311,Denise,Physics,98.0,2022-05-04,Absent
+1015,,Computer Science,,2020-01-17,Absent
+1015,Jason,Computer Science,86.0,2021-05-27,Absent
+1015,Ivan,Computer Science,92.0,2022-10-08,Absent
+1015,Virginia,Computer Science,62.0,2020-05-24,Absent
+1015,Bryan,Computer Science,61.0,2024-11-11,Absent
+1057,Todd,Computer Science,81.0,2024-10-20,Absent
+1057,Anthony,Computer Science,86.0,,Absent
+1206,Raymond,,75.0,2023-03-15,
+1206,Mary,Computer Science,,2021-05-31,Present
+1206,Cynthia,Computer Science,65.0,2023-08-11,Present
+1206,Olivia,Computer Science,,2023-09-28,Present
+1206,Jonathan,Computer Science,,2021-03-14,Present
+1181,Michael,Computer Science,66.0,2022-12-27,Present
+1339,James,Physics,86.0,2021-02-16,Present
+1339,Sandra,Physics,66.0,,Present
+1314,Donald,Computer Science,78.0,2022-05-09,
+1314,Brian,Computer Science,78.0,2023-02-02,Absent
+1151,Karen,Computer Science,88.0,2020-10-19,Absent
+1151,Jamie,Computer Science,79.0,2024-02-10,Absent
+1212,Jennifer,Physics,75.0,,Present
+1212,Sherri,Physics,87.0,2024-12-02,Present
+1219,Denise,,79.0,,Present
+1219,Allen,Biology,66.0,2022-08-30,
+1127,Emily,Mathematics,,2023-04-19,Absent
+1127,Timothy,,81.0,2022-06-02,Absent
+1401,Amanda,,74.0,2021-09-14,Absent
+1448,Karen,Physics,65.0,2023-07-29,Present
+1448,Maria,Physics,71.0,2022-11-15,Present
+1448,Shannon,Physics,82.0,,Present
+1156,Jennifer,Computer Science,94.0,2024-09-13,Absent
+1156,Vicki,Computer Science,63.0,2020-02-18,Absent
+1389,Kenneth,Biology,86.0,2023-01-30,Present
+1189,Jeffrey,Mathematics,80.0,2021-03-24,Present
+1189,Beth,Mathematics,74.0,,Present
+1387,Amber,Computer Science,,2022-10-15,
+1387,Scott,Computer Science,,2021-06-04,Absent
+1387,Lori,Computer Science,92.0,,
+1387,Melinda,Computer Science,74.0,2023-05-14,Absent
+1267,Andre,Biology,98.0,2020-07-29,
+1267,Taylor,Biology,80.0,2022-12-06,Absent
+1469,Laurie,Biology,65.0,2024-09-30,
+1469,Randy,Biology,81.0,2024-06-18,Absent
+1401,Kathleen,Biology,74.0,2021-09-14,Present
+1229,Brittany,Biology,,,
+1180,Joseph,Computer Science,,2023-05-22,Absent
+1140,Kristina,Computer Science,87.0,2022-12-14,
+1140,Trevor,Computer Science,90.0,2023-09-23,Present
+1140,Christina,Computer Science,90.0,2020-04-15,Present
+1140,Micheal,Computer Science,90.0,,Present
+1140,Shane,Computer Science,86.0,2021-11-25,Present
+1313,Mark,Mathematics,,2020-01-04,Present
+1444,Donna,Biology,66.0,2024-01-06,
+1444,Paula,Biology,92.0,2024-02-20,Present
+1444,Douglas,Biology,64.0,2020-12-31,Present
+1234,Brittany,Biology,66.0,2023-08-03,Present
+1088,Steven,Computer Science,93.0,2022-04-15,Absent
+1088,Daniel,Computer Science,70.0,2020-08-18,
+1300,Tracy,Biology,96.0,2021-10-01,
+1078,Edward,Biology,91.0,2024-04-26,
+1065,Lauren,Physics,92.0,2023-02-13,Present
+1065,Summer,,78.0,,Present
+1065,Alyssa,Physics,92.0,,Present
+1373,Aaron,Physics,,2024-09-25,Present
+1286,Corey,Computer Science,100.0,,Present
+1286,Jennifer,Computer Science,,2022-05-19,Present
+1286,Erika,Computer Science,69.0,2022-01-26,Present
+1286,Wendy,Computer Science,76.0,2024-02-24,Present
+1286,Brittany,Computer Science,72.0,2022-08-25,Present
+1415,David,Computer Science,97.0,,Present
+1489,Kenneth,Computer Science,,2024-08-12,Present
+1489,Alexander,Computer Science,65.0,2021-01-02,Present
+1331,Peter,Biology,80.0,2024-06-16,Present
+1331,Krista,Biology,83.0,2022-04-09,Present
+1331,Tonya,Biology,81.0,2020-03-26,Present
+1049,Danielle,Biology,,2024-06-14,Absent
+1049,Michael,Biology,60.0,,Absent
+1049,Nicholas,Biology,99.0,,Absent
+1049,Danielle,Biology,,2023-08-12,Absent
+1049,Ian,Biology,88.0,2022-02-13,Absent
+1049,Brian,Biology,66.0,2024-03-01,Absent
+1139,Alan,Mathematics,66.0,2023-06-27,Present
+1139,Brad,Mathematics,61.0,2021-11-28,Present
+1315,Robert,Computer Science,70.0,2021-05-31,
+1315,Timothy,Computer Science,,2024-01-19,
+1315,Christopher,Computer Science,63.0,2021-08-19,Absent
+1189,Christina,Computer Science,80.0,2021-03-24,Present
+1189,George,Computer Science,74.0,2024-09-21,Present
+1395,Michael,Mathematics,64.0,2023-10-16,Present
+1395,Jose,Mathematics,84.0,2024-01-13,
+1191,Amy,Physics,96.0,2022-03-04,Present
+1191,Joann,Physics,83.0,,Present
+1191,Kelly,Physics,82.0,2023-07-27,Present
+1191,Kenneth,Physics,61.0,2021-05-31,Present
+1065,Samantha,Computer Science,92.0,2023-02-13,Absent
+1065,Megan,Computer Science,78.0,2023-10-12,
+1065,Matthew,Computer Science,92.0,,Absent
+1300,Angela,Biology,96.0,2021-10-01,Absent
+1036,Dennis,Computer Science,63.0,2022-11-07,Absent
+1036,Gregory,Computer Science,87.0,2022-04-03,Absent
+1036,David,Computer Science,66.0,2022-01-09,
+1036,Gary,Computer Science,87.0,2021-11-03,Absent
+1146,Shelby,Computer Science,61.0,2024-05-12,Absent
+1146,Charles,Computer Science,69.0,2022-01-18,Absent
+1146,Debra,Computer Science,73.0,2020-09-14,Absent
+1042,Jermaine,Computer Science,87.0,2022-03-25,Present
+1042,Amanda,Computer Science,75.0,2024-07-25,
+1042,Elizabeth,Computer Science,68.0,2023-12-07,Present
+1042,Andrea,Computer Science,94.0,2020-06-01,Present
+1226,Colleen,Computer Science,83.0,2021-02-22,Absent
+1163,James,Physics,60.0,2023-09-20,Absent
+1163,Mark,Physics,,2023-03-18,Absent
+1138,Cory,Physics,72.0,2020-12-27,Absent
+1138,Jeanette,Physics,70.0,2023-08-14,
+1465,Cody,Computer Science,,2022-05-31,Absent
+1465,Leslie,Computer Science,77.0,2020-01-17,Absent
+1465,Kelli,Computer Science,77.0,2024-06-05,Absent
+1489,Christopher,Physics,76.0,2024-08-12,Present
+1489,Ryan,Physics,65.0,2021-01-02,
+1397,Stephen,Mathematics,99.0,2023-09-08,Present
+1397,Christine,Mathematics,83.0,2021-11-21,Present
+1163,Christopher,Biology,60.0,2023-09-20,Absent
+1163,Margaret,Biology,87.0,2023-03-18,Absent
+1260,Amy,,88.0,2021-02-20,Absent
+1260,Marvin,Physics,85.0,2021-05-05,Absent
+1260,Travis,Physics,100.0,2020-09-07,Absent
+1371,David,Mathematics,80.0,2024-01-16,Present
+1153,Kari,Computer Science,79.0,2023-06-06,Absent
+1153,Steven,Computer Science,93.0,,Absent
+1153,Madison,Computer Science,85.0,,Absent
+1153,Johnny,Computer Science,90.0,2024-03-01,Absent
+1040,Raymond,Biology,60.0,2023-02-10,
+1040,Alex,,61.0,2024-06-06,Present
+1448,Sarah,Physics,65.0,2023-07-29,Present
+1448,Olivia,Physics,71.0,2022-11-15,Present
+1448,Amanda,Physics,82.0,2021-01-23,Present
+1472,Karen,Mathematics,87.0,2021-08-01,Absent
+1124,Thomas,Biology,86.0,2020-02-26,Present
+1124,Barbara,Biology,66.0,,Present
+1273,Paul,Computer Science,82.0,2023-06-15,Present
+1273,Erica,Computer Science,76.0,2021-12-18,Present
+1273,Stephanie,Computer Science,,2020-07-27,Present
+1161,Julie,Mathematics,,2022-02-09,Absent
+1161,Louis,Mathematics,84.0,,Absent
+1141,Dawn,Computer Science,,2020-08-27,Present
+1141,Cheryl,Computer Science,,2020-06-15,Present
+1141,Jerry,Computer Science,,2023-12-02,Present
+1112,Lisa,Computer Science,92.0,2020-10-19,Present
+1112,Luis,Computer Science,61.0,2023-07-02,
+1371,Donna,Physics,80.0,2024-01-16,Absent
+1403,Kevin,Computer Science,61.0,2021-11-23,Absent
+1403,Raymond,Computer Science,75.0,2023-06-14,Absent
+1403,Alexander,Computer Science,63.0,2022-06-01,Absent
+1403,Dakota,Computer Science,87.0,2021-07-16,
+1403,Lori,Computer Science,82.0,2021-10-15,Absent
+1082,David,,85.0,2022-08-31,
+1309,Jonathan,Biology,,,Absent
+1495,Erica,Mathematics,72.0,2020-09-03,Present
+1495,Kevin,Mathematics,79.0,2020-02-27,Present
+1440,David,Physics,,2021-05-25,Present
+1440,Andrew,Physics,77.0,2022-09-16,Present
+1440,Joyce,Physics,86.0,2023-08-06,
+1080,Jennifer,Biology,80.0,2021-06-17,Present
+1080,Mary,Biology,73.0,2024-04-28,Present
+1142,Beth,Physics,66.0,2020-03-02,Absent
+1142,David,Physics,76.0,2022-09-14,Absent
+1142,Brett,Physics,,2023-04-08,Absent
+1142,Calvin,,79.0,2024-09-05,
+1396,Tom,Computer Science,73.0,2020-02-17,Present
+1399,Daniel,Computer Science,85.0,2023-02-22,Present
+1399,Catherine,Computer Science,88.0,,Present
+1399,James,Computer Science,94.0,2024-11-23,
+1279,Brandon,Physics,,2024-08-15,Absent
+1279,Lindsey,Physics,92.0,2024-12-18,Absent
+1279,Kelly,Physics,,2021-12-22,Absent
+1173,Jennifer,Biology,89.0,2024-10-02,Absent
+1121,Jamie,Physics,,2023-04-03,Absent
+1121,Katherine,Physics,83.0,2021-09-26,
+1121,Michael,Physics,80.0,2022-09-30,Absent
+1121,Allison,Physics,72.0,2023-10-10,Absent
+1355,Thomas,Physics,65.0,2020-08-30,Present
+1200,Amy,Physics,69.0,2022-04-28,Absent
+1153,Isaiah,Biology,79.0,2023-06-06,Absent
+1312,Aaron,Physics,79.0,2021-05-11,Present
+1414,Spencer,Mathematics,69.0,2023-11-21,
+1331,Robert,Computer Science,80.0,2024-06-16,Absent
+1395,Jose,Mathematics,84.0,2024-01-13,
+1146,Lori,Physics,69.0,2022-01-18,
+1400,Donald,Physics,,2023-11-16,Absent
+1387,Scott,Computer Science,,2021-06-04,Absent
+1284,David,Computer Science,90.0,2023-02-24,
+1472,Heather,Computer Science,87.0,2021-08-01,
+1224,Angela,Mathematics,80.0,2021-04-11,
+1151,Dean,Biology,,2024-02-10,Present
+1420,Emily,Computer Science,89.0,2022-03-31,Absent
+1139,Antonio,Computer Science,61.0,2021-11-28,
+1428,Steve,Computer Science,93.0,2023-04-02,Absent
+1216,Yesenia,Physics,92.0,2020-12-27,Present
+1414,John,Physics,96.0,2024-07-08,Present
+1165,Timothy,Physics,84.0,,Absent
+1437,James,Physics,,,Present
+1469,Tiffany,Computer Science,65.0,2024-09-30,Present
+1444,Sharon,Biology,66.0,2024-01-06,Present
+1483,Jose,Biology,73.0,2024-12-10,Present
+1245,Kyle,Biology,,2023-07-01,Present
+1297,Rebecca,,88.0,2020-12-07,
+1125,Beverly,Mathematics,97.0,,Present
+1088,Steven,Computer Science,93.0,2022-04-15,Absent
+1055,Cory,Computer Science,71.0,2023-05-18,Absent
+1241,Thomas,,87.0,,Absent
+1031,Melissa,Biology,71.0,2020-10-05,Present
+1219,Thomas,Computer Science,66.0,,Present
+1203,Jennifer,Mathematics,69.0,2023-03-26,Absent
+1444,Kayla,Biology,92.0,2024-02-20,Absent
+1229,Jason,,68.0,2024-08-18,
+1142,David,Physics,76.0,2022-09-14,Absent
+1219,Heather,Physics,79.0,2024-10-15,Absent
+1313,James,Mathematics,64.0,,Present
+1232,Antonio,Computer Science,69.0,2024-09-06,
+1021,Alyssa,Computer Science,99.0,2020-02-12,Present
+1037,Stephen,Computer Science,70.0,2021-04-13,Absent
+1244,Mark,Biology,96.0,2020-05-19,
+1448,Olivia,Physics,71.0,2022-11-15,Present
+1371,David,Mathematics,80.0,2024-01-16,Present
+1125,Crystal,Mathematics,90.0,2023-10-31,Present
+1056,Michael,Biology,60.0,2020-06-25,Absent
+1339,Elizabeth,Physics,66.0,,Absent
+1029,Stephen,Physics,71.0,,Absent
+1200,Matthew,Biology,61.0,2020-01-19,
+1007,Michael,Physics,95.0,,Absent
+1369,Tonya,Computer Science,89.0,2020-10-30,Present

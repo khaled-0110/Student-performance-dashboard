@@ -140,7 +140,7 @@ we hosted the dashboard for you to easily view it from [this link](https://stude
 │   └── cleaned_data.csv           # Cleaned input dataset
 ├── visualization/
 │   └──visuals_notebook.ipynb      # Visualization notebook
-│   └──notebook_readme.md          # Notebook documentation
+│   └──readme.md          # Notebook documentation
 │   └──streamlit_readme.md         #streamlit documentation
 ├── README.md                      # Project documentation
 └── requirements.txt               # Dependencies list

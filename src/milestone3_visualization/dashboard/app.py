@@ -11,7 +11,7 @@ start_time = time.time()
 
 @st.cache_data(ttl=3600)  # Cache for 1 hour
 def load_and_clean_data():
-    df = pd.read_csv("work ready data/cleaned_data.csv")
+    df = pd.read_csv("../../../data/processed/cleaned_data.csv")
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
     df['score'] = df['score'].round(1)
     

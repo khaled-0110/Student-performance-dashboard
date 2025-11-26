@@ -1,127 +1,69 @@
 # 🎓 Student Performance Data Visualization Notebook
 
-This notebook visualizes student performance and attendance trends based on the cleaned dataset prepared by the data preprocessing team.  
-It represents the **Visualization & Dashboard** milestone of the *Student Performance Dashboard Project*.
-
----
+This notebook explores and visualizes student academic performance and attendance trends using the cleaned dataset from Milestone 1. It fulfills the **Visualization & Reporting** requirements of the Student Performance Dashboard project.
 
 ## 🧩 Overview
+
 The goal of this notebook is to:
-- Explore and visualize academic performance across subjects.
-- Identify patterns and trends in scores and attendance.
-- Provide visual insights that can later be used in a dashboard or final presentation.
+- Explore performance across subjects
+- Identify trends in scores and attendance over time
+- Generate visual insights for educators and administrators
 
-All analysis is performed in **Python** using `pandas`, `matplotlib`, and `seaborn`.
-
----
+All analysis is performed in Python using **pandas**, **matplotlib**, and **seaborn**.
 
 ## 📘 Notebook Structure
 
-### 1️⃣ Importing Libraries and Loading the Dataset
-This section imports the required Python libraries for data manipulation and visualization:
-- `pandas` for data handling and cleaning.
-- `matplotlib.pyplot` and `seaborn` for creating visualizations.
+### 1️⃣ Importing Libraries & Loading Data
+- Loads `cleaned_data.csv` from `data/processed/`
+- Applies final cleaning:
+  - Converts `date` to datetime
+  - Rounds scores to 1 decimal
+  - Replaces `"Unknown"` attendance with `"Absent"`
+  - Removes rows with `"Unknown"` in `name` or `subject`
+  - Standardizes capitalization
 
-The dataset (`cleaned_file.csv`) is loaded and cleaned by:
-- Converting the `date` column to proper datetime format.
-- Rounding all `score` values to one decimal place.
-- Replacing `"Unknown"` values in `attendance` with `"Absent"`.
-- Removing rows where `subject` or `name` was `"Unknown"`.
-- Standardizing capitalization for consistency.
-
-This ensures clean and uniform data for analysis.
-
----
-
-### 2️⃣ Date and Time Feature Extraction
-New time-based columns are added to facilitate trend analysis:
-- `year` → Extracted from `date`.
-- `month` → Extracted from `date`.
-- `year_month` → Combines year and month (e.g., `2023-09`) for smoother monthly grouping.
-
-These fields are later used to track how scores and attendance evolve over time.
-
----
+### 2️⃣ Date & Time Feature Extraction
+New columns added:
+- `year`
+- `month`
+- `year_month` (e.g., `2023-09`) → used for monthly grouping
 
 ### 3️⃣ Average Score Trends by Subject
-This visualization examines how average student scores change across time for each subject.
-
-**Process:**
-- Group by `subject` and `year_month` to calculate the mean `score`.
-- Apply a 3-month rolling average to smooth fluctuations.
-- Plot line graphs for each subject with distinct colors.
-
-**Insights:**
-- Reveals seasonal or long-term patterns.
-- Helps compare progress between different subjects.
-
-Each subject’s trend line helps educators identify which subjects show steady improvement or decline.
-
----
+- Groups by `subject` and `year_month`
+- Applies 3-month rolling average
+- Plots line chart per subject  
+✅ *Reveals seasonal patterns and subject progress*
 
 ### 4️⃣ Attendance vs Performance Category
-This plot explores the relationship between **attendance** and **performance level** (High, Medium, Low).
-
-A `countplot` compares the number of records for “Present” vs “Absent” students in each performance category.
-
-**Purpose:**
-- Identify if attendance impacts performance.
-- Highlight how many top performers maintain consistent attendance.
-
----
+- Countplot comparing `"Present"` vs `"Absent"` across `"High"`, `"Medium"`, `"Low"`  
+✅ *Shows correlation between attendance and performance*
 
 ### 5️⃣ Attendance Rate Heatmap
-A heatmap visualizing attendance percentages across **subjects** and **months**.
-
-**Steps:**
-- Convert attendance values to numerical (1 for Present, 0 for Absent).
-- Create a pivot table showing attendance rate per subject per month.
-- Visualize with `seaborn.heatmap`.
-
-**Insights:**
-- Darker areas indicate higher attendance.
-- Quickly reveals months or subjects with low participation or engagement.
-
----
+- Converts attendance to numeric (1 = Present, 0 = Absent)
+- Creates pivot table: **subject × month**
+- Visualizes attendance % as a heatmap  
+✅ *Highlights low-engagement months or subjects*
 
 ### 6️⃣ Performance Distribution Across Subjects
-This section compares how many students fall into each performance category (High, Medium, Low) across different subjects.
-
-A `countplot` shows:
-- Number of students per performance level.
-- Variation in student achievement between subjects.
-
-**Use Case:**
-- Detect subjects where most students struggle.
-- Identify where teaching methods might need adjustment.
-
----
+- Countplot of performance categories per subject  
+✅ *Identifies subjects where students struggle or excel*
 
 ### 7️⃣ Data Preview
-Displays the first 50 rows of the cleaned dataset to verify:
-- Correct formatting for `date`.
-- No “Unknown” values remain.
-- Properly capitalized and standardized fields.
+- Displays first 50 rows to validate:
+  - Date formatting
+  - Cleaned "Unknown" values
+  - Consistent capitalization
 
-This serves as a final validation step before using the data for dashboard development.
-
----
-
-## 📊 Summary
-Through the notebook, we:
-- Cleaned and standardized the dataset.
-- Visualized trends in performance and attendance.
-- Gained insight into how student scores evolve over time.
-- Identified the relationship between attendance and academic success.
-
-These visual results form the foundation for the **final dashboard** and **project presentation** in the next milestone.
-
----
+## 📊 Summary of Insights
+- Attendance strongly correlates with high performance
+- Score trends reveal steady improvement in core subjects
+- Certain months show dips in attendance (e.g., exam periods)
+- Visualization outputs feed directly into the Streamlit dashboard
 
 ## 🧠 Tools Used
-| Category | Libraries |
-|-----------|------------|
-| Data Processing | pandas |
-| Visualization | matplotlib, seaborn |
-| File Format | CSV |
-| Notebook Environment | Jupyter Notebook |
+| Category         | Libraries                |
+|------------------|--------------------------|
+| Data Processing  | `pandas`                 |
+| Visualization    | `matplotlib`, `seaborn`  |
+| Environment      | Jupyter Notebook         |
+| Data Format      | CSV (`cleaned_data.csv`) |

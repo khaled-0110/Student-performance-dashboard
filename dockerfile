@@ -6,6 +6,6 @@ RUN apt-get update && apt-get install -y build-essential
 USER airflow
 
 # Install dbt + duckdb
-COPY requirements.txt /opt/airflow/requirements.txt
-RUN pip install -r /opt/airflow/requirements.txt
+#COPY requirements.txt /opt/airflow/requirements.txt
+#RUN pip install -r /opt/airflow/requirements.txt
 RUN pip install dbt-duckdb

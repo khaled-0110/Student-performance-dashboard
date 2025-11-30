@@ -2,9 +2,9 @@ from datetime import datetime
 from airflow import DAG
 from airflow.operators.bash import BashOperator
 
-# Define paths inside the Airflow container
 DBT_PROJECT_DIR = "/opt/airflow/include/dbt"
 DBT_PROFILES_DIR = "/opt/airflow/include/dbt"
+DBT_EXECUTABLE = "/home/airflow/.local/bin/dbt"  # ← add this
 
 with DAG(
     "dbt_student_performance",
@@ -15,7 +15,7 @@ with DAG(
 
     dbt_seed = BashOperator(
         task_id="dbt_seed",
-        bash_command=f"cd {DBT_PROJECT_DIR} && dbt seed",
+        bash_command=f"cd {DBT_PROJECT_DIR} && {DBT_EXECUTABLE} seed",
         env={
             "DBT_PROFILES_DIR": DBT_PROFILES_DIR,
         },
@@ -23,7 +23,7 @@ with DAG(
 
     dbt_run = BashOperator(
         task_id="dbt_run",
-        bash_command=f"cd {DBT_PROJECT_DIR} && dbt run",
+        bash_command=f"cd {DBT_PROJECT_DIR} && {DBT_EXECUTABLE} run",
         env={
             "DBT_PROFILES_DIR": DBT_PROFILES_DIR,
         },

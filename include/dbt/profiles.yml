@@ -1,0 +1,8 @@
+student_performance:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /opt/airflow/data/student_performance.duckdb   # ← this creates a persistent file!
+      # Optional: enable if you use HTTP/Parquet later
+      # extensions: ['httpfs', 'json']

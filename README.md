@@ -133,7 +133,7 @@ with DAG(
 
 ---
 
-## 📊 4. Streamlit Dashboard
+## 📊 4. [Streamlit Dashboard](https://khaled-0110-student-performance-dashboard-app-gtqepr.streamlit.app/)
 
 ### File: `streamlit_app/app.py`
 ```python
